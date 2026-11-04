@@ -1,0 +1,18 @@
+#heading1{
+    color: red;
+}
+#heading2{
+    color: blue;
+}
+.heading_1_class{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: antiquewhite;
+    background-color: aliceblue;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    border: none;
+}
