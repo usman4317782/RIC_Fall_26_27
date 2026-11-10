@@ -1,0 +1,20 @@
+/* h1{
+    color: aquamarine;
+    font-size: medium;
+} */
+
+
+#firstHeading{
+    color: aquamarine;
+    font-size: medium;
+}
+#secondHeading{
+    color: red;
+    font-size: medium;
+}
+
+.firstClass{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 20px;
+    font-size: larger;
+}
