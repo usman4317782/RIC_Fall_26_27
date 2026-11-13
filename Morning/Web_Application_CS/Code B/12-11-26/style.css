@@ -1,0 +1,20 @@
+/* method 1 by ID - ID must be unique */
+#para1 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: yellow;
+    background-color: red;
+}
+
+
+.para2 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: black;
+}
+
+
+/* p{
+
+} */
