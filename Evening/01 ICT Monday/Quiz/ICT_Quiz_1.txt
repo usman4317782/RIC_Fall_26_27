@@ -1,0 +1,358 @@
+
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║               DEPARTMENT OF INFORMATION & COMMUNICATION TECHNOLOGY              ║
+║                         		QUIZ — 1                           ║
+║                   Topics: ICT in Daily Life | Computer Systems                  ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║  Student Name: _________________________   Roll No: __________________________  ║
+║  Date: November 23, 2026               Class/Section: _______________________  ║
+║  Instructor: ___________________________   Total Marks: 20                      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                              INSTRUCTIONS FOR STUDENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  
+  > SUBMISSION RULES:
+      - PRINT this document and submit your PRINTED copy with HANDWRITTEN answers.
+      - If a printer is not available, neatly write the ENTIRE quiz on A4 paper
+        (copy questions then write answers), and submit the handwritten version.
+      - Diagrams MUST be drawn by hand with a pencil or pen — no pasting images.
+      - Label every diagram clearly with arrows and titles.
+
+  > TIME LIMIT: 60 Minutes
+  > TOTAL MARKS: 20
+  > Any form of copying from another student = ZERO marks for both students.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   SECTION A — REAL-WORLD SYSTEM ANALYSIS (Practical + Critical Thinking)
+   Marks: 8  |  Questions: Q1, Q2, Q3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q1. LIVE TOOL TASK — Computer-Based System in Action          [3 Marks]
+─────────────────────────────────────────────────────────────────────
+
+  Using your phone or any free online tool, visit ONE of the following websites:
+
+      Option A: HBL Internet Banking demo page  →  hbl.com
+      Option B: WHO Health Information System   →  who.int
+
+  After exploring the site for 5–10 minutes, answer the following:
+
+  (a) Which Computer-Based System category does this website represent?
+      (Choose from: School Management / Booking / Banking / Medical / Expert
+       System / Retail / Recognition / Satellite)
+
+      Your answer: _____________________________________________________________
+
+  (b) Draw a DATA FLOW DIAGRAM (DFD) showing how a user interacts with this
+      system. Your diagram must include:
+          - At least ONE input from the user
+          - ONE process/action by the system
+          - ONE output returned to the user
+          - Arrows showing direction of data flow
+
+      ┌─────────────────────────────────────────────────────────────────────────┐
+      │                                                                         │
+      │                     Draw your DFD here (hand-drawn):                   │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      └─────────────────────────────────────────────────────────────────────────┘
+
+  (c) Name ONE real-world problem that CANNOT be solved by this system,
+      and explain why in one sentence.
+
+      ___________________________________________________________________________
+      ___________________________________________________________________________
+
+─────────────────────────────────────────────────────────────────────────────────
+
+Q2. COMPARATIVE ANALYSIS — Input vs. Output Devices             [2 Marks]
+─────────────────────────────────────────────────────────────────────────
+
+  The table below lists 6 devices. For EACH device:
+      (i)   Mark it as INPUT (I), OUTPUT (O), or BOTH (B)
+      (ii)  Write ONE real-life use case specific to Pakistan (not a generic use)
+
+  ┌────┬──────────────────────────┬────────────────┬──────────────────────────────┐
+  │ No │       Device             │   I / O / B    │   Real-Life Use Case         │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 1  │  Biometric Scanner       │                │                              │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 2  │  Touch Screen            │                │                              │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 3  │  OMR Reader              │                │                              │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 4  │  3D Printer              │                │                              │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 5  │  RFID Reader             │                │                              │
+  ├────┼──────────────────────────┼────────────────┼──────────────────────────────┤
+  │ 6  │  Multimedia Projector    │                │                              │
+  └────┴──────────────────────────┴────────────────┴──────────────────────────────┘
+
+─────────────────────────────────────────────────────────────────────────────────
+
+Q3. SCENARIO-BASED PROBLEM SOLVING                              [3 Marks]
+─────────────────────────────────────────────────────────────────────────
+
+  Read the scenario carefully and answer all parts:
+
+  SCENARIO:
+  A large private hospital in Karachi wants to digitise its operations.
+  Currently, doctors write prescriptions by hand, patient records are kept
+  in paper files, and pharmacy stock is tracked using a register. The hospital
+  board wants to invest in a modern ICT-based setup.
+
+  (a) Recommend TWO specific computer-based systems (from your syllabus) that
+      this hospital should implement. For each one, state what problem it solves.
+
+      System 1: _____________________ solves: _____________________________________
+      _____________________________________________________________________________
+
+      System 2: _____________________ solves: _____________________________________
+      _____________________________________________________________________________
+
+  (b) Using a free tool such as draw.io (diagrams.net), Canva, or paper,
+      create a SYSTEM DIAGRAM showing how ONE of your recommended systems
+      will work inside the hospital. Include:
+          - At least 3 components (devices, people, or software modules)
+          - Connections/arrows showing data or workflow
+          - Labels on every component
+
+      Draw your diagram below (hand-drawn):
+
+      ┌─────────────────────────────────────────────────────────────────────────┐
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      └─────────────────────────────────────────────────────────────────────────┘
+
+  (c) Identify ONE RISK of implementing this ICT system in the hospital and
+      suggest ONE practical solution for that risk.
+
+      Risk: _____________________________________________________________________
+      Solution: _________________________________________________________________
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   SECTION B — HARDWARE & CPU INTERNALS (Diagram + Technical)
+   Marks: 7  |  Questions: Q4, Q5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q4. CPU DIAGRAM & ANALYSIS                                      [4 Marks]
+─────────────────────────────────────────────────────────────────────────
+
+  (a) Draw a LABELLED DIAGRAM of the Central Processing Unit (CPU) showing:
+          - Arithmetic Logic Unit (ALU)
+          - Control Unit (CU)
+          - Registers (at least 2 named registers)
+          - Cache Memory
+          - System Bus (connecting CPU to RAM)
+
+      Your diagram MUST include arrows showing the direction of data/instruction
+      flow between components.
+
+      ┌─────────────────────────────────────────────────────────────────────────┐
+      │                                                                         │
+      │                     Draw CPU Diagram here:                              │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      │                                                                         │
+      └─────────────────────────────────────────────────────────────────────────┘
+
+  (b) A student says: "RAM and ROM are the same because both store data."
+      Write TWO specific differences that prove the student is WRONG.
+
+      Difference 1: _______________________________________________________________
+      ____________________________________________________________________________
+
+      Difference 2: _______________________________________________________________
+      ____________________________________________________________________________
+
+  (c) A computer has the following memory specs:
+          - L1 Cache: 256 KB
+          - L2 Cache: 4 MB
+          - RAM: 8 GB
+          - ROM: 32 MB
+
+      Arrange these in order from FASTEST to SLOWEST and explain why cache
+      memory is placed closest to the CPU.
+
+      Order (fastest → slowest): ________________________________________________
+
+      Explanation (1–2 sentences): _______________________________________________
+      ___________________________________________________________________________
+
+─────────────────────────────────────────────────────────────────────────────────
+
+Q5. STORAGE DEVICE SELECTION TASK                               [3 Marks]
+─────────────────────────────────────────────────────────────────────────
+
+  Read the three user situations below. For EACH situation:
+      (i)  Recommend the MOST suitable storage device (be specific, e.g.
+           "Portable SSD", not just "SSD")
+      (ii) State ONE advantage AND ONE disadvantage of your chosen device
+           for that specific situation.
+
+  ┌────────────────────────────────────────────────────────────────────────────────┐
+  │ SITUATION 1:                                                                   │
+  │ A journalist is covering live events across Pakistan and needs to store         │
+  │ 500 GB of raw 4K video footage. She travels daily and cannot carry a           │
+  │ laptop. She needs fast transfer speeds and durability.                         │
+  ├────────────────────────────────────────────────────────────────────────────────┤
+  │ Recommended Device: ___________________________________________________________│
+  │ Advantage: __________________________________________________________________  │
+  │ Disadvantage: _______________________________________________________________  │
+  └────────────────────────────────────────────────────────────────────────────────┘
+
+  ┌────────────────────────────────────────────────────────────────────────────────┐
+  │ SITUATION 2:                                                                   │
+  │ A bank needs to archive 10 years of transaction records (approx. 50 TB).       │
+  │ The data will almost never be accessed after storage. Cost efficiency is       │
+  │ the top priority.                                                              │
+  ├────────────────────────────────────────────────────────────────────────────────┤
+  │ Recommended Device: ___________________________________________________________│
+  │ Advantage: __________________________________________________________________  │
+  │ Disadvantage: _______________________________________________________________  │
+  └────────────────────────────────────────────────────────────────────────────────┘
+
+  ┌────────────────────────────────────────────────────────────────────────────────┐
+  │ SITUATION 3:                                                                   │
+  │ A university student wants to submit a 2 GB project to their lecturer.         │
+  │ The lecturer's office has no internet connection. The device must be small     │
+  │ and cheap enough to leave behind.                                              │
+  ├────────────────────────────────────────────────────────────────────────────────┤
+  │ Recommended Device: ___________________________________________________________│
+  │ Advantage: __________________________________________________________________  │
+  │ Disadvantage: _______________________________________________________________  │
+  └────────────────────────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   SECTION C — DIRECT DATA ENTRY & RECOGNITION SYSTEMS (Applied)
+   Marks: 5  |  Question: Q6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q6. LIVE SCAN & MATCH TASK                                      [5 Marks]
+─────────────────────────────────────────────────────────────────────────
+
+  PART A — QR CODE SCAN TASK  [2 Marks]
+  ─────────────────────────────────────
+  Using your phone's camera or any free QR scanning app:
+
+  Step 1: Create a FREE QR code using any online generator
+          (suggested: qr-code-generator.com or qrcode-monkey.com).
+          Encode the following text into your QR code:
+              "ICT Quiz 2026 — [Your Roll Number]"
+
+  Step 2: Scan your own QR code using a different app or device.
+
+  Step 3: Take a screenshot and answer:
+
+  (a) What type of data can a QR code store that a traditional barcode CANNOT?
+
+      ___________________________________________________________________________
+
+  (b) In which TWO real-life settings in Pakistan would a QR code be more
+      effective than a barcode? Give specific examples.
+
+      1. ________________________________________________________________________
+      2. ________________________________________________________________________
+
+  (c) Draw a simple comparison showing the visual structure difference between
+      a Barcode and a QR Code (you do NOT need to draw exact lines — just
+      show the structural layout difference with labels).
+
+      BARCODE:                              QR CODE:
+      ┌───────────────────┐               ┌───────────────────┐
+      │                   │               │                   │
+      │                   │               │                   │
+      │                   │               │                   │
+      └───────────────────┘               └───────────────────┘
+
+
+  PART B — RECOGNITION SYSTEM MATCHING  [3 Marks]
+  ─────────────────────────────────────────────────
+  Match each scenario (Column A) with the MOST appropriate data entry /
+  recognition technology (Column B). Write the correct letter in the blank.
+
+  COLUMN A — Scenario                              COLUMN B — Technology
+  ────────────────────────────────                 ─────────────────────
+  __ 1. A student appears for NADRA biometric      A. OCR (Optical Character
+         verification to get their CNIC.                Recognition)
+                                                   B. Magnetic Stripe Reader
+  __ 2. A patient's handwritten prescription       C. Chip and PIN Reader
+         is converted to digital text by a         D. RFID
+         hospital's computer.                      E. Facial Recognition
+                                                   F. OMR (Optical Mark
+  __ 3. A shopper pays for groceries by                Recognition)
+         inserting their debit card and
+         entering a 4-digit code.
+
+  __ 4. A university automatically counts
+         correct bubbles on a multiple-choice
+         answer sheet.
+
+  __ 5. A warehouse tracks the movement of
+         thousands of products without scanning
+         each item individually — the system
+         reads radio signals from tags on boxes.
+
+  __ 6. An old bank customer's card is swiped
+         through a slot at an ATM to read
+         account details stored on a brown
+         stripe on the back.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                 MARKS SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─────────────────────────────────────┬──────────┬──────────┐
+  │ Section / Question                  │ Max Marks│ Obtained │
+  ├─────────────────────────────────────┼──────────┼──────────┤
+  │ Q1 — Live Tool Task (DFD)           │    3     │          │
+  │ Q2 — Input/Output Table             │    2     │          │
+  │ Q3 — Hospital Scenario + Diagram    │    3     │          │
+  │ Q4 — CPU Diagram & Memory Analysis  │    4     │          │
+  │ Q5 — Storage Device Selection       │    3     │          │
+  │ Q6 — QR Scan + Recognition Matching │    5     │          │
+  ├─────────────────────────────────────┼──────────┼──────────┤
+  │ TOTAL                               │   20     │          │
+  └─────────────────────────────────────┴──────────┴──────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                           FOR INSTRUCTOR USE ONLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ANSWER KEY (Matching — Q6 Part B):
+      1 → E    2 → A    3 → C    4 → F    5 → D    6 → B
+
+  MARKING NOTES:
+  - Q1(b): Award marks for correct directional arrows and minimum 3 elements.
+  - Q3(b): Award marks for logical layout; exact aesthetics are not required.
+  - Q4(a): Award marks if all 5 labelled components are present with arrows.
+  - Q5: Accept any well-justified device; deduct 0.5 if no specific type given.
+  - Q6(a): Do NOT require student to paste QR code image — verbal/drawing is fine.
+
+  Instructor Signature: _____________________   Date Checked: _________________
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                 ICT Department | Quiz 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
