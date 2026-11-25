@@ -1,0 +1,1447 @@
+================================================================
+   ICT COMPETITION PREPARATION — MULTIPLE CHOICE QUESTIONS
+                          SET 5
+================================================================
+
+────────────────────────────────────────────────────────────────
+TOPIC 1: THE ROLE OF ICT IN DAILY LIFE & COMPUTER-BASED SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q1. A streaming music service analyses a user's listening
+    history and automatically generates a playlist of songs
+    they are likely to enjoy. This feature is an example of:
+
+    A) A satellite-based recognition system
+    B) A recommendation engine using data analytics and
+       algorithmic decision-making
+    C) A booking and reservation system
+    D) A school management sub-system
+
+    Correct Answer: B
+
+---
+
+Q2. Which of the following is an example of ICT being used
+    to assist people with physical disabilities in their
+    daily lives?
+
+    A) A barcode scanner at a supermarket checkout
+    B) An online hotel booking portal
+    C) Eye-tracking software that allows a person to control
+       a computer using only their eye movements
+    D) A satellite navigation system in a delivery van
+
+    Correct Answer: C
+
+---
+
+Q3. A government uses ICT to allow citizens to file tax
+    returns, renew driving licences, and apply for permits
+    online. This is referred to as:
+
+    A) Expert system deployment
+    B) E-government services
+    C) Retail management automation
+    D) Satellite-based identity verification
+
+    Correct Answer: B
+
+---
+
+Q4. The introduction of self-service checkouts in supermarkets
+    is an example of ICT causing which type of change to
+    the workforce?
+
+    A) An increase in the number of cashier jobs available
+    B) Structural unemployment as routine tasks are automated,
+       reducing demand for certain human roles
+    C) A permanent end to all retail employment
+    D) An increase in the need for manual stocktaking staff
+
+    Correct Answer: B
+
+---
+
+Q5. In medicine, robotic surgery systems allow surgeons to
+    perform operations with greater precision. The surgeon's
+    hand movements are:
+
+    A) Replaced entirely by an artificial intelligence system
+    B) Translated into smaller, more precise movements
+       performed by robotic arms controlled in real time
+    C) Recorded and replayed automatically in future operations
+    D) Monitored by satellite to ensure accuracy
+
+    Correct Answer: B
+
+---
+
+Q6. A digital library allows students to borrow e-books and
+    academic journals online without visiting a physical
+    building. This is primarily an example of ICT:
+
+    A) Replacing the need for all printed materials globally
+    B) Improving access to information and resources regardless
+       of the user's geographic location
+    C) Reducing the quality of academic research
+    D) Eliminating the role of librarians entirely
+
+    Correct Answer: B
+
+---
+
+Q7. Which of the following correctly describes a potential
+    negative effect of increased ICT use on the environment?
+
+    A) ICT reduces all forms of energy consumption globally
+    B) Data centres consume large amounts of electricity and
+       generate significant heat, contributing to carbon
+       emissions if powered by fossil fuels
+    C) Manufacturing smartphones has no environmental impact
+    D) Cloud computing always reduces a company's carbon
+       footprint compared to on-premise servers
+
+    Correct Answer: B
+
+---
+
+Q8. An airline uses a computer system to dynamically adjust
+    ticket prices based on demand, booking dates, and remaining
+    seat availability. This is best described as:
+
+    A) A recognition system using image processing
+    B) An expert system diagnosing technical faults
+    C) An automated pricing and revenue management system
+    D) A satellite-based passenger tracking system
+
+    Correct Answer: C
+
+---
+
+Q9. ICT has changed the way people work by enabling remote
+    working. Which of the following is a disadvantage of
+    working from home using ICT?
+
+    A) Employees can access work files from any location
+    B) Businesses can reduce office space costs
+    C) The boundary between work and personal life can
+       become blurred, potentially affecting wellbeing
+    D) Video conferencing tools are unavailable for home use
+
+    Correct Answer: C
+
+---
+
+Q10. A fire detection system in a building uses heat and smoke
+     sensors connected to a central computer that automatically
+     triggers alarms and alerts the fire brigade. This system
+     is best categorised as:
+
+     A) A booking system
+     B) A retail management system
+     C) A satellite communication system
+     D) An automated real-time monitoring and response system
+
+    Correct Answer: D
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 2: MAIN COMPONENTS OF COMPUTER SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q11. A script written in Python that automates repetitive file
+     management tasks on a computer is best categorised as:
+
+    A) Physical hardware component
+    B) Communication technology
+    C) Software (a program or script)
+    D) Internal memory module
+
+    Correct Answer: C
+
+---
+
+Q12. The purpose of a heat sink and cooling fan attached to
+     a CPU is to:
+
+    A) Increase the clock speed of the processor
+    B) Store temporary data when the cache is full
+    C) Dissipate heat generated by the CPU to prevent
+       thermal damage and maintain stable operation
+    D) Connect the CPU to the network interface card
+
+    Correct Answer: C
+
+---
+
+Q13. Which of the following correctly describes the role of
+     the GPU (Graphics Processing Unit) in a gaming computer?
+
+    A) It manages file storage and retrieval from the hard drive
+    B) It handles the complex mathematical calculations
+       required to render 3D graphics and display them
+       on screen at high frame rates
+    C) It controls the speed of the CPU's clock
+    D) It manages network communication for online gaming
+
+    Correct Answer: B
+
+---
+
+Q14. A virtual machine (VM) allows:
+
+    A) Multiple physical computers to share one monitor
+    B) One physical computer to run multiple separate operating
+       systems simultaneously, each isolated from the others
+    C) A computer to access RAM from a remote server
+    D) Software to be installed without an operating system
+
+    Correct Answer: B
+
+---
+
+Q15. Which of the following is an example of open-source
+     software that is widely used in servers and computing?
+
+    A) Microsoft Windows
+    B) Adobe Photoshop
+    C) Linux operating system
+    D) Apple macOS
+
+    Correct Answer: C
+
+---
+
+Q16. The function of an ethernet port on a computer is to:
+
+    A) Connect the computer to a display monitor
+    B) Provide a wired network connection using an ethernet
+       cable to a router or switch
+    C) Supply power to external USB devices
+    D) Connect the computer to a Bluetooth device
+
+    Correct Answer: B
+
+---
+
+Q17. Which of the following best describes what happens when
+     an operating system crashes?
+
+    A) The CPU physically overheats and shuts down permanently
+    B) All data stored on the hard drive is immediately deleted
+    C) The OS encounters an unrecoverable error and can no
+       longer manage the computer's hardware and processes,
+       requiring a restart
+    D) The screen goes blank because the monitor runs out
+       of power
+
+    Correct Answer: C
+
+---
+
+Q18. A barcode scanner connected to a point-of-sale system
+     communicates with the central computer. The network
+     cable or wireless link connecting them belongs to which
+     component category?
+
+    A) Software and programs
+    B) Physical input hardware
+    C) Communication technology
+    D) Internal memory
+
+    Correct Answer: C
+
+---
+
+Q19. Which of the following is NOT a responsibility of an
+     operating system?
+
+    A) Providing a user interface
+    B) Managing input and output operations
+    C) Writing and compiling application source code
+    D) Handling error detection and reporting
+
+    Correct Answer: C
+
+---
+
+Q20. The difference between 32-bit and 64-bit operating systems
+     is most significant in terms of:
+
+    A) The number of monitors the computer can support
+    B) The types of storage devices the computer can use
+    C) The maximum amount of RAM the OS can address and
+       use effectively
+    D) The speed of the internet connection
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 3: TYPES OF COMPUTERS, CPU & INTERNAL MEMORY
+────────────────────────────────────────────────────────────────
+
+Q21. A supercomputer differs from a mainframe computer mainly
+     in that a supercomputer:
+
+    A) Is designed for processing business transactions
+       for thousands of simultaneous users
+    B) Is optimised for extremely fast scientific and
+       mathematical calculations, often using parallel
+       processing across thousands of cores
+    C) Is smaller and cheaper than a mainframe
+    D) Is designed primarily for personal desktop use
+
+    Correct Answer: B
+
+---
+
+Q22. The Harvard architecture differs from the von Neumann
+     architecture in that it:
+
+    A) Uses a single memory space for both instructions
+       and data
+    B) Has no cache memory between the CPU and RAM
+    C) Uses separate memory storage and pathways for
+       instructions and data, allowing them to be fetched
+       simultaneously
+    D) Cannot execute more than one instruction at a time
+
+    Correct Answer: C
+
+---
+
+Q23. Hyper-threading technology in a CPU allows:
+
+    A) The CPU to run at double its rated clock speed
+    B) A single physical CPU core to handle two threads
+       simultaneously, improving efficiency when one thread
+       is waiting on data
+    C) Multiple CPUs to share the same RAM module
+    D) The CPU to increase its core count automatically
+       under heavy load
+
+    Correct Answer: B
+
+---
+
+Q24. A programmable logic controller (PLC) is a type of
+     computer commonly found in:
+
+    A) Home desktop computing setups
+    B) Portable tablets used by field workers
+    C) Industrial environments controlling machinery,
+       assembly lines, and automated processes
+    D) School computer labs for student use
+
+    Correct Answer: C
+
+---
+
+Q25. When a computer has insufficient RAM for running
+     processes, it uses virtual memory. The main drawback
+     of this is:
+
+    A) Virtual memory permanently deletes unused programs
+    B) Virtual memory is much slower than RAM because it
+       uses a portion of the hard drive, which has
+       significantly longer access times
+    C) Virtual memory reduces the number of cores available
+    D) Virtual memory causes the CPU to overheat rapidly
+
+    Correct Answer: B
+
+---
+
+Q26. The word length of a CPU refers to:
+
+    A) The number of characters the CPU can display on screen
+    B) The clock speed measured in GHz
+    C) The number of bits the CPU can process in a single
+       operation, commonly 32-bit or 64-bit
+    D) The physical length of the processor chip in millimetres
+
+    Correct Answer: C
+
+---
+
+Q27. SRAM (Static RAM) differs from DRAM (Dynamic RAM) in
+     that SRAM:
+
+    A) Requires constant refreshing to retain its data
+    B) Is slower and cheaper, making it suitable for main RAM
+    C) Does not need refreshing and is faster but more
+       expensive, making it ideal for CPU cache memory
+    D) Is a form of non-volatile permanent storage
+
+    Correct Answer: C
+
+---
+
+Q28. A point-of-sale terminal in a shop is best described
+     as what type of computer?
+
+    A) Mainframe computer
+    B) Supercomputer
+    C) Dedicated embedded or specialised computer system
+    D) General-purpose desktop computer
+
+    Correct Answer: C
+
+---
+
+Q29. The purpose of the program counter (PC) register in
+     a CPU is to:
+
+    A) Count how many programs the user has installed
+    B) Store the memory address of the next instruction
+       to be fetched and executed
+    C) Track how many seconds the computer has been running
+    D) Hold the result of the most recent arithmetic operation
+
+    Correct Answer: B
+
+---
+
+Q30. Increasing the number of CPU cores is MOST beneficial
+     for which type of workload?
+
+    A) Opening a single web page in a browser
+    B) Playing a simple 2D game
+    C) Tasks that can be divided into independent parallel
+       threads, such as video encoding, 3D rendering, or
+       running multiple virtual machines
+    D) Typing a document in a word processor
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 4: INPUT DEVICES, OUTPUT DEVICES & DIRECT DATA ENTRY
+────────────────────────────────────────────────────────────────
+
+Q31. A self-service kiosk at an airport allows passengers to
+     check in by scanning their passport and pressing buttons
+     on a touch screen. The passport scanner in this system
+     is functioning as a:
+
+    A) Output device displaying boarding information
+    B) Direct data entry input device reading the passport's
+       machine-readable zone
+    C) Storage device saving the passenger's data
+    D) Processing unit verifying flight details
+
+    Correct Answer: B
+
+---
+
+Q32. Which of the following output devices would be MOST
+     suitable for a visually impaired user who needs to
+     read text from a computer?
+
+    A) Multimedia projector
+    B) Laser printer
+    C) Refreshable Braille display
+    D) Dot matrix printer
+
+    Correct Answer: C
+
+---
+
+Q33. A digital pen used with a smart notebook captures
+     handwritten notes and converts them into digital text.
+     The digital pen functions as a/an:
+
+    A) Output device
+    B) Storage device
+    C) Input device using handwriting recognition
+    D) Communication device only
+
+    Correct Answer: C
+
+---
+
+Q34. In a warehouse management system, workers use handheld
+     RFID readers to track stock. The advantage of RFID
+     over barcode scanning in this context is:
+
+    A) RFID tags are cheaper than printed barcodes
+    B) RFID readers can scan multiple tagged items at once
+       without needing a clear line of sight to each tag
+    C) RFID stores less data per tag than a barcode
+    D) RFID requires physical contact with each item
+
+    Correct Answer: B
+
+---
+
+Q35. A haptic feedback controller used in gaming vibrates
+     to simulate in-game events. The vibration motor in
+     the controller is functioning as an:
+
+    A) Input sensor collecting player movement data
+    B) Storage component saving game progress
+    C) Output device providing tactile feedback to the user
+    D) Processing unit calculating physics in the game
+
+    Correct Answer: C
+
+---
+
+Q36. Voice recognition software that converts spoken words
+     into editable text is using the microphone as an input
+     device and which process?
+
+    A) Optical character recognition
+    B) Magnetic stripe reading
+    C) Natural language processing to interpret and
+       transcribe the audio input
+    D) Radio frequency identification of vocal patterns
+
+    Correct Answer: C
+
+---
+
+Q37. A 3D printer creates a physical object by:
+
+    A) Scanning an existing object and storing a digital copy
+    B) Melting and depositing material layer by layer
+       according to a digital design file
+    C) Carving material away from a solid block using lasers
+    D) Projecting a holographic image of the design
+
+    Correct Answer: B
+
+---
+
+Q38. Which of the following correctly identifies the output
+     produced by a speaker connected to a computer?
+
+    A) Visual output displayed on a screen
+    B) Printed output on paper
+    C) Audio output converted from digital signals
+       into sound waves
+    D) Tactile output through vibration
+
+    Correct Answer: C
+
+---
+
+Q39. An inkjet printer produces output by:
+
+    A) Using heat to fuse toner powder onto paper
+    B) Striking an ink-soaked ribbon against paper
+    C) Spraying tiny droplets of liquid ink precisely
+       onto the paper surface
+    D) Exposing photosensitive paper to laser light
+
+    Correct Answer: C
+
+---
+
+Q40. Which of the following is a key advantage of using
+     touchscreen input compared to a traditional keyboard
+     and mouse in a public information kiosk?
+
+    A) Touchscreens allow faster typing for long documents
+    B) Touchscreens require no software to operate
+    C) They provide an intuitive interface that requires
+       no prior training, is space-efficient, and suits
+       brief interactive tasks for general public use
+    D) Touchscreens are more accurate for graphic design work
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 5: STORAGE DEVICES
+────────────────────────────────────────────────────────────────
+
+Q41. The term "data transfer rate" in relation to storage
+     devices refers to:
+
+    A) The maximum amount of data the device can store
+    B) How quickly data can be read from or written to
+       the storage medium, typically measured in MB/s
+       or GB/s
+    C) The physical rotational speed of the drive's platters
+    D) The number of files that can be stored simultaneously
+
+    Correct Answer: B
+
+---
+
+Q42. A network-attached storage (NAS) device differs from
+     a standard external hard drive because NAS:
+
+    A) Can only be accessed by one computer at a time
+    B) Connects directly to a single computer via USB
+    C) Connects to a network and allows multiple users
+       and devices to access shared storage simultaneously
+       over the network
+    D) Uses optical storage rather than magnetic or
+       solid-state technology
+
+    Correct Answer: C
+
+---
+
+Q43. When comparing SSD and HDD for a laptop used mainly
+     for word processing, browsing, and email, which
+     statement is MOST accurate?
+
+    A) An HDD is preferable because it offers faster
+       random access speeds
+    B) An SSD is preferable because it boots faster, is
+       quieter, more durable, and sufficiently spacious
+       for typical everyday tasks
+    C) Both offer identical performance for these tasks
+    D) An HDD is preferable because it uses less power
+       than an SSD
+
+    Correct Answer: B
+
+---
+
+Q44. Data stored using magnetic technology is at risk from
+     degaussing. What is degaussing?
+
+    A) A process that physically scratches the storage surface
+    B) The application of a strong magnetic field that
+       randomises the magnetic patterns on the medium,
+       effectively erasing all stored data
+    C) A software process that reformats the drive
+    D) Overheating that melts the magnetic coating on
+       the drive platters
+
+    Correct Answer: B
+
+---
+
+Q45. Which of the following correctly identifies the storage
+     hierarchy from fastest to slowest access speed?
+
+    A) Hard drive → RAM → Cache → CPU registers
+    B) CPU registers → Cache → RAM → Hard drive
+    C) RAM → Cache → CPU registers → Hard drive
+    D) Cache → RAM → CPU registers → Hard drive
+
+    Correct Answer: B
+
+---
+
+Q46. A write-protected USB drive means:
+
+    A) The drive cannot be physically plugged into any device
+    B) Data can be read from the drive but nothing new can
+       be written to it or deleted from it
+    C) The drive automatically encrypts all data as it
+       is written
+    D) The drive can only be used on a single computer
+
+    Correct Answer: B
+
+---
+
+Q47. Incremental backup differs from a full backup in that
+     incremental backup:
+
+    A) Copies all data on the system regardless of when
+       it was last changed
+    B) Only backs up data that has changed since the last
+       backup was performed, saving time and storage space
+    C) Backs up only the operating system files
+    D) Requires all previous backups to be deleted first
+
+    Correct Answer: B
+
+---
+
+Q48. Which of the following correctly explains why SSDs
+     have a limited number of write cycles?
+
+    A) The magnetic coating on SSDs wears out from repeated
+       writing
+    B) Each write operation physically scratches the storage
+       cells
+    C) Flash memory cells degrade over time as electrons
+       used to store data wear down the insulating layer
+       through repeated write and erase operations
+    D) SSDs are designed to be replaced after one year of use
+
+    Correct Answer: C
+
+---
+
+Q49. A differential backup differs from an incremental backup
+     in that a differential backup:
+
+    A) Backs up only files changed since the last full backup,
+       growing larger over time until the next full backup
+    B) Backs up only files changed since the most recent
+       backup of any type
+    C) Creates an exact mirror copy of the entire storage
+       device
+    D) Only backs up the user's documents folder
+
+    Correct Answer: A
+
+---
+
+Q50. The main advantage of using RAID 1 (mirroring) in a
+     server is:
+
+    A) It doubles the available storage capacity of the
+       drives combined
+    B) It improves read and write speeds by splitting data
+       across drives
+    C) If one drive fails, an identical copy on the second
+       drive keeps the data safe and the system running
+    D) It allows the server to use drives of different sizes
+       together efficiently
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 6: THE SYSTEMS LIFE CYCLE
+────────────────────────────────────────────────────────────────
+
+Q51. A use case diagram produced during the design phase
+     is used to show:
+
+    A) The physical layout of the computer hardware
+    B) The interactions between users (actors) and the
+       system, illustrating what the system does from
+       the user's perspective
+    C) The step-by-step algorithm used in each module
+    D) The budget allocated for each development phase
+
+    Correct Answer: B
+
+---
+
+Q52. Which of the following correctly explains why the
+     systems life cycle is sometimes represented as a
+     cycle rather than a straight line?
+
+    A) Because development always takes exactly the same
+       amount of time each cycle
+    B) Because after evaluation, identified improvements
+       feed back into a new round of analysis and development,
+       so the process repeats continuously
+    C) Because testing and design happen simultaneously
+       in every project
+    D) Because users are involved only at the beginning
+       and end of each cycle
+
+    Correct Answer: B
+
+---
+
+Q53. During testing, a developer enters the value 0 into
+     a field that accepts 1 to 100. The value 0 represents:
+
+    A) Normal data
+    B) Extreme (boundary) data
+    C) Erroneous data that the system should reject
+    D) Volume test data
+
+    Correct Answer: C
+
+---
+
+Q54. A structured walkthrough involves:
+
+    A) The developer testing the code alone using automated
+       scripts
+    B) A group of developers and analysts reviewing the
+       code or design together to identify errors, improve
+       quality, and share knowledge
+    C) Users physically walking through the new office
+       where the system will be installed
+    D) A project manager inspecting the hardware setup
+
+    Correct Answer: B
+
+---
+
+Q55. The main purpose of a Gantt chart in systems development
+     is to:
+
+    A) Model the database structure of the new system
+    B) Document every test case and its expected result
+    C) Plan and visually display the schedule of project
+       tasks, their durations, and dependencies over time
+    D) Show how data flows through the system between
+       processes and data stores
+
+    Correct Answer: C
+
+---
+
+Q56. Which of the following is a potential risk of choosing
+     direct (big bang) changeover when implementing a new
+     system?
+
+    A) The old and new systems conflict with each other
+       during the transition period
+    B) Users become confused about which system to use
+       at the same time
+    C) If the new system has critical faults, there is
+       no fallback to the old system and operations may
+       be severely disrupted
+    D) The changeover takes significantly longer than
+       parallel running
+
+    Correct Answer: C
+
+---
+
+Q57. The concept of "scope creep" in systems development
+     refers to:
+
+    A) Bugs that appear only in extreme or edge-case
+       testing scenarios
+    B) The gradual, uncontrolled expansion of a project's
+       requirements beyond the original agreed specification,
+       often causing delays and cost overruns
+    C) The time it takes for users to learn a new system
+    D) The process of optimising code after the system
+       is complete
+
+    Correct Answer: B
+
+---
+
+Q58. During which phase of the systems life cycle would a
+     developer write pseudocode for the main algorithms?
+
+    A) Analysis
+    B) Implementation (coding)
+    C) Design
+    D) Evaluation
+
+    Correct Answer: C
+
+---
+
+Q59. An integration test differs from a unit test in that
+     an integration test:
+
+    A) Tests a single function or module in complete isolation
+    B) Tests how multiple modules or components work
+       together when combined, checking their interactions
+    C) Is performed only by end users after deployment
+    D) Checks the system's performance under heavy load
+
+    Correct Answer: B
+
+---
+
+Q60. The RAD (Rapid Application Development) model differs
+     from the traditional waterfall model mainly because RAD:
+
+    A) Skips the analysis phase to deliver software faster
+    B) Delivers the full system in a single release after
+       completing all phases in sequence
+    C) Emphasises quick prototyping and continuous user
+       feedback in short development cycles rather than
+       rigid sequential phases
+    D) Only works for small projects with fewer than three
+       developers
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 7: COMMUNICATION MEDIA & MOBILE COMMUNICATION
+────────────────────────────────────────────────────────────────
+
+Q61. The Internet of Things (IoT) refers to:
+
+    A) A new social networking platform for businesses
+    B) A network of physical devices embedded with sensors
+       and connectivity that collect and exchange data
+       over the internet without human intervention
+    C) A satellite system providing internet to rural areas
+    D) A type of mobile communication standard replacing 5G
+
+    Correct Answer: B
+
+---
+
+Q62. Which of the following is a disadvantage of using
+     email as a communication medium compared to a
+     face-to-face meeting?
+
+    A) Emails cannot attach documents or files
+    B) Emails are only readable on desktop computers
+    C) The tone and emotion of a message can be easily
+       misinterpreted without vocal and facial cues
+    D) Emails are always read immediately by the recipient
+
+    Correct Answer: C
+
+---
+
+Q63. A digital billboard in a city centre that changes
+     its advertisement automatically throughout the day
+     is an example of which communication medium?
+
+    A) ePublication
+    B) Dynamic digital display / digital poster
+    C) Media podcast
+    D) Forum thread
+
+    Correct Answer: B
+
+---
+
+Q64. Which of the following correctly describes the term
+     "latency" in communications?
+
+    A) The total amount of data a connection can carry
+       per second
+    B) The number of devices connected to a network
+       simultaneously
+    C) The delay between a signal being sent and received,
+       measured in milliseconds, which affects real-time
+       applications like gaming and video calls
+    D) The physical distance between a router and a device
+
+    Correct Answer: C
+
+---
+
+Q65. Satellite internet differs from fibre broadband mainly
+     in that satellite internet:
+
+    A) Is faster and has lower latency than fibre
+    B) Cannot deliver video streaming content
+    C) Can reach remote and rural areas where laying fibre
+       cables is impractical, but typically has higher
+       latency due to the signal travelling to orbit and back
+    D) Requires a physical cable connection at the property
+
+    Correct Answer: C
+
+---
+
+Q66. Which of the following is an advantage of video
+     conferencing over audio-only conferencing?
+
+    A) Video conferencing uses less bandwidth than audio
+    B) Participants can observe body language and facial
+       expressions, which improves understanding and
+       engagement in the meeting
+    C) Video conferencing does not require an internet
+       connection
+    D) Audio conferencing is always less reliable than
+       video conferencing
+
+    Correct Answer: B
+
+---
+
+Q67. A company publishes a detailed interactive annual report
+     online, with embedded charts, videos, and downloadable
+     data files. This is best described as a/an:
+
+    A) Blog
+    B) Forum
+    C) Rich ePublication
+    D) Media stream
+
+    Correct Answer: C
+
+---
+
+Q68. The main reason mobile data speeds vary depending on
+     location is:
+
+    A) The user's smartphone processor affects download speeds
+    B) Signal strength from nearby cell towers varies with
+       distance, obstacles, and network congestion, directly
+       affecting achievable data speeds
+    C) Mobile data speeds are fixed and cannot vary
+    D) The user's SIM card limits the maximum speed
+       regardless of network conditions
+
+    Correct Answer: B
+
+---
+
+Q69. Which of the following is an example of synchronous
+     communication?
+
+    A) Sending an email and waiting for a reply the next day
+    B) Posting a question in an online discussion forum
+    C) A live video call where all participants communicate
+       in real time simultaneously
+    D) Leaving a voice message on an answering machine
+
+    Correct Answer: C
+
+---
+
+Q70. eSIM technology in modern smartphones differs from a
+     physical SIM card in that an eSIM:
+
+    A) Cannot connect to any mobile networks
+    B) Is a physical card that must be changed when switching
+       networks
+    C) Is a programmable chip embedded in the device that
+       can be configured remotely to connect to different
+       network providers without swapping a physical card
+    D) Only works on 3G networks
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 8: NETWORKS, SECURITY ISSUES & ELECTRONIC CONFERENCING
+────────────────────────────────────────────────────────────────
+
+Q71. A demilitarised zone (DMZ) in network architecture is:
+
+    A) A network zone where all devices are blocked from
+       internet access
+    B) A physical location in a data centre where servers
+       are stored
+    C) A separate network segment that sits between the
+       public internet and an internal private network,
+       hosting public-facing services while protecting
+       the internal network
+    D) A type of wireless encryption standard
+
+    Correct Answer: C
+
+---
+
+Q72. The difference between symmetric and asymmetric
+     encryption is:
+
+    A) Symmetric encryption is slower and uses two
+       different keys
+    B) Symmetric encryption uses the same key for both
+       encrypting and decrypting data, while asymmetric
+       uses a pair of mathematically linked public and
+       private keys
+    C) Asymmetric encryption can only encrypt text,
+       not files
+    D) Symmetric encryption is always more secure than
+       asymmetric encryption
+
+    Correct Answer: B
+
+---
+
+Q73. A botnet is:
+
+    A) A legitimate network of servers used for cloud
+       computing
+    B) A type of firewall used to monitor outgoing traffic
+    C) A network of compromised computers controlled
+       remotely by an attacker, often used to send spam,
+       perform DDoS attacks, or mine cryptocurrency
+    D) A wireless mesh network used in smart homes
+
+    Correct Answer: C
+
+---
+
+Q74. Which of the following correctly explains the purpose
+     of a digital certificate on a website?
+
+    A) It speeds up the loading time of web pages
+    B) It stores cookies on the visitor's browser
+    C) It verifies the identity of the website and enables
+       the encrypted HTTPS connection, assuring visitors
+       the site is genuine
+    D) It prevents search engines from indexing the site
+
+    Correct Answer: C
+
+---
+
+Q75. In a ring network topology, what happens if one device
+     or cable in the ring fails?
+
+    A) Only the failing device loses connectivity; all
+       others continue normally
+    B) The entire network can be disrupted as data travels
+       in one direction around the ring and the break
+       stops the signal completing the loop
+    C) Traffic is automatically rerouted through the
+       nearest switch
+    D) The network speed doubles as fewer devices share
+       the connection
+
+    Correct Answer: B
+
+---
+
+Q76. Intrusion detection systems (IDS) differ from firewalls
+     in that an IDS:
+
+    A) Blocks incoming connections before they reach the
+       network
+    B) Assigns IP addresses to devices on the network
+    C) Monitors network traffic for suspicious patterns
+       and alerts administrators to potential attacks
+       without actively blocking them
+    D) Encrypts all data leaving the internal network
+
+    Correct Answer: C
+
+---
+
+Q77. The concept of "defence in depth" in cybersecurity
+     means:
+
+    A) Using the most expensive security software available
+    B) Relying on a single very strong firewall to protect
+       the entire network
+    C) Using multiple overlapping layers of security
+       controls so that if one fails, others remain to
+       protect the system
+    D) Storing all sensitive data in a single secure location
+
+    Correct Answer: C
+
+---
+
+Q78. When connecting to a public Wi-Fi hotspot in a coffee
+     shop, which of the following represents the greatest
+     security risk?
+
+    A) The Wi-Fi signal being too slow to load web pages
+    B) The router assigning a private IP address to the
+       device
+    C) Data transmitted over the unencrypted network being
+       intercepted by other users on the same hotspot
+    D) The device downloading automatic software updates
+
+    Correct Answer: C
+
+---
+
+Q79. A content filter on a school network is used to:
+
+    A) Increase the speed of the internet connection for
+       students
+    B) Assign usernames and passwords to student accounts
+    C) Block access to websites containing inappropriate
+       content, keeping the browsing environment safe
+       for students
+    D) Automatically back up student files to a server
+
+    Correct Answer: C
+
+---
+
+Q80. Network performance can be measured by which combination
+     of metrics?
+
+    A) Clock speed and cache size
+    B) Bandwidth, latency, packet loss, and throughput
+    C) Screen resolution and refresh rate
+    D) Number of USB ports and storage capacity
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 9: THE INTERNET — USES, PROTOCOLS & WEB TECHNOLOGIES
+────────────────────────────────────────────────────────────────
+
+Q81. The term "Web 2.0" describes the evolution of the web
+     towards:
+
+    A) Faster loading speeds through compression technology
+    B) Static web pages that only display fixed content
+    C) Interactive, user-generated content and social
+       participation, where users contribute to and shape
+       web content rather than just consuming it
+    D) Encrypted connections replacing all HTTP traffic
+
+    Correct Answer: C
+
+---
+
+Q82. Which protocol is used by a mail client to retrieve
+     emails from a server while keeping the original
+     messages stored on the server?
+
+    A) SMTP
+    B) FTP
+    C) IMAP
+    D) HTTP
+
+    Correct Answer: C
+
+---
+
+Q83. A website uses a CAPTCHA challenge to:
+
+    A) Encrypt data submitted in online forms
+    B) Verify that the user is a human and not an automated
+       bot, preventing spam and abusive automated submissions
+    C) Store the user's login session details securely
+    D) Speed up the page loading time for returning visitors
+
+    Correct Answer: B
+
+---
+
+Q84. The purpose of a robots.txt file on a website is to:
+
+    A) Prevent hackers from accessing the site's database
+    B) Automatically translate the site into multiple
+       languages
+    C) Instruct search engine crawlers which pages or
+       directories they are allowed or not allowed to index
+    D) Display a privacy policy to all website visitors
+
+    Correct Answer: C
+
+---
+
+Q85. Which of the following correctly describes how the
+     internet supports e-learning?
+
+    A) E-learning can only take place on dedicated
+       educational hardware not connected to the internet
+    B) The internet enables access to online courses, video
+       lectures, interactive quizzes, and collaborative
+       tools from any location with a connection
+    C) E-learning requires a faster internet connection
+       than is currently available to most users
+    D) E-learning only works within a school's intranet
+       and cannot use the public internet
+
+    Correct Answer: B
+
+---
+
+Q86. A "responsive" website is one that:
+
+    A) Loads faster than a standard website on all devices
+    B) Automatically encrypts all user data submissions
+    C) Adapts its layout and design to display correctly
+       across different screen sizes, from smartphones
+       to desktop monitors
+    D) Responds to voice commands from the user
+
+    Correct Answer: C
+
+---
+
+Q87. Which of the following accurately describes the role
+     of a web server?
+
+    A) It stores and transmits web page files to users'
+       browsers in response to HTTP/HTTPS requests
+    B) It assigns domain names to IP addresses for websites
+    C) It encrypts user passwords before storing them in
+       a database
+    D) It connects the user's device to their ISP
+
+    Correct Answer: A
+
+---
+
+Q88. The term "open data" refers to:
+
+    A) Data that is unencrypted and therefore a security risk
+    B) Data that is freely available to anyone to access,
+       use, and share, often published by governments
+       or organisations to promote transparency
+    C) Data that is only accessible to paying subscribers
+    D) Personal data shared between businesses without
+       user consent
+
+    Correct Answer: B
+
+---
+
+Q89. Which of the following is a characteristic that
+     distinguishes the internet from a traditional telephone
+     network?
+
+    A) The telephone network uses digital signals while
+       the internet uses analogue signals
+    B) The internet uses packet switching to route data,
+       meaning different packets of the same message can
+       take different routes to the destination
+    C) The telephone network can carry more data per second
+       than a fibre internet connection
+    D) The internet requires a dedicated physical connection
+       between sender and receiver for the duration of
+       each communication
+
+    Correct Answer: B
+
+---
+
+Q90. A "404 Not Found" HTTP error code means:
+
+    A) The user does not have permission to view the page
+    B) The web server is temporarily unavailable
+    C) The connection between the browser and server
+       is not secure
+    D) The requested page could not be found on the server,
+       possibly because it has been moved or deleted
+
+    Correct Answer: D
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 10: IP SUITE, DHCP, PRIVATE IPs, NAT & DNS
+────────────────────────────────────────────────────────────────
+
+Q91. Which of the following correctly describes the purpose
+     of ARP (Address Resolution Protocol)?
+
+    A) It translates domain names into IP addresses
+    B) It assigns dynamic IP addresses to devices joining
+       a network
+    C) It maps a known IP address to the corresponding
+       MAC address on a local network segment
+    D) It routes packets between different networks globally
+
+    Correct Answer: C
+
+---
+
+Q92. ICMP (Internet Control Message Protocol) is used
+     primarily for:
+
+    A) Transferring files between a client and server
+    B) Sending and receiving emails between mail servers
+    C) Sending error messages and operational information
+       about network conditions, used by tools like ping
+       and traceroute
+    D) Encrypting data packets in transit between routers
+
+    Correct Answer: C
+
+---
+
+Q93. The "ping" command is used to:
+
+    A) Transfer a file from one computer to another
+    B) Translate a domain name into an IP address
+    C) Assign a new IP address to the local machine
+    D) Test connectivity to another device by sending
+       an ICMP echo request and measuring the response time
+
+    Correct Answer: D
+
+---
+
+Q94. What is the purpose of the default gateway setting
+     in a device's network configuration?
+
+    A) It identifies the DNS server used for domain
+       name lookups
+    B) It specifies the IP address of the router that the
+       device sends traffic to when the destination is
+       outside the local network
+    C) It defines the range of private IP addresses
+       available on the local network
+    D) It sets the maximum speed of the network connection
+
+    Correct Answer: B
+
+---
+
+Q95. Which of the following correctly explains why DHCP
+     is preferred over static IP assignment in large
+     networks?
+
+    A) DHCP provides higher security than static addressing
+    B) DHCP allows faster data transfer speeds
+    C) Manually assigning static IPs to hundreds of devices
+       is time-consuming and error-prone; DHCP automates
+       this process, reducing administrative overhead
+       and avoiding address conflicts
+    D) DHCP assigns permanent MAC addresses to all devices
+
+    Correct Answer: C
+
+---
+
+Q96. The "traceroute" (or tracert) command is used to:
+
+    A) Display the MAC address of all devices on the network
+    B) Show the complete path of routers that packets travel
+       through to reach a destination, along with the
+       time taken at each hop
+    C) Renew the IP address assigned by the DHCP server
+    D) Flush the local DNS cache on the device
+
+    Correct Answer: B
+
+---
+
+Q97. A CIDR (Classless Inter-Domain Routing) notation such
+     as 192.168.1.0/24 indicates:
+
+    A) There are 24 devices connected to this network
+    B) The network uses 24 Mbps bandwidth
+    C) The first 24 bits of the address represent the
+       network portion, leaving 8 bits for host addresses,
+       allowing up to 254 usable host addresses
+    D) The network requires 24 DNS servers to operate
+
+    Correct Answer: C
+
+---
+
+Q98. Which of the following correctly describes what happens
+     during a DNS cache poisoning attack?
+
+    A) The attacker floods the DNS server with requests
+       until it crashes
+    B) The attacker inserts false DNS records into a
+       resolver's cache, causing users to be directed
+       to malicious websites instead of legitimate ones
+    C) The attacker steals the domain name from its
+       rightful owner through fraudulent registration
+    D) The attacker blocks all DNS queries from reaching
+       the authoritative server
+
+    Correct Answer: B
+
+---
+
+Q99. Port 22 is associated with which protocol used for
+     secure remote access to servers?
+
+    A) FTP
+    B) SMTP
+    C) SSH (Secure Shell)
+    D) IMAP
+
+    Correct Answer: C
+
+---
+
+Q100. The main reason organisations are transitioning from
+      IPv4 to IPv6 is:
+
+      A) IPv6 is simpler to configure manually than IPv4
+      B) IPv4 is no longer supported by any modern hardware
+      C) IPv6 supports built-in encryption that IPv4 lacks
+      D) IPv4's address space is effectively exhausted,
+         while IPv6 provides enough addresses for every
+         device on earth and far beyond
+
+    Correct Answer: D
+
+
+================================================================
+                     END OF QUESTION BANK — SET 5
+================================================================
