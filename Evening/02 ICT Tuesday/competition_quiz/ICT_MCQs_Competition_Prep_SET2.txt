@@ -1321,7 +1321,3 @@ Q100. Which of the following correctly explains why devices on
 ================================================================
                      END OF QUESTION BANK — SET 2
 ================================================================
-   Total Questions : 100 MCQs across 10 topics (10 per topic)
-   Format          : Single best answer (A/B/C/D)
-   Purpose         : Competition / exam preparation
-================================================================

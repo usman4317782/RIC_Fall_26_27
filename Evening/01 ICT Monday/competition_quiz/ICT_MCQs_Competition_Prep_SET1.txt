@@ -1,0 +1,1280 @@
+================================================================
+     ICT COMPETITION PREPARATION — MULTIPLE CHOICE QUESTIONS
+================================================================
+
+────────────────────────────────────────────────────────────────
+TOPIC 1: THE ROLE OF ICT IN DAILY LIFE & COMPUTER-BASED SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q1. A hospital uses a system that asks a series of questions about a
+    patient's symptoms and suggests possible diagnoses. What type of
+    system is this best described as?
+
+    A) Database management system
+    B) Booking system
+    C) Expert system
+    D) Satellite system
+
+    Correct Answer: C
+
+---
+
+Q2. Which of the following is the MOST accurate description of a
+    school management system?
+
+    A) Software that only manages teacher salaries
+    B) A system that handles student records, timetables, and
+       administrative tasks digitally
+    C) A system exclusively used for online examinations
+    D) Hardware installed in classrooms for projecting lessons
+
+    Correct Answer: B
+
+---
+
+Q3. Online flight reservation, hotel booking, and cinema ticketing all
+    fall under which category of computer-based systems?
+
+    A) Expert systems
+    B) Recognition systems
+    C) Booking systems
+    D) Satellite systems
+
+    Correct Answer: C
+
+---
+
+Q4. 3D printers in the medical field are primarily used to:
+
+    A) Print patient prescription labels at high speed
+    B) Create prosthetic limbs, implants, and anatomical models
+    C) Generate medical invoices and billing documents
+    D) Scan patient data for hospital information systems
+
+    Correct Answer: B
+
+---
+
+Q5. A supermarket uses a system at checkout that reads product codes,
+    updates stock levels, and calculates the bill automatically. This
+    is an example of computers used in:
+
+    A) The banking sector
+    B) Expert systems
+    C) The retail industry
+    D) Satellite communication
+
+    Correct Answer: C
+
+---
+
+Q6. Which of the following best describes how satellite systems
+    contribute to daily ICT use?
+
+    A) They exclusively power hospital record systems
+    B) They enable GPS navigation, weather forecasting, and global
+       telecommunications
+    C) They are only used for military surveillance
+    D) They process credit card transactions at ATMs
+
+    Correct Answer: B
+
+---
+
+Q7. Face unlock on a smartphone and fingerprint scanners at border
+    control are examples of:
+
+    A) Booking systems
+    B) Recognition systems
+    C) Expert systems
+    D) Retail management systems
+
+    Correct Answer: B
+
+---
+
+Q8. An online banking application allows customers to transfer money,
+    check balances, and pay bills. Which statement about this system
+    is INCORRECT?
+
+    A) It reduces the need for physical branch visits
+    B) It requires some form of secure authentication
+    C) It operates entirely without any computer hardware
+    D) It processes transactions electronically
+
+    Correct Answer: C
+
+---
+
+Q9. Which of the following is a key advantage ICT brings to the
+    medical field specifically?
+
+    A) Doctors can avoid diagnosing patients entirely
+    B) Patient records can be stored, retrieved, and shared
+       quickly across departments
+    C) Hospitals no longer need trained medical staff
+    D) Medical equipment becomes cheaper to manufacture
+
+    Correct Answer: B
+
+---
+
+Q10. A weather forecasting agency collects data from space-based
+     sensors and uses it to predict storms. The space-based sensors
+     here are part of which system?
+
+    A) Recognition system
+    B) Expert system
+    C) Satellite system
+    D) Banking application
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 2: MAIN COMPONENTS OF COMPUTER SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q11. Which of the following correctly groups the main components
+     of a computer system?
+
+    A) Hardware, software, and communication technologies
+    B) Monitor, keyboard, and internet only
+    C) Input, output, and printers only
+    D) CPU, RAM, and scanner only
+
+    Correct Answer: A
+
+---
+
+Q12. A set of instructions that tells the hardware what to do is
+     known as:
+
+    A) Firmware alone
+    B) Software or a program
+    C) Physical component
+    D) Communication protocol
+
+    Correct Answer: B
+
+---
+
+Q13. Which of the following is NOT considered a physical component
+     of a computer system?
+
+    A) Monitor
+    B) Hard disk drive
+    C) Operating system
+    D) Keyboard
+
+    Correct Answer: C
+
+---
+
+Q14. Communication technologies in a computer system mainly serve
+     to:
+
+    A) Store large volumes of data permanently
+    B) Process arithmetic calculations faster
+    C) Enable the transfer of data between devices and systems
+    D) Display output on a screen
+
+    Correct Answer: C
+
+---
+
+Q15. A student installs a word processing application on her laptop.
+     This application belongs to which component category?
+
+    A) Physical component
+    B) Communication technology
+    C) Software
+    D) Internal memory
+
+    Correct Answer: C
+
+---
+
+Q16. Which of the following statements about computer-based systems
+     is true?
+
+    A) They consist only of hardware with no need for software
+    B) They combine hardware, software, and sometimes communication
+       technologies to perform specific tasks
+    C) They are only used in business environments
+    D) They cannot connect to any external networks
+
+    Correct Answer: B
+
+---
+
+Q17. Wi-Fi, Bluetooth, and cellular networks all fall under which
+     component of a computer system?
+
+    A) Physical components
+    B) Software and programs
+    C) Communication technologies
+    D) Internal memory systems
+
+    Correct Answer: C
+
+---
+
+Q18. The relationship between hardware and software in a computer
+     system can best be described as:
+
+    A) Hardware works independently and needs no software
+    B) Software works independently and needs no hardware
+    C) They are interdependent — hardware provides the platform,
+       software provides the instructions
+    D) They perform the same functions and are interchangeable
+
+    Correct Answer: C
+
+---
+
+Q19. Which of the following is an example of a computer-based system
+     used in a specific application domain?
+
+    A) A USB cable
+    B) An online banking portal
+    C) A display monitor
+    D) A HDMI connector
+
+    Correct Answer: B
+
+---
+
+Q20. Physical components of a computer are also commonly referred
+     to as:
+
+    A) Firmware
+    B) Middleware
+    C) Hardware
+    D) Protocols
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 3: PHYSICAL COMPONENTS — TYPES OF COMPUTERS & CPU
+────────────────────────────────────────────────────────────────
+
+Q21. Which type of computer is specifically designed to handle
+     millions of transactions simultaneously and is used mainly
+     by large organisations like banks?
+
+    A) Desktop computer
+    B) Tablet computer
+    C) Mainframe computer
+    D) Laptop computer
+
+    Correct Answer: C
+
+---
+
+Q22. The primary function of the CPU in a computer system is to:
+
+    A) Store data permanently for later retrieval
+    B) Display processed results to the user
+    C) Fetch, decode, and execute instructions
+    D) Connect the computer to the internet
+
+    Correct Answer: C
+
+---
+
+Q23. Cache memory is best described as:
+
+    A) The main storage drive of a computer
+    B) A small, very fast memory area that stores frequently
+       used instructions close to the CPU
+    C) A type of optical storage for large files
+    D) External memory accessed via USB
+
+    Correct Answer: B
+
+---
+
+Q24. Which of the following is a key characteristic of RAM?
+
+    A) It retains data after the computer is switched off
+    B) It is used to store the BIOS permanently
+    C) Its contents are lost when power is removed
+    D) It is slower than hard disk storage
+
+    Correct Answer: C
+
+---
+
+Q25. ROM differs from RAM primarily because:
+
+    A) ROM is faster at writing new data
+    B) ROM is volatile while RAM is non-volatile
+    C) ROM retains its contents without power, while RAM does not
+    D) ROM is used for temporary storage during processing
+
+    Correct Answer: C
+
+---
+
+Q26. A graphic designer needs a computer at a fixed workstation
+     with a large display. Which type of computer suits this best?
+
+    A) Smartphone
+    B) Desktop computer
+    C) Smartwatch
+    D) Tablet
+
+    Correct Answer: B
+
+---
+
+Q27. Which statement about mobile computers is accurate?
+
+    A) They require a constant wired power supply to function
+    B) They include laptops, tablets, and smartphones designed
+       for portability
+    C) They have more processing power than mainframes
+    D) They cannot connect to wireless networks
+
+    Correct Answer: B
+
+---
+
+Q28. When a CPU processes an instruction, the correct order of the
+     fetch-decode-execute cycle is:
+
+    A) Execute → Decode → Fetch
+    B) Decode → Fetch → Execute
+    C) Fetch → Decode → Execute
+    D) Fetch → Execute → Decode
+
+    Correct Answer: C
+
+---
+
+Q29. A computer's BIOS is stored in ROM. The main reason for this is:
+
+    A) BIOS needs to be updated constantly by users
+    B) BIOS instructions must be available immediately at startup,
+       without needing to load from a drive
+    C) ROM allows faster read/write than RAM
+    D) BIOS data must be deleted each time the computer shuts down
+
+    Correct Answer: B
+
+---
+
+Q30. Which of the following correctly lists types of computers in
+     order from LEAST to MOST processing power (generally)?
+
+    A) Mainframe → Desktop → Smartphone
+    B) Smartphone → Desktop → Mainframe
+    C) Desktop → Mainframe → Smartphone
+    D) Smartphone → Mainframe → Desktop
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 4: INPUT DEVICES, OUTPUT DEVICES & DIRECT DATA ENTRY
+────────────────────────────────────────────────────────────────
+
+Q31. A touch screen can function as both an input and an output
+     device. When a user taps an icon on the screen, it is acting
+     as a/an:
+
+    A) Output device
+    B) Storage device
+    C) Input device
+    D) Processing unit
+
+    Correct Answer: C
+
+---
+
+Q32. Which device would be MOST appropriate for capturing a
+     patient's heart rate automatically and sending it to a
+     computer without human intervention?
+
+    A) Joystick
+    B) Sensor
+    C) Dot matrix printer
+    D) Optical mark reader
+
+    Correct Answer: B
+
+---
+
+Q33. A school uses answer sheets where students fill in bubbles to
+     indicate their chosen answers. These sheets are read by which
+     device?
+
+    A) Barcode reader
+    B) QR scanner
+    C) Optical Mark Recognition (OMR) reader
+    D) Chip and PIN reader
+
+    Correct Answer: C
+
+---
+
+Q34. RFID technology is commonly used in:
+
+    A) Producing printed documents at high speed
+    B) Tracking inventory in warehouses and contactless payment cards
+    C) Scanning printed text from books into digital format
+    D) Projecting presentations on large screens
+
+    Correct Answer: B
+
+---
+
+Q35. Which output device would be MOST suitable for printing
+     engineering blueprints that are very large in size?
+
+    A) Inkjet printer
+    B) Laser printer
+    C) Plotter
+    D) Dot matrix printer
+
+    Correct Answer: C
+
+---
+
+Q36. OCR (Optical Character Recognition) is different from OMR
+     because OCR:
+
+    A) Can only read filled-in bubbles on forms
+    B) Reads and converts printed or handwritten text into
+       editable digital text
+    C) Uses radio waves to identify tagged objects
+    D) Reads the magnetic stripe on payment cards
+
+    Correct Answer: B
+
+---
+
+Q37. A dot matrix printer is still preferred in some offices for
+     printing multi-part forms. The main reason for this is:
+
+    A) It produces the highest quality colour images
+    B) It is completely silent during operation
+    C) Its impact mechanism can print through multiple layers
+       of paper simultaneously
+    D) It is the fastest printer available today
+
+    Correct Answer: C
+
+---
+
+Q38. Which of the following is an INPUT device used specifically
+     for gaming to simulate steering and driving?
+
+    A) Actuator
+    B) Multimedia projector
+    C) Driving wheel / joystick
+    D) Plotter
+
+    Correct Answer: C
+
+---
+
+Q39. A magnetic stripe reader at a point-of-sale terminal reads
+     data from a payment card. What type of data entry method is
+     this classified as?
+
+    A) Manual data entry
+    B) Direct data entry
+    C) Voice data entry
+    D) Optical output entry
+
+    Correct Answer: B
+
+---
+
+Q40. 3D printers are categorised as output devices because:
+
+    A) They scan and input three-dimensional objects
+    B) They produce a physical three-dimensional object as the
+       result of processed digital instructions
+    C) They store digital designs on internal memory
+    D) They read QR codes to identify objects
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 5: STORAGE DEVICES
+────────────────────────────────────────────────────────────────
+
+Q41. Which storage technology uses spinning magnetic platters to
+     read and write data?
+
+    A) Solid-state drive (SSD)
+    B) Blu-ray disc
+    C) Magnetic hard disk drive (HDD)
+    D) USB pen drive
+
+    Correct Answer: C
+
+---
+
+Q42. A key advantage of solid-state drives (SSDs) over traditional
+     magnetic hard drives is:
+
+    A) SSDs are significantly cheaper per gigabyte
+    B) SSDs have faster access times because they have no moving parts
+    C) SSDs can store more data than any optical disc
+    D) SSDs use spinning platters for data retrieval
+
+    Correct Answer: B
+
+---
+
+Q43. Blu-ray discs were developed primarily to:
+
+    A) Replace USB flash drives for portable storage
+    B) Store high-definition video content with greater capacity
+       than DVDs
+    C) Provide writable storage faster than SSDs
+    D) Replace magnetic tape in data centres
+
+    Correct Answer: B
+
+---
+
+Q44. Magnetic tape drives are still used in some industries despite
+     being slow. The main reason organisations keep using them is:
+
+    A) They are the fastest storage medium available
+    B) They are ideal for real-time transaction processing
+    C) They offer very high capacity at low cost, making them good
+       for long-term archival backups
+    D) They can be accessed randomly just like RAM
+
+    Correct Answer: C
+
+---
+
+Q45. Which of the following correctly identifies a characteristic
+     of optical storage media?
+
+    A) Data is stored using magnetism
+    B) They have no moving parts whatsoever
+    C) Data is read using a laser beam
+    D) They are faster than SSDs for random access
+
+    Correct Answer: C
+
+---
+
+Q46. A pen drive and a flash drive are both examples of:
+
+    A) Optical storage devices
+    B) Magnetic storage devices
+    C) Portable solid-state storage devices
+    D) Volatile memory modules
+
+    Correct Answer: C
+
+---
+
+Q47. Which storage medium would be MOST appropriate for a TV
+     broadcast company that needs to store years of archived
+     video footage at the lowest possible cost per terabyte?
+
+    A) USB pen drives
+    B) Blu-ray discs
+    C) Magnetic tape drives
+    D) Solid-state drives
+
+    Correct Answer: C
+
+---
+
+Q48. One disadvantage of optical storage media such as CDs and DVDs
+     is that they:
+
+    A) Cannot store digital audio files
+    B) Are easily scratched and damaged, which can make data
+       unreadable
+    C) Have higher storage capacity than hard drives
+    D) Require a wired internet connection to function
+
+    Correct Answer: B
+
+---
+
+Q49. A photographer needs fast, portable storage to use in a camera
+     and transfer photos to a laptop. Which would be the most
+     practical choice?
+
+    A) Magnetic tape drive
+    B) Blu-ray disc
+    C) Solid-state flash memory card
+    D) Desktop hard drive
+
+    Correct Answer: C
+
+---
+
+Q50. Data on a standard CD is read by:
+
+    A) A magnetic read head moving across spinning platters
+    B) An electric charge pattern on a silicon chip
+    C) A laser that detects pits and lands on the disc surface
+    D) Radio frequency pulses emitted by a sensor
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 6: THE SYSTEMS LIFE CYCLE
+────────────────────────────────────────────────────────────────
+
+Q51. During which phase of the systems life cycle are user
+     requirements gathered and existing problems identified?
+
+    A) Design
+    B) Testing
+    C) Analysis
+    D) Evaluation
+
+    Correct Answer: C
+
+---
+
+Q52. The design phase of the systems life cycle produces:
+
+    A) The final working software ready for deployment
+    B) Blueprints, data flow diagrams, and plans that guide
+       the development phase
+    C) A report evaluating whether the system met its goals
+    D) Training manuals for end users
+
+    Correct Answer: B
+
+---
+
+Q53. During the testing phase, a developer finds that entering a
+     negative number crashes the system. This type of test is
+     best described as:
+
+    A) Normal data testing
+    B) Extreme data testing
+    C) Erroneous / invalid data testing
+    D) Volume testing
+
+    Correct Answer: C
+
+---
+
+Q54. Which stage of the systems life cycle comes IMMEDIATELY
+     after development?
+
+    A) Analysis
+    B) Implementation
+    C) Testing
+    D) Evaluation
+
+    Correct Answer: C
+
+---
+
+Q55. User documentation differs from technical documentation in
+     that user documentation:
+
+    A) Explains the internal code structure to developers
+    B) Is written for the people who will actually use the
+       system, explaining how to operate it
+    C) Lists all the bugs found during testing
+    D) Describes the hardware architecture of the server
+
+    Correct Answer: B
+
+---
+
+Q56. A school implements a new library management system by
+     running it alongside the old paper-based system for one
+     term before fully switching over. This implementation
+     strategy is called:
+
+    A) Direct changeover
+    B) Pilot changeover
+    C) Parallel running
+    D) Phased implementation
+
+    Correct Answer: C
+
+---
+
+Q57. The evaluation stage of the systems life cycle is primarily
+     concerned with:
+
+    A) Writing the source code for the new system
+    B) Deciding which programming language to use
+    C) Reviewing whether the completed system meets the original
+       requirements and identifying improvements
+    D) Installing the system on user machines
+
+    Correct Answer: C
+
+---
+
+Q58. Which of the following is NOT a typical output of the analysis
+     phase?
+
+    A) A list of user requirements
+    B) Identification of problems with the current system
+    C) Feasibility study
+    D) The compiled executable program
+
+    Correct Answer: D
+
+---
+
+Q59. Alpha testing and beta testing both occur during which phase?
+
+    A) Design
+    B) Analysis
+    C) Testing
+    D) Implementation
+
+    Correct Answer: C
+
+---
+
+Q60. Why is documentation considered an ongoing activity throughout
+     the systems life cycle rather than a single final step?
+
+    A) It is only done when errors are found
+    B) Records need to be updated at each stage so that every
+       decision and change is traceable
+    C) Documentation replaces the need for testing
+    D) It is only relevant during the design phase
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 7: COMMUNICATION MEDIA & MOBILE COMMUNICATION
+────────────────────────────────────────────────────────────────
+
+Q61. Which of the following is an example of media streaming?
+
+    A) Downloading a PDF and reading it offline
+    B) Watching a live news broadcast directly on a website
+       without downloading the file first
+    C) Printing a newsletter from an email attachment
+    D) Saving a video to a USB drive
+
+    Correct Answer: B
+
+---
+
+Q62. An ePublication differs from a printed publication mainly
+     because it:
+
+    A) Can only contain black-and-white text
+    B) Must be accessed using a physical disc
+    C) Is distributed and read in a digital format on electronic
+       devices
+    D) Cannot include images or graphics
+
+    Correct Answer: C
+
+---
+
+Q63. A company wants to reach customers quickly with promotional
+     information in a visual, attention-grabbing format. Which
+     communication medium is most suitable?
+
+    A) Audio podcast
+    B) Internal email thread
+    C) Poster
+    D) Spreadsheet report
+
+    Correct Answer: C
+
+---
+
+Q64. Which generation of mobile communication first made
+     smartphone internet browsing practical by offering mobile
+     broadband speeds?
+
+    A) 1G
+    B) 2G
+    C) 3G
+    D) 4G LTE
+
+    Correct Answer: D
+
+---
+
+Q65. A multimedia presentation differs from a simple slideshow
+     because it:
+
+    A) Uses only static text and images
+    B) Combines text, images, audio, video, and animation
+       into a single interactive experience
+    C) Cannot be shared over a network
+    D) Is always stored on paper
+
+    Correct Answer: B
+
+---
+
+Q66. Which of the following best describes audio communication
+     media in an ICT context?
+
+    A) It refers to printed handouts distributed in meetings
+    B) It includes podcasts, voice messages, and audio files
+       used to convey information through sound
+    C) It is limited to telephone calls only
+    D) It only works through wired connections
+
+    Correct Answer: B
+
+---
+
+Q67. Newsletters as a communication medium are most effective for:
+
+    A) Instant one-to-one messaging
+    B) Real-time video calls
+    C) Regularly informing a group of readers about updates,
+       news, or developments
+    D) Storing large amounts of structured data
+
+    Correct Answer: C
+
+---
+
+Q68. 5G mobile communication primarily improves upon 4G by
+     offering:
+
+    A) Voice calls for the first time on mobile networks
+    B) Even higher data speeds, lower latency, and support
+       for more connected devices simultaneously
+    C) The ability to send text messages (SMS)
+    D) The first introduction of internet access on phones
+
+    Correct Answer: B
+
+---
+
+Q69. A website is considered a communication medium because it:
+
+    A) Can only be used to sell products online
+    B) Provides a publicly accessible platform where information
+       is published and can be interacted with
+    C) Requires a physical server in every user's home
+    D) Only works through fibre optic cables
+
+    Correct Answer: B
+
+---
+
+Q70. Which statement about video as a communication medium is
+     MOST accurate?
+
+    A) Video requires less bandwidth than text-based communication
+    B) Video cannot convey emotion as effectively as text
+    C) Video combines visual and audio information, making
+       complex topics easier to understand
+    D) Video communication is only suitable for entertainment
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 8: NETWORKS, SECURITY ISSUES & ELECTRONIC CONFERENCING
+────────────────────────────────────────────────────────────────
+
+Q71. A device that connects multiple networks together and directs
+     data packets to their correct destination is called a:
+
+    A) Hub
+    B) Switch
+    C) Router
+    D) Bridge
+
+    Correct Answer: C
+
+---
+
+Q72. Which of the following correctly distinguishes a hub from
+     a switch?
+
+    A) A hub sends data only to the intended device; a switch
+       broadcasts to all devices
+    B) A switch sends data only to the intended device; a hub
+       broadcasts to all connected devices
+    C) Both devices perform identical functions in a network
+    D) A hub operates at the network layer; a switch at the
+       physical layer
+
+    Correct Answer: B
+
+---
+
+Q73. Cloud computing primarily benefits businesses by:
+
+    A) Eliminating the need for any internet connection
+    B) Allowing data and applications to be accessed remotely
+       without maintaining all physical infrastructure on-site
+    C) Making all stored data publicly accessible
+    D) Replacing wireless networks with wired connections only
+
+    Correct Answer: B
+
+---
+
+Q74. A LAN (Local Area Network) differs from a WAN (Wide Area
+     Network) mainly in terms of:
+
+    A) The type of devices it can connect
+    B) The fact that only LANs use routers
+    C) Geographic coverage — LANs cover a small area like one
+       building, while WANs span large distances
+    D) LANs being wireless only and WANs being wired only
+
+    Correct Answer: C
+
+---
+
+Q75. Which of the following authentication methods goes BEYOND
+     a simple password to verify a user's identity?
+
+    A) Using a longer password
+    B) Two-factor authentication (2FA), such as combining a
+       password with a one-time SMS code
+    C) Setting the password to never expire
+    D) Sharing login credentials with a colleague
+
+    Correct Answer: B
+
+---
+
+Q76. Malware can enter a system through which of the following?
+
+    A) Only through physical USB drives
+    B) Only through email attachments
+    C) Through email attachments, malicious downloads, infected
+       websites, and removable media
+    D) Only through unsecured Bluetooth connections
+
+    Correct Answer: C
+
+---
+
+Q77. The primary purpose of anti-malware software is to:
+
+    A) Speed up the computer's processor
+    B) Increase available RAM
+    C) Detect, quarantine, and remove malicious software
+       that could harm the system or steal data
+    D) Manage network traffic between routers
+
+    Correct Answer: C
+
+---
+
+Q78. During data transfer across a network, which of the following
+     represents a security risk specific to wireless communication?
+
+    A) Data arrives more slowly than via wired connections
+    B) Signals can be intercepted by unauthorised users if
+       the network is not properly encrypted
+    C) Wireless routers cannot support strong passwords
+    D) Wi-Fi connections cannot transfer sensitive data at all
+
+    Correct Answer: B
+
+---
+
+Q79. Electronic conferencing allows geographically separated
+     people to collaborate in real time. Which of the following
+     is NOT a form of electronic conferencing?
+
+    A) Video call via Zoom or Teams
+    B) Audio teleconferencing
+    C) Sending a printed memo by post
+    D) Web-based collaborative whiteboard session
+
+    Correct Answer: C
+
+---
+
+Q80. Bluetooth differs from Wi-Fi mainly in that Bluetooth:
+
+    A) Has a longer range and is designed for internet access
+    B) Is a short-range wireless technology designed to connect
+       personal devices over a small distance
+    C) Can only connect to wired routers
+    D) Is faster than Wi-Fi for transferring large files
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 9: THE INTERNET — CHARACTERISTICS, USES, ADVANTAGES
+         & DIFFERENCES (INTERNET / INTRANET / EXTRANET)
+────────────────────────────────────────────────────────────────
+
+Q81. Which of the following BEST defines the internet?
+
+    A) A private network used only within a single organisation
+    B) A global network of interconnected computers and networks
+       that share information using standardised protocols
+    C) A type of software installed on personal computers
+    D) A network that suppliers can access but not the public
+
+    Correct Answer: B
+
+---
+
+Q82. An intranet is best described as:
+
+    A) A public network open to anyone with a browser
+    B) A private internal network used within an organisation,
+       accessible only to its members
+    C) A network shared between a company and its suppliers
+    D) Another name for the World Wide Web
+
+    Correct Answer: B
+
+---
+
+Q83. An extranet differs from an intranet in that an extranet:
+
+    A) Is accessible to the general public without restriction
+    B) Extends controlled access to selected external parties
+       such as suppliers, partners, or clients
+    C) Is a faster version of the internet
+    D) Contains no security measures
+
+    Correct Answer: B
+
+---
+
+Q84. HTTPS differs from HTTP because HTTPS:
+
+    A) Is only used on intranets and not on the public internet
+    B) Transmits data in plain text with no changes
+    C) Encrypts data transmitted between the browser and the
+       server, providing a secure connection
+    D) Is slower and less reliable than HTTP
+
+    Correct Answer: C
+
+---
+
+Q85. Which protocol is specifically designed for transferring
+     files between a client and a server over a network?
+
+    A) HTTP
+    B) SMTP
+    C) SSL
+    D) FTP
+
+    Correct Answer: D
+
+---
+
+Q86. A school forum allows students and teachers to post questions
+     and replies in threaded discussions. A forum differs from a
+     wiki mainly because:
+
+    A) Forums display content in a continuously editable document
+       format while wikis do not allow replies
+    B) Forums are based on threaded discussions while wikis are
+       collaboratively editable websites
+    C) Forums can only be accessed via mobile devices
+    D) Wikis are only readable by one user at a time
+
+    Correct Answer: B
+
+---
+
+Q87. SSL (Secure Sockets Layer) is used in internet communication
+     primarily to:
+
+    A) Assign IP addresses to devices on a network
+    B) Encrypt data transmitted between a client and a server
+       to prevent interception
+    C) Host websites on remote servers
+    D) Translate domain names into IP addresses
+
+    Correct Answer: B
+
+---
+
+Q88. Which of the following is a disadvantage of using the internet?
+
+    A) It limits communication to local areas only
+    B) It makes access to information impossible
+    C) Personal data can be compromised through hacking, phishing,
+       and privacy breaches
+    D) It prevents businesses from reaching global markets
+
+    Correct Answer: C
+
+---
+
+Q89. A blog differs from a wiki in that a blog:
+
+    A) Is always edited by multiple anonymous users simultaneously
+    B) Is typically maintained by one person or organisation and
+       displays posts in reverse chronological order
+    C) Cannot contain images or multimedia
+    D) Is only accessible through a login
+
+    Correct Answer: B
+
+---
+
+Q90. An ISP (Internet Service Provider) primarily provides:
+
+    A) The hardware for a user's local area network
+    B) The connection and infrastructure that gives users
+       access to the internet
+    C) Software to design and build websites
+    D) Physical servers to store users' personal files
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 10: THE INTERNET PROTOCOL SUITE & NETWORK CONCEPTS
+          (IP Layers, DHCP, Private IPs, NAT, DNS)
+────────────────────────────────────────────────────────────────
+
+Q91. The Internet Protocol Suite organises network communication
+     into four layers. Which layer is responsible for the physical
+     transmission of data over the network medium?
+
+    A) Application Layer
+    B) Transport Layer
+    C) Internet Layer
+    D) Link Layer
+
+    Correct Answer: D
+
+---
+
+Q92. The Internet Layer of the IP suite is primarily responsible
+     for:
+
+    A) Ensuring reliable delivery of data between two applications
+    B) Formatting web pages for display in a browser
+    C) Logical addressing and routing packets across different
+       networks using IP addresses
+    D) Physically encoding signals onto cables
+
+    Correct Answer: C
+
+---
+
+Q93. The Transport Layer handles which of the following functions?
+
+    A) Assigning MAC addresses to network interfaces
+    B) Routing packets between separate networks
+    C) End-to-end communication between applications, managing
+       flow control and error checking (e.g., TCP and UDP)
+    D) Translating domain names into IP addresses
+
+    Correct Answer: C
+
+---
+
+Q94. HTTP, FTP, DNS, and SMTP all operate at which layer of the
+     Internet Protocol Suite?
+
+    A) Link Layer
+    B) Internet Layer
+    C) Transport Layer
+    D) Application Layer
+
+    Correct Answer: D
+
+---
+
+Q95. DHCP (Dynamic Host Configuration Protocol) automatically
+     assigns which of the following to devices joining a network?
+
+    A) MAC addresses burned into network cards
+    B) IP addresses, subnet masks, and gateway information
+    C) Usernames and passwords for network login
+    D) Encryption keys for secure communication
+
+    Correct Answer: B
+
+---
+
+Q96. Without DHCP, a network administrator would need to:
+
+    A) Purchase more expensive routers
+    B) Manually configure an IP address on every device that
+       connects to the network
+    C) Disable all wireless access points
+    D) Replace DNS with a manual lookup table
+
+    Correct Answer: B
+
+---
+
+Q97. Which of the following is a private IP address range that
+     is NOT routable on the public internet?
+
+    A) 8.8.8.8
+    B) 172.217.0.0
+    C) 192.168.1.1
+    D) 203.0.113.5
+
+    Correct Answer: C
+
+---
+
+Q98. NAT (Network Address Translation) allows multiple devices
+     on a private network to access the internet through a
+     single public IP address. Which device typically performs
+     NAT?
+
+    A) Network interface card (NIC)
+    B) Hub
+    C) Router
+    D) Switch
+
+    Correct Answer: C
+
+---
+
+Q99. The Domain Name System (DNS) can best be compared to:
+
+    A) A firewall that blocks malicious traffic
+    B) A phone book that translates human-readable domain names
+       like www.example.com into numeric IP addresses
+    C) A protocol that encrypts web traffic
+    D) A system that assigns MAC addresses to devices
+
+    Correct Answer: B
+
+---
+
+Q100. What happens when a user types a web address into their
+      browser and DNS cannot find the corresponding IP address?
+
+    A) The browser automatically uses DHCP to find the address
+    B) The website loads using the default gateway address
+    C) The browser returns an error indicating the site
+       cannot be found or the DNS lookup failed
+    D) NAT takes over and resolves the address automatically
+
+    Correct Answer: C
+
+
+================================================================
+                     END OF QUESTION BANK
+================================================================

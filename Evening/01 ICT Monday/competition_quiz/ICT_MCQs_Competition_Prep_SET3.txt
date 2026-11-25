@@ -1,0 +1,1348 @@
+================================================================
+   ICT COMPETITION PREPARATION — MULTIPLE CHOICE QUESTIONS
+                          SET 3
+================================================================
+
+────────────────────────────────────────────────────────────────
+TOPIC 1: THE ROLE OF ICT IN DAILY LIFE & COMPUTER-BASED SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q1. A bank's system automatically flags a transaction as
+    suspicious when it detects spending patterns that differ
+    significantly from a customer's history. This is an example
+    of which type of computer-based system?
+
+    A) Booking system
+    B) Satellite system
+    C) Expert system applying rule-based reasoning
+    D) School management system
+
+    Correct Answer: C
+
+---
+
+Q2. Which of the following statements about ICT in medicine is
+    INCORRECT?
+
+    A) Electronic health records allow patient data to be
+       shared quickly between departments
+    B) ICT eliminates all human error in medical diagnosis
+       and treatment completely
+    C) Medical imaging software assists radiologists in
+       analysing scans
+    D) Expert systems can suggest diagnoses based on
+       entered symptoms
+
+    Correct Answer: B
+
+---
+
+Q3. A parking management system uses cameras to read number
+    plates automatically as vehicles enter and exit a car park.
+    This is an application of:
+
+    A) RFID technology
+    B) Optical Character Recognition (OCR)
+    C) Magnetic stripe reading
+    D) Chip and PIN processing
+
+    Correct Answer: B
+
+---
+
+Q4. How do satellite systems support weather forecasting?
+
+    A) They provide computing power to run weather simulations
+       locally on ground-based servers
+    B) They collect atmospheric data from orbit and relay it
+       to ground stations for analysis
+    C) They store historical weather records in cloud databases
+    D) They send SMS alerts directly to citizens' phones
+
+    Correct Answer: B
+
+---
+
+Q5. A travel website allows users to compare hotel prices,
+    check room availability, and confirm reservations in real
+    time. This is primarily a:
+
+    A) Recognition system
+    B) Expert system
+    C) Booking system
+    D) Retail management system
+
+    Correct Answer: C
+
+---
+
+Q6. In the retail industry, which ICT development has most
+    significantly changed how customers shop compared to
+    twenty years ago?
+
+    A) The invention of the cash register
+    B) The widespread adoption of e-commerce, enabling
+       shopping from home at any time
+    C) The introduction of paper receipts at checkout
+    D) The use of manual stocktaking methods
+
+    Correct Answer: B
+
+---
+
+Q7. Voice assistants such as smart speakers that understand
+    and respond to spoken commands use which combination of
+    computer-based system types?
+
+    A) Booking systems and satellite systems
+    B) Recognition systems and expert systems working together
+    C) Retail management and banking systems
+    D) School management and satellite systems
+
+    Correct Answer: B
+
+---
+
+Q8. Which of the following best explains why expert systems
+    cannot fully replace human experts in all situations?
+
+    A) Expert systems are too expensive to run for most tasks
+    B) They lack the ability to reason beyond the rules and
+       knowledge they were specifically programmed with,
+       and cannot handle truly novel situations
+    C) Expert systems are always slower than a human expert
+    D) They require a satellite connection to function
+
+    Correct Answer: B
+
+---
+
+Q9. A supermarket loyalty card system tracks individual customer
+    purchases and sends personalised discount offers. What
+    type of system is this?
+
+    A) Expert system
+    B) Satellite system
+    C) Computer-based retail management and data analytics system
+    D) School management system
+
+    Correct Answer: C
+
+---
+
+Q10. The use of ICT in school management systems has raised
+     concerns about which of the following?
+
+    A) Schools becoming too efficient at timetabling
+    B) Privacy of student data and the risk of unauthorised
+       access to sensitive personal records
+    C) Teachers having too much time for lesson preparation
+    D) Reduction in the number of school subjects offered
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 2: MAIN COMPONENTS OF COMPUTER SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q11. Which of the following pairings correctly matches a computer
+     component to its category?
+
+    A) Microsoft Word — physical component
+    B) CPU — software
+    C) Wi-Fi adapter — communication technology (hardware)
+    D) RAM — software program
+
+    Correct Answer: C
+
+---
+
+Q12. A graphics tablet used by a digital artist connects to a
+     computer and sends drawing data. In terms of system
+     components, the graphics tablet is a:
+
+    A) Software application
+    B) Communication technology
+    C) Physical input component (hardware)
+    D) Internal memory module
+
+    Correct Answer: C
+
+---
+
+Q13. Open-source software differs from proprietary software
+     mainly because:
+
+    A) Open-source software costs more to license
+    B) Open-source software's source code is publicly available
+       and can be freely modified and distributed
+    C) Proprietary software can be edited by anyone
+    D) Open-source software has no developers working on it
+
+    Correct Answer: B
+
+---
+
+Q14. A company upgrades its offices from copper ethernet cables
+     to fibre optic cables. This upgrade affects which component
+     category of its computer systems?
+
+    A) Software and programs
+    B) Internal memory
+    C) Communication technology infrastructure
+    D) Processing hardware
+
+    Correct Answer: C
+
+---
+
+Q15. System software differs from application software in that
+     system software:
+
+    A) Performs specific user-facing tasks like editing photos
+    B) Manages and controls the computer hardware, providing
+       a platform on which applications can run
+    C) Is always purchased separately by the user
+    D) Cannot interact with hardware directly
+
+    Correct Answer: B
+
+---
+
+Q16. A device driver is a type of software that:
+
+    A) Physically connects hardware components inside a computer
+    B) Allows the operating system to communicate with and
+       control a specific piece of hardware
+    C) Manages user accounts and login security
+    D) Compresses files to save storage space
+
+    Correct Answer: B
+
+---
+
+Q17. Which of the following best describes utility software?
+
+    A) Software that enables users to create spreadsheets
+       and presentations
+    B) Software that manages hardware resources and
+       schedules processes
+    C) Programs designed to perform specific maintenance
+       tasks such as disk cleanup, antivirus scanning,
+       or file compression
+    D) Software that translates source code into machine code
+
+    Correct Answer: C
+
+---
+
+Q18. The motherboard in a computer is best described as:
+
+    A) The primary long-term storage device for all user files
+    B) The main circuit board that connects and allows
+       communication between all hardware components
+    C) A type of graphics processing unit
+    D) The external casing that protects internal components
+
+    Correct Answer: B
+
+---
+
+Q19. Which of the following is an example of communication
+     technology used within a single building?
+
+    A) Submarine fibre optic cable crossing the Atlantic
+    B) A geostationary satellite link
+    C) A Wi-Fi access point providing wireless LAN coverage
+       across office floors
+    D) A 4G mobile tower serving a city district
+
+    Correct Answer: C
+
+---
+
+Q20. When a computer's operating system is described as
+     "multitasking," it means:
+
+    A) The computer has more than one monitor attached
+    B) The CPU physically splits itself to handle multiple tasks
+    C) The OS rapidly switches between multiple programs,
+       giving the appearance that they run simultaneously
+    D) Multiple users are logged into the same computer at once
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 3: TYPES OF COMPUTERS, CPU & INTERNAL MEMORY
+────────────────────────────────────────────────────────────────
+
+Q21. An embedded computer system differs from a general-purpose
+     computer in that it:
+
+    A) Can run any application the user installs
+    B) Is designed to perform one specific dedicated function
+       within a larger device, such as in a washing machine
+       or microwave
+    C) Always has a keyboard and monitor attached
+    D) Requires an internet connection to operate
+
+    Correct Answer: B
+
+---
+
+Q22. Virtual memory is used by an operating system when:
+
+    A) The GPU needs extra space to render graphics
+    B) The computer's RAM is fully occupied and the OS uses
+       part of the hard drive as an extension of RAM
+    C) The CPU cache is larger than the available RAM
+    D) The user installs more software than the CPU can handle
+
+    Correct Answer: B
+
+---
+
+Q23. Which of the following would cause the GREATEST improvement
+     in a computer's ability to handle complex 3D rendering?
+
+    A) Doubling the size of the hard drive
+    B) Adding more USB ports
+    C) Upgrading to a dedicated GPU with its own video RAM
+    D) Increasing the monitor's screen resolution
+
+    Correct Answer: C
+
+---
+
+Q24. The von Neumann architecture, which underlies most modern
+     computers, is characterised by:
+
+    A) Separate memory stores for instructions and data
+    B) A single shared memory that stores both program
+       instructions and data, accessed by a single processor
+    C) Multiple CPUs each with their own dedicated memory
+    D) Processing that occurs entirely within the storage device
+
+    Correct Answer: B
+
+---
+
+Q25. A CPU with a higher clock speed will always outperform one
+     with a lower clock speed. This statement is:
+
+    A) True, because clock speed is the only factor that
+       determines CPU performance
+    B) False, because other factors such as number of cores,
+       cache size, and architecture also significantly affect
+       overall performance
+    C) True, but only for gaming applications
+    D) False, because lower clock speeds always use better
+       architecture
+
+    Correct Answer: B
+
+---
+
+Q26. EEPROM (Electrically Erasable Programmable Read-Only Memory)
+     differs from standard ROM in that EEPROM:
+
+    A) Loses all data when power is removed
+    B) Cannot store firmware or BIOS data
+    C) Can be erased and reprogrammed electrically without
+       removing it from the circuit
+    D) Is a form of volatile memory used for temporary storage
+
+    Correct Answer: C
+
+---
+
+Q27. When a computer "boots up," the CPU first reads instructions
+     from which memory type?
+
+    A) RAM
+    B) Cache
+    C) Virtual memory
+    D) ROM (containing the BIOS/UEFI firmware)
+
+    Correct Answer: D
+
+---
+
+Q28. A wearable fitness tracker is best categorised as which
+     type of computer?
+
+    A) Mainframe
+    B) Desktop
+    C) Embedded / mobile computer system
+    D) Supercomputer
+
+    Correct Answer: C
+
+---
+
+Q29. The bus in a computer system refers to:
+
+    A) The power cable connecting the PSU to the motherboard
+    B) A set of communication pathways that transfer data
+       between the CPU, memory, and other components
+    C) The cooling system that regulates CPU temperature
+    D) The software that schedules CPU processes
+
+    Correct Answer: B
+
+---
+
+Q30. Increasing RAM in a computer primarily improves:
+
+    A) The quality of images saved to disk
+    B) The speed at which files are permanently written
+       to the hard drive
+    C) The number of applications and processes that can
+       run simultaneously without the system slowing down
+    D) The strength of the computer's Wi-Fi signal
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 4: INPUT DEVICES, OUTPUT DEVICES & DIRECT DATA ENTRY
+────────────────────────────────────────────────────────────────
+
+Q31. A library uses a handheld device to scan barcodes on books
+     when they are borrowed or returned. The handheld scanner
+     is performing which type of data entry?
+
+    A) Manual keyboard entry
+    B) Direct data entry
+    C) Voice data entry
+    D) Optical mark recognition
+
+    Correct Answer: B
+
+---
+
+Q32. Which of the following correctly explains why a dot matrix
+     printer is still used in some banks and hospitals even
+     though better-quality printers exist?
+
+    A) Dot matrix printers produce the best colour images
+    B) They are significantly faster than laser printers
+    C) They can print on carbon-copy (multi-part) paper,
+       creating duplicate records simultaneously
+    D) They use less electricity than any other printer type
+
+    Correct Answer: C
+
+---
+
+Q33. A digital camera used to photograph products for an online
+     shop is functioning as which type of device?
+
+    A) Output device
+    B) Storage device
+    C) Input device
+    D) Processing device
+
+    Correct Answer: C
+
+---
+
+Q34. RFID differs from a barcode system in which key way?
+
+    A) RFID requires line-of-sight contact to read a tag
+    B) RFID uses radio waves to read tags without physical
+       contact or line of sight, allowing multiple items
+       to be scanned simultaneously
+    C) RFID is slower than barcode scanning at checkouts
+    D) RFID can only store a single digit of data per tag
+
+    Correct Answer: B
+
+---
+
+Q35. A blind user relies on a device that converts text
+     displayed on screen into spoken words. This output
+     device is called a:
+
+    A) Screen magnifier
+    B) Braille embosser
+    C) Screen reader / speech synthesiser
+    D) Multimedia projector
+
+    Correct Answer: C
+
+---
+
+Q36. In a modern smartphone, the accelerometer functions as
+     which type of component?
+
+    A) Output device that displays screen orientation
+    B) Storage device that records motion data permanently
+    C) Input sensor that detects the device's movement,
+       orientation, and tilt
+    D) Processing unit that runs navigation software
+
+    Correct Answer: C
+
+---
+
+Q37. Which of the following correctly identifies a limitation
+     of using a touch screen as an INPUT device?
+
+    A) Touch screens cannot display colour images
+    B) They require a stylus and cannot detect finger input
+    C) Accuracy can be reduced for detailed tasks, and they
+       may not respond well with gloves or wet fingers
+    D) Touch screens are only suitable for desktop computers
+
+    Correct Answer: C
+
+---
+
+Q38. A bank statement printed at an ATM is produced by which
+     type of output device most commonly used in ATMs?
+
+    A) Laser printer
+    B) Inkjet printer
+    C) Thermal printer
+    D) Dot matrix printer
+
+    Correct Answer: C
+
+---
+
+Q39. OCR technology is used at an airport to process passports
+     quickly. What specifically does it read?
+
+    A) The magnetic stripe on the passport cover
+    B) The RFID chip embedded in modern passports
+    C) The machine-readable zone (MRZ) containing printed
+       text at the bottom of the passport's photo page
+    D) The hologram sticker on the passport
+
+    Correct Answer: C
+
+---
+
+Q40. An actuator in an automated greenhouse responds to data
+     from temperature sensors by opening vents. The actuator
+     is classified as an output device because it:
+
+    A) Collects environmental data to send to the computer
+    B) Stores the sensor readings for future analysis
+    C) Converts processed computer instructions into physical
+       action in the real world
+    D) Displays temperature readings on a monitor
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 5: STORAGE DEVICES
+────────────────────────────────────────────────────────────────
+
+Q41. A CD-ROM differs from a CD-R in that a CD-ROM:
+
+    A) Can be written to multiple times by the user
+    B) Has data permanently pressed into it during manufacture
+       and cannot be written to by the end user
+    C) Uses a different laser colour for reading data
+    D) Has a higher storage capacity than a CD-R
+
+    Correct Answer: B
+
+---
+
+Q42. Which of the following is the MOST significant advantage
+     of cloud storage over a USB pen drive for a team of five
+     people working on the same project?
+
+    A) Cloud storage is always faster than a pen drive
+    B) A pen drive cannot store documents of any kind
+    C) Cloud storage allows all team members to access and
+       edit shared files simultaneously from any location
+    D) Cloud storage never requires an internet connection
+
+    Correct Answer: C
+
+---
+
+Q43. A video production studio generates several terabytes of
+     raw footage per project and needs affordable long-term
+     archiving. The most cost-effective option per terabyte is:
+
+    A) USB pen drives
+    B) Blu-ray discs
+    C) Solid-state drives
+    D) Magnetic tape drives
+
+    Correct Answer: D
+
+---
+
+Q44. What is the primary risk associated with storing important
+     data exclusively on a single USB pen drive?
+
+    A) The data will automatically delete after 30 days
+    B) The pen drive may be lost, stolen, or physically
+       damaged, resulting in permanent data loss
+    C) USB pen drives are incompatible with most computers
+    D) Files stored on a pen drive cannot be opened on
+       different operating systems
+
+    Correct Answer: B
+
+---
+
+Q45. The access time of an HDD is slower than an SSD because:
+
+    A) HDDs use older software to manage files
+    B) The read/write head must physically move to the correct
+       position on a spinning platter before data can be accessed
+    C) HDDs are always larger in physical size
+    D) HDDs store data using optical laser technology
+
+    Correct Answer: B
+
+---
+
+Q46. Which type of storage is used inside a smartphone to
+     store the operating system, apps, and user data?
+
+    A) Optical disc storage
+    B) Magnetic hard disk drive
+    C) Flash-based solid-state memory (eMMC or UFS)
+    D) Magnetic tape
+
+    Correct Answer: C
+
+---
+
+Q47. A Blu-ray disc can store more data than a DVD because:
+
+    A) It uses a red laser with a longer wavelength
+    B) It is physically larger in diameter than a DVD
+    C) It uses a blue-violet laser with a shorter wavelength,
+       allowing data pits to be smaller and packed more densely
+    D) It rotates faster than a DVD during playback
+
+    Correct Answer: C
+
+---
+
+Q48. RAID (Redundant Array of Independent Disks) is used in
+     servers primarily to:
+
+    A) Increase the display resolution of the server monitor
+    B) Replace RAM with faster disk-based memory
+    C) Improve data reliability and/or performance by
+       combining multiple drives to work together
+    D) Connect the server to wireless networks more efficiently
+
+    Correct Answer: C
+
+---
+
+Q49. Which of the following correctly identifies a situation
+     where optical storage would be preferred over flash storage?
+
+    A) Storing the operating system of a smartphone
+    B) Distributing a commercial software product to
+       retail customers in physical stores
+    C) Saving photos from a digital camera in the field
+    D) Backing up a server's data for fast recovery
+
+    Correct Answer: B
+
+---
+
+Q50. A "write-once, read-many" (WORM) storage property means:
+
+    A) The storage medium can be overwritten many times
+    B) Data can be written to the medium once permanently and
+       then only read, not erased or changed
+    C) The medium reads data faster than it writes it
+    D) The storage automatically backs up data to the cloud
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 6: THE SYSTEMS LIFE CYCLE
+────────────────────────────────────────────────────────────────
+
+Q51. A data flow diagram (DFD) is typically produced during
+     which stage of the systems life cycle?
+
+    A) Testing
+    B) Implementation
+    C) Design
+    D) Evaluation
+
+    Correct Answer: C
+
+---
+
+Q52. Which of the following describes "white box" testing?
+
+    A) Testing performed by end users with no knowledge of
+       the internal code
+    B) Testing that only checks the user interface visually
+    C) Testing in which the tester has full knowledge of the
+       internal code and structure, testing logic paths directly
+    D) Automated testing using pre-recorded user inputs
+
+    Correct Answer: C
+
+---
+
+Q53. A phased implementation strategy involves:
+
+    A) Running the old and new system together for a period
+    B) Switching all users to the new system in one go
+    C) Gradually rolling out the new system one department
+       or module at a time
+    D) Testing the system with a small group before full launch
+
+    Correct Answer: C
+
+---
+
+Q54. During the analysis stage, which tool is most commonly
+     used to gather information about how the current system
+     works?
+
+    A) Compiler and debugger tools
+    B) Questionnaires, interviews, observation, and
+       examination of existing documents
+    C) Entity-relationship diagrams
+    D) Test plans and expected outputs
+
+    Correct Answer: B
+
+---
+
+Q55. A system passes all tests during the testing phase but
+     users report it is too slow in real-world use. This
+     suggests which type of testing was insufficient?
+
+    A) Erroneous data testing
+    B) Normal data testing
+    C) Performance and load testing under realistic
+       real-world conditions
+    D) Unit testing of individual modules
+
+    Correct Answer: C
+
+---
+
+Q56. Which of the following is an output of the DESIGN stage
+     of the systems life cycle?
+
+    A) A fully tested and working piece of software
+    B) Interface designs, database structures, and
+       algorithm pseudocode or flowcharts
+    C) A list of stakeholder requirements
+    D) A training manual for end users
+
+    Correct Answer: B
+
+---
+
+Q57. "Maintenance" after a system is deployed can be classified
+     into three types. Which of the following is an example
+     of PERFECTIVE maintenance?
+
+    A) Fixing a bug that causes the system to crash
+       on certain inputs
+    B) Updating the system to work with a new operating
+       system version
+    C) Adding new features or improving performance
+       beyond the original specification
+    D) Rewriting the system from scratch after a major failure
+
+    Correct Answer: C
+
+---
+
+Q58. A pilot implementation strategy differs from phased
+     implementation in that pilot:
+
+    A) Introduces the new system to all departments at once
+    B) Tests the full new system in one selected location
+       or branch before rolling it out everywhere
+    C) Runs the old and new systems together indefinitely
+    D) Involves no end users during the rollout period
+
+    Correct Answer: B
+
+---
+
+Q59. Test data described as "normal" data refers to:
+
+    A) Data that falls outside the acceptable range
+    B) Data that sits exactly on the boundary of acceptance
+    C) Typical, valid data that the system should process
+       correctly under ordinary conditions
+    D) Data deliberately designed to crash the system
+
+    Correct Answer: C
+
+---
+
+Q60. Why is user involvement considered important throughout
+     the systems life cycle, not just at the beginning?
+
+    A) Users write the code, so they must be present always
+    B) Involving users at each stage ensures the system
+       continues to meet their actual needs, reducing costly
+       changes later
+    C) Legal requirements demand user signatures at each stage
+    D) Users are responsible for all testing activities
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 7: COMMUNICATION MEDIA & MOBILE COMMUNICATION
+────────────────────────────────────────────────────────────────
+
+Q61. A journalist publishes regular personal opinion pieces and
+     commentary online in reverse chronological order, with
+     readers able to leave comments below each post. This is
+     best described as a:
+
+    A) Wiki
+    B) Forum
+    C) Blog
+    D) ePublication
+
+    Correct Answer: C
+
+---
+
+Q62. Which characteristic makes a website more effective than
+     a printed poster as a communication medium for a business?
+
+    A) Posters are always read by more people than websites
+    B) A website can be updated instantly, reached globally,
+       and can include interactive and multimedia content
+    C) Websites require no maintenance once published
+    D) Printed posters load faster than web pages
+
+    Correct Answer: B
+
+---
+
+Q63. The term "bandwidth" in the context of communication
+     media refers to:
+
+    A) The physical width of a fibre optic cable
+    B) The number of devices connected to a single router
+    C) The amount of data that can be transmitted over a
+       connection per unit of time, usually measured in Mbps
+    D) The distance a wireless signal can travel
+
+    Correct Answer: C
+
+---
+
+Q64. Which of the following is a disadvantage specific to
+     audio-only communication compared to video communication?
+
+    A) Audio files are always more expensive to produce
+    B) Audio communication requires more bandwidth than video
+    C) The absence of visual cues such as facial expressions
+       and body language can lead to misunderstandings
+    D) Audio cannot be recorded or replayed after broadcast
+
+    Correct Answer: C
+
+---
+
+Q65. 3G networks enabled mobile internet use, but were limited
+     compared to 4G mainly because:
+
+    A) 3G did not support voice calls
+    B) 3G offered significantly lower data speeds, making
+       activities like video streaming slow or impractical
+    C) 3G required a physical SIM card, unlike 4G
+    D) 3G networks only worked indoors
+
+    Correct Answer: B
+
+---
+
+Q66. An online encyclopedia where thousands of volunteers
+     around the world collaboratively write and edit articles
+     is an example of a:
+
+    A) Blog
+    B) Forum
+    C) Social network
+    D) Wiki
+
+    Correct Answer: D
+
+---
+
+Q67. Which of the following is a key advantage of using
+     multimedia presentations over plain text documents
+     for training purposes?
+
+    A) Multimedia presentations require no preparation time
+    B) They engage multiple senses through audio, visuals,
+       and animation, which can improve understanding and
+       information retention
+    C) Multimedia files are always smaller than text documents
+    D) They work without any hardware or software requirements
+
+    Correct Answer: B
+
+---
+
+Q68. A hospital broadcasts a live surgery for medical students
+     to watch in real time over the internet. This is an
+     example of:
+
+    A) ePublication
+    B) Podcast
+    C) Live media streaming
+    D) Blog post
+
+    Correct Answer: C
+
+---
+
+Q69. Which of the following best explains why 5G is important
+     for the development of self-driving vehicles?
+
+    A) 5G eliminates the need for onboard sensors in vehicles
+    B) 5G's very low latency allows vehicles to communicate
+       with infrastructure and other cars almost instantly,
+       which is critical for real-time safety decisions
+    C) 5G provides built-in GPS navigation for vehicles
+    D) 5G replaces the vehicle's onboard computer entirely
+
+    Correct Answer: B
+
+---
+
+Q70. A forum differs from a blog in that a forum:
+
+    A) Is written and controlled by a single author
+    B) Cannot contain images or file attachments
+    C) Is a community space where multiple users start
+       and participate in discussion threads on various topics
+    D) Is always moderated by a government body
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 8: NETWORKS, SECURITY ISSUES & ELECTRONIC CONFERENCING
+────────────────────────────────────────────────────────────────
+
+Q71. A network switch is more efficient than a hub because:
+
+    A) A switch connects different networks, whereas a hub
+       connects only devices within the same room
+    B) A switch forwards data only to the specific device
+       it is intended for, reducing unnecessary traffic on
+       the network
+    C) A switch assigns IP addresses to connected devices
+    D) A switch can connect to the internet directly
+       without a router
+
+    Correct Answer: B
+
+---
+
+Q72. A firewall protects a network by:
+
+    A) Encrypting all stored data on connected devices
+    B) Speeding up data transfer between network devices
+    C) Monitoring and filtering incoming and outgoing network
+       traffic based on predefined security rules
+    D) Automatically updating software on connected computers
+
+    Correct Answer: C
+
+---
+
+Q73. Which of the following attacks involves flooding a server
+     with so many requests that it becomes overwhelmed and
+     unable to serve legitimate users?
+
+    A) Phishing
+    B) Man-in-the-middle attack
+    C) SQL injection
+    D) Distributed Denial of Service (DDoS) attack
+
+    Correct Answer: D
+
+---
+
+Q74. Biometric authentication uses which of the following to
+     verify identity?
+
+    A) A memorised PIN or password
+    B) A physical token such as a key fob
+    C) Unique physical or behavioural characteristics such
+       as fingerprints, retina scans, or voice patterns
+    D) A one-time code sent by email
+
+    Correct Answer: C
+
+---
+
+Q75. A VPN (Virtual Private Network) is used to:
+
+    A) Speed up a user's internet connection at home
+    B) Assign dynamic IP addresses to network devices
+    C) Create an encrypted tunnel over the internet, allowing
+       secure remote access to a private network
+    D) Block all incoming connections from the internet
+
+    Correct Answer: C
+
+---
+
+Q76. Which type of network topology connects all devices
+     directly to a single central switch or hub?
+
+    A) Ring topology
+    B) Mesh topology
+    C) Bus topology
+    D) Star topology
+
+    Correct Answer: D
+
+---
+
+Q77. A keylogger is a type of malware that:
+
+    A) Locks all files on a computer and demands payment
+    B) Records every keystroke made by the user and sends
+       it to an attacker, potentially capturing passwords
+       and sensitive data
+    C) Displays unwanted pop-up advertisements in the browser
+    D) Uses the victim's computer to send spam emails
+
+    Correct Answer: B
+
+---
+
+Q78. When a company stores sensitive data in the cloud, which
+     security measure is most critical to protect that data
+     from unauthorised access?
+
+    A) Using a faster internet connection
+    B) Strong encryption of data both in transit and at rest,
+       combined with strict access controls
+    C) Purchasing more cloud storage space
+    D) Connecting to the cloud only during business hours
+
+    Correct Answer: B
+
+---
+
+Q79. Electronic conferencing through video calls reduces costs
+     for businesses mainly by:
+
+    A) Eliminating the need to pay employees' salaries
+    B) Replacing the need for office space entirely
+    C) Reducing travel, accommodation, and venue expenses
+       for meetings between people in different locations
+    D) Allowing employees to work without any internet access
+
+    Correct Answer: C
+
+---
+
+Q80. Which of the following is a characteristic of a mesh
+     network topology?
+
+    A) All devices connect to one central hub
+    B) Devices are connected in a single circular loop
+    C) Every device connects to every other device, providing
+       multiple paths for data and high redundancy
+    D) All devices share a single backbone cable
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 9: THE INTERNET — USES, PROTOCOLS & WEB TECHNOLOGIES
+────────────────────────────────────────────────────────────────
+
+Q81. Which of the following statements correctly describes the
+     World Wide Web (WWW) in relation to the internet?
+
+    A) The WWW and the internet are exactly the same thing
+    B) The internet is the global network infrastructure;
+       the WWW is a service that runs on it, consisting of
+       interlinked web pages accessed via HTTP/HTTPS
+    C) The internet is a subset of the World Wide Web
+    D) The WWW refers only to email and file transfer services
+
+    Correct Answer: B
+
+---
+
+Q82. HTTPS operates on which default port number?
+
+    A) 80
+    B) 21
+    C) 25
+    D) 443
+
+    Correct Answer: D
+
+---
+
+Q83. A cookie stored in a web browser serves what purpose?
+
+    A) It speeds up the user's internet connection
+    B) It is a small piece of data stored by the browser
+       that websites use to remember user preferences,
+       sessions, or tracking information
+    C) It encrypts the user's browsing history
+    D) It prevents malware from accessing the browser
+
+    Correct Answer: B
+
+---
+
+Q84. Which of the following is a potential privacy concern
+     associated with social networking sites?
+
+    A) They make it too difficult to share information with
+       others online
+    B) Personal data shared on these platforms may be used
+       for targeted advertising or accessed by third parties
+       without users fully understanding the implications
+    C) Social networks prevent users from connecting with
+       people they already know
+    D) They encrypt all messages so strongly that even
+       users cannot read their own data
+
+    Correct Answer: B
+
+---
+
+Q85. The primary function of a web browser is to:
+
+    A) Store website files permanently on the user's hard drive
+    B) Translate HTML and other web code into the visual pages
+       that users see, and handle communication with web servers
+    C) Host websites and make them accessible to other users
+    D) Encrypt all websites automatically before displaying them
+
+    Correct Answer: B
+
+---
+
+Q86. IPv6 was developed as a successor to IPv4 primarily because:
+
+    A) IPv4 addresses were too long and difficult to remember
+    B) IPv6 is slower but more secure than IPv4
+    C) The pool of available IPv4 addresses was becoming
+       exhausted as the number of internet-connected devices
+       grew rapidly
+    D) IPv4 did not support wireless connections
+
+    Correct Answer: C
+
+---
+
+Q87. What is the purpose of a URL (Uniform Resource Locator)?
+
+    A) To encrypt data sent between a browser and a server
+    B) To uniquely identify and locate a specific resource
+       on the internet, such as a web page or file
+    C) To assign IP addresses to domain names
+    D) To manage cookies stored in the browser
+
+    Correct Answer: B
+
+---
+
+Q88. Which of the following correctly describes the role of
+     an ISP in internet access?
+
+    A) The ISP designs and builds the websites users visit
+    B) The ISP provides the physical or wireless infrastructure
+       and connection services that link users to the internet
+    C) The ISP encrypts all web traffic by default
+    D) The ISP assigns domain names to businesses globally
+
+    Correct Answer: B
+
+---
+
+Q89. A "hyperlink" on a web page functions by:
+
+    A) Storing a copy of the linked page on the user's device
+    B) Encrypting the destination URL for security purposes
+    C) Providing a clickable reference that navigates the
+       user to another resource, page, or location
+    D) Blocking access to external websites
+
+    Correct Answer: C
+
+---
+
+Q90. Which of the following is a disadvantage of wikis compared
+     to traditionally authored publications?
+
+    A) Wikis cannot be accessed from mobile devices
+    B) Wikis can only be edited by one person at a time
+    C) The accuracy of content on a wiki may be unreliable
+       because anyone can edit it, including those with
+       incorrect knowledge
+    D) Wikis do not allow users to search for topics
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 10: IP SUITE, DHCP, PRIVATE IPs, NAT & DNS
+────────────────────────────────────────────────────────────────
+
+Q91. The Link Layer of the TCP/IP model is responsible for:
+
+    A) Routing packets between different networks globally
+    B) Assigning logical IP addresses to network interfaces
+    C) Handling the physical transmission of data frames
+       between devices on the same local network segment
+    D) Managing application-level protocols like HTTP
+
+    Correct Answer: C
+
+---
+
+Q92. Which of the following correctly identifies a private IP
+     address in the Class B private range?
+
+    A) 10.50.20.1
+    B) 192.168.0.1
+    C) 172.20.5.100
+    D) 8.8.4.4
+
+    Correct Answer: C
+
+---
+
+Q93. A router performing NAT maintains a translation table.
+     What does this table record?
+
+    A) The usernames and passwords of all connected devices
+    B) The MAC addresses of devices on the wireless network
+    C) The mapping between each internal private IP address
+       and port number to the router's public IP address,
+       so return traffic reaches the correct device
+    D) The domain names and their associated IP addresses
+
+    Correct Answer: C
+
+---
+
+Q94. When a DHCP server's lease pool is exhausted, what
+     happens to a new device attempting to join the network?
+
+    A) It automatically creates its own static IP address
+    B) It borrows an IP address from an idle device
+    C) It cannot obtain an IP address from DHCP and may
+       fail to connect or use an APIPA address (169.254.x.x)
+    D) It connects using a default gateway address instead
+
+    Correct Answer: C
+
+---
+
+Q95. Which layer of the TCP/IP model does the HTTP protocol
+     operate at?
+
+    A) Link Layer
+    B) Internet Layer
+    C) Transport Layer
+    D) Application Layer
+
+    Correct Answer: D
+
+---
+
+Q96. A DNS resolver queries multiple DNS servers to resolve
+     a domain. The correct order of servers it contacts is:
+
+    A) Root server → Authoritative server → TLD server
+    B) TLD server → Root server → Authoritative server
+    C) Root server → TLD (Top-Level Domain) server →
+       Authoritative name server
+    D) Authoritative server → TLD server → Root server
+
+    Correct Answer: C
+
+---
+
+Q97. What is a "static IP address" and when would it
+     typically be used?
+
+    A) An IP address that changes automatically every 24 hours
+    B) A temporary IP address assigned by DHCP for one session
+    C) A manually configured, fixed IP address that does not
+       change, typically used for servers, printers, or
+       network devices that must always be reachable at the
+       same address
+    D) An address automatically assigned only to mobile devices
+
+    Correct Answer: C
+
+---
+
+Q98. The purpose of the loopback address (127.0.0.1) is to:
+
+    A) Identify the default gateway of a local network
+    B) Allow a device to send network packets to itself
+       for testing and diagnostics without using the
+       physical network interface
+    C) Assign a temporary address when DHCP is unavailable
+    D) Represent the broadcast address of a subnet
+
+    Correct Answer: B
+
+---
+
+Q99. IPv4 addresses are 32 bits long, giving a theoretical
+     maximum of approximately how many unique addresses?
+
+    A) 65,536
+    B) 1 million
+    C) 4.3 billion
+    D) 340 undecillion
+
+    Correct Answer: C
+
+---
+
+Q100. Which of the following correctly explains why NAT
+      improves network security as a side effect?
+
+     A) NAT encrypts all outgoing data packets automatically
+     B) NAT blocks all incoming traffic regardless of origin
+     C) By hiding internal private IP addresses behind a
+        single public IP, NAT makes it harder for external
+        attackers to directly target individual devices on
+        the internal network
+     D) NAT assigns unique public IPs to every internal device,
+        making each one traceable and accountable
+
+    Correct Answer: C
+
+
+================================================================
+                     END OF QUESTION BANK — SET 3
+================================================================

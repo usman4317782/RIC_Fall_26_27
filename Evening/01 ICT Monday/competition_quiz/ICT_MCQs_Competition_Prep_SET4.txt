@@ -1,0 +1,1400 @@
+================================================================
+   ICT COMPETITION PREPARATION — MULTIPLE CHOICE QUESTIONS
+                          SET 4
+================================================================
+
+────────────────────────────────────────────────────────────────
+TOPIC 1: THE ROLE OF ICT IN DAILY LIFE & COMPUTER-BASED SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q1. A ride-hailing app matches a passenger's location with the
+    nearest available driver in real time. This system relies
+    on which combination of technologies?
+
+    A) Expert systems and magnetic stripe readers
+    B) Satellite GPS, mobile communication, and booking system
+       software working together
+    C) Optical mark recognition and barcode scanning
+    D) School management and retail inventory systems
+
+    Correct Answer: B
+
+---
+
+Q2. An automated teller machine (ATM) is best described as
+    which type of computer-based system?
+
+    A) A standalone expert system
+    B) A satellite communication terminal
+    C) A specialised banking application system combining
+       input devices, secure processing, and output
+    D) A school management sub-system
+
+    Correct Answer: C
+
+---
+
+Q3. Which of the following is a negative social impact of
+    increasing ICT use in the retail industry?
+
+    A) Faster checkout times for customers
+    B) More accurate stock management
+    C) Reduction in the number of cashier jobs due to
+       self-service checkouts and automation
+    D) Better personalisation of shopping experiences
+
+    Correct Answer: C
+
+---
+
+Q4. A computer vision system in a factory inspects products
+    on a conveyor belt and rejects defective items. This is
+    best classified as a:
+
+    A) Booking system
+    B) Recognition system using image processing
+    C) School management system
+    D) Satellite-based navigation system
+
+    Correct Answer: B
+
+---
+
+Q5. Medical information systems improve patient care primarily
+    by:
+
+    A) Replacing surgeons with robotic systems entirely
+    B) Ensuring patient records, test results, and
+       prescriptions are stored securely and accessible
+       to authorised staff instantly
+    C) Reducing the number of doctors required in hospitals
+    D) Eliminating the need for physical examination of patients
+
+    Correct Answer: B
+
+---
+
+Q6. Which of the following best describes how ICT has changed
+    the way people access news compared to twenty years ago?
+
+    A) Newspapers have become more popular since ICT arrived
+    B) News is now primarily accessed through digital platforms
+       in real time, often personalised and available globally
+       without waiting for a printed edition
+    C) Television has been completely replaced by the internet
+    D) People read fewer news articles now than before ICT
+
+    Correct Answer: B
+
+---
+
+Q7. A smart electricity meter records household energy use
+    automatically and transmits the data to the energy provider
+    without a meter reader visiting the property. This is an
+    application of:
+
+    A) Expert system technology
+    B) Booking and reservation systems
+    C) ICT-enabled automatic data capture and transmission
+       using sensors and communication networks
+    D) Optical character recognition at the property
+
+    Correct Answer: C
+
+---
+
+Q8. Which of the following is a concern about over-reliance
+    on computer-based expert systems in medical diagnosis?
+
+    A) Expert systems are too slow to process symptoms
+    B) They may miss conditions outside their programmed
+       knowledge base, and over-reliance could reduce
+       clinicians' own diagnostic skills over time
+    C) Expert systems always diagnose incorrectly
+    D) They require satellite connections to function
+
+    Correct Answer: B
+
+---
+
+Q9. E-commerce differs from traditional retail mainly because:
+
+    A) E-commerce only sells digital products, not physical
+       goods
+    B) Transactions occur online without the customer needing
+       to visit a physical store, often available 24 hours
+       a day worldwide
+    C) E-commerce requires more staff than traditional retail
+    D) Traditional retail is cheaper for businesses to operate
+       than e-commerce
+
+    Correct Answer: B
+
+---
+
+Q10. Contactless payment using a smartphone relies on which
+     technology to communicate with the payment terminal?
+
+    A) Bluetooth at long range
+    B) RFID / Near Field Communication (NFC)
+    C) Wi-Fi at 5 GHz
+    D) Optical barcode scanning
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 2: MAIN COMPONENTS OF COMPUTER SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q11. A compiler is a type of software that:
+
+    A) Manages physical connections between hardware components
+    B) Translates high-level programming language source code
+       into machine code that the CPU can execute directly
+    C) Monitors network traffic for security threats
+    D) Compresses files to reduce storage space
+
+    Correct Answer: B
+
+---
+
+Q12. Which of the following is an example of system software?
+
+    A) A photo editing application
+    B) A word processing program
+    C) An operating system such as Windows or Linux
+    D) A web browser used for internet browsing
+
+    Correct Answer: C
+
+---
+
+Q13. The purpose of an interpreter differs from a compiler in
+     that an interpreter:
+
+    A) Converts the entire program into machine code before
+       running it
+    B) Translates and executes source code one line at a time
+       without producing a separate machine code file
+    C) Only works with assembly language programs
+    D) Compresses the source code to make it run faster
+
+    Correct Answer: B
+
+---
+
+Q14. A UPS (Uninterruptible Power Supply) is considered a
+     physical component of a computer system because it:
+
+    A) Stores backup copies of software programs
+    B) Provides temporary battery power to keep the system
+       running during a mains power failure, preventing
+       data loss
+    C) Encrypts data stored on hard drives
+    D) Boosts Wi-Fi signal strength in the building
+
+    Correct Answer: B
+
+---
+
+Q15. Which of the following correctly describes the function
+     of the operating system's memory management role?
+
+    A) It permanently stores all user files on the hard drive
+    B) It allocates portions of RAM to running programs,
+       tracks which areas are in use, and frees memory
+       when programs close
+    C) It increases the physical size of RAM automatically
+    D) It moves data from RAM to the CPU cache permanently
+
+    Correct Answer: B
+
+---
+
+Q16. A touchpad on a laptop is best categorised as which type
+     of component?
+
+    A) Output device (hardware)
+    B) Communication technology
+    C) Software input driver
+    D) Physical input device (hardware)
+
+    Correct Answer: D
+
+---
+
+Q17. The BIOS (Basic Input/Output System) performs which task
+     when a computer is first switched on?
+
+    A) It loads the user's documents from the hard drive
+    B) It runs a Power-On Self-Test (POST) to check that
+       hardware components are functioning, then loads
+       the operating system
+    C) It connects the computer to the nearest Wi-Fi network
+    D) It installs device drivers for all connected peripherals
+
+    Correct Answer: B
+
+---
+
+Q18. Which of the following is NOT a function of an operating
+     system?
+
+    A) Managing files and folders on storage devices
+    B) Controlling access through user accounts and permissions
+    C) Designing the user interface of commercial apps
+    D) Managing processes and allocating CPU time
+
+    Correct Answer: C
+
+---
+
+Q19. A scanner connected to a computer via USB sends image
+     data into the system. The USB cable in this context
+     is part of which component category?
+
+    A) Software
+    B) Internal memory
+    C) Communication technology (data transfer interface)
+    D) Processing hardware
+
+    Correct Answer: C
+
+---
+
+Q20. When software is described as being "cross-platform,"
+     it means:
+
+    A) It can only run on one specific operating system
+    B) It runs on multiple different operating systems such
+       as Windows, macOS, and Linux without modification
+    C) It is designed exclusively for mobile devices
+    D) It requires the internet to function on any device
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 3: TYPES OF COMPUTERS, CPU & INTERNAL MEMORY
+────────────────────────────────────────────────────────────────
+
+Q21. A server computer differs from a standard desktop computer
+     primarily in that a server:
+
+    A) Has a keyboard and mouse for direct user interaction
+    B) Is designed to provide services, resources, or data
+       to other computers on a network continuously, often
+       without a monitor
+    C) Uses a mobile processor to save power
+    D) Can only be used by a single user at a time
+
+    Correct Answer: B
+
+---
+
+Q22. Pipelining in a CPU improves performance by:
+
+    A) Adding more cores to the processor chip
+    B) Increasing the size of the CPU cache memory
+    C) Overlapping the fetch, decode, and execute stages of
+       multiple instructions so several instructions are
+       processed simultaneously at different stages
+    D) Reducing the clock speed to prevent overheating
+
+    Correct Answer: C
+
+---
+
+Q23. A solid-state drive used as the primary drive in a laptop
+     means the laptop will typically:
+
+    A) Have a noisier fan due to extra heat from the SSD
+    B) Take longer to boot up compared to an HDD laptop
+    C) Boot up faster, run more quietly, and consume less
+       power than an equivalent HDD-based laptop
+    D) Be unable to store large video files
+
+    Correct Answer: C
+
+---
+
+Q24. Which factor most directly determines how quickly a CPU
+     can access data stored in RAM?
+
+    A) The clock speed of the RAM modules
+    B) The resolution of the connected monitor
+    C) The number of optical drives installed
+    D) The number of USB ports on the motherboard
+
+    Correct Answer: A
+
+---
+
+Q25. A 64-bit processor differs from a 32-bit processor in
+     that a 64-bit processor can:
+
+    A) Run at twice the clock speed of a 32-bit processor
+    B) Address significantly more RAM and process larger
+       chunks of data in a single operation
+    C) Only run software written specifically for 64-bit systems
+    D) Use twice as many cores as a 32-bit processor
+
+    Correct Answer: B
+
+---
+
+Q26. When a computer is described as having "4 GB of RAM,"
+     this refers to:
+
+    A) The amount of permanent storage available for user files
+    B) The speed of the processor in gigahertz
+    C) The capacity of the graphics card's dedicated memory
+    D) The amount of volatile memory available for running
+       programs and temporary data storage
+
+    Correct Answer: D
+
+---
+
+Q27. A thin client computer differs from a standard desktop
+     in that a thin client:
+
+    A) Has no network connection and works entirely offline
+    B) Has minimal local processing power and storage,
+       relying on a central server to do most of the
+       computing work
+    C) Is faster than a standard desktop for all tasks
+    D) Runs all software locally without any server required
+
+    Correct Answer: B
+
+---
+
+Q28. Overclocking a CPU means:
+
+    A) Installing a CPU that runs at a lower speed to
+       save electricity
+    B) Running the CPU at a clock speed higher than its
+       rated specification to gain extra performance,
+       often at the cost of increased heat
+    C) Adding more cores to the existing CPU
+    D) Reducing the CPU cache to free up space on the chip
+
+    Correct Answer: B
+
+---
+
+Q29. The register in a CPU is used to:
+
+    A) Store the operating system permanently
+    B) Hold data, instructions, or addresses that the CPU
+       is currently working with during processing
+    C) Manage the connection between the CPU and the monitor
+    D) Control the speed of the cooling fan
+
+    Correct Answer: B
+
+---
+
+Q30. Which of the following correctly explains why a tablet
+     computer uses an ARM processor rather than a standard
+     desktop x86 processor?
+
+    A) ARM processors are faster than x86 for all tasks
+    B) x86 processors cannot run mobile operating systems
+    C) ARM processors are designed for low power consumption
+       and heat output, making them ideal for battery-powered
+       portable devices
+    D) ARM processors have more cores than any x86 processor
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 4: INPUT DEVICES, OUTPUT DEVICES & DIRECT DATA ENTRY
+────────────────────────────────────────────────────────────────
+
+Q31. A graphics tablet used by an illustrator captures the
+     pressure and angle of a stylus. This device is primarily
+     classified as a/an:
+
+    A) Output device
+    B) Storage device
+    C) Input device
+    D) Processing peripheral
+
+    Correct Answer: C
+
+---
+
+Q32. Which of the following correctly identifies a situation
+     where a laser printer would be LESS suitable than
+     an inkjet printer?
+
+    A) Printing thousands of black-and-white text documents
+    B) Printing high-quality photographs with subtle colour
+       gradients at home
+    C) High-volume office document printing
+    D) Printing sharp text at fast speeds
+
+    Correct Answer: B
+
+---
+
+Q33. A magnetic stripe on a payment card stores data encoded
+     in which form?
+
+    A) Optical patterns read by a laser
+    B) Radio frequency signals emitted continuously
+    C) Magnetic particles arranged in patterns that represent
+       binary data, read by a magnetic head
+    D) A printed QR code embedded within the stripe
+
+    Correct Answer: C
+
+---
+
+Q34. At a polling station, voters mark their choice on a paper
+     ballot which is later fed into a counting machine. The
+     counting machine uses which technology?
+
+    A) OCR to read handwritten names on the ballot
+    B) RFID to detect which box was ticked
+    C) OMR to detect marks made in designated areas
+    D) Barcode scanning to identify individual ballot papers
+
+    Correct Answer: C
+
+---
+
+Q35. A data projector and a speaker together provide which
+     types of output from a computer?
+
+    A) Visual input and audio input
+    B) Visual output and audio output
+    C) Tactile output and visual output
+    D) Audio output and storage output
+
+    Correct Answer: B
+
+---
+
+Q36. Which of the following is the MOST significant advantage
+     of direct data entry methods over manual keyboard entry?
+
+    A) Direct data entry requires more trained staff to operate
+    B) Direct data entry is always more expensive to implement
+    C) It reduces the chance of human transcription errors
+       and speeds up the data capture process
+    D) Manual keyboard entry is always less accurate than
+       direct data entry for all types of data
+
+    Correct Answer: C
+
+---
+
+Q37. A numeric keypad is specifically useful when a user needs
+     to:
+
+    A) Write long documents with many different characters
+    B) Enter large volumes of numerical data quickly and
+       accurately, as the layout mirrors a calculator
+    C) Control the cursor position on screen precisely
+    D) Scan barcodes from product packaging
+
+    Correct Answer: B
+
+---
+
+Q38. In terms of output quality, which printer type produces
+     the sharpest, most precise lines when printing detailed
+     technical drawings?
+
+    A) Dot matrix printer
+    B) Inkjet printer
+    C) Laser printer
+    D) Plotter
+
+    Correct Answer: D
+
+---
+
+Q39. A hospital patient monitoring system uses sensors attached
+     to a patient to continuously record heart rate and blood
+     pressure. These sensors function as:
+
+    A) Output devices that display readings on screen
+    B) Storage devices that archive patient data
+    C) Input devices that capture real-world physical data
+       and feed it into the computer system
+    D) Processing units that calculate medication doses
+
+    Correct Answer: C
+
+---
+
+Q40. The key difference between a joystick and a mouse as
+     input devices is that a joystick:
+
+    A) Cannot be used for gaming applications
+    B) Provides analogue directional control often used for
+       flight simulators and gaming, while a mouse is
+       primarily designed for navigating flat 2D interfaces
+    C) Is connected wirelessly while mice always use cables
+    D) Uses optical laser technology to detect movement
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 5: STORAGE DEVICES
+────────────────────────────────────────────────────────────────
+
+Q41. Formatting a storage device before first use achieves
+     which of the following?
+
+    A) It physically cleans the surface of the storage medium
+    B) It creates the file system structure that allows the
+       operating system to organise and track stored files
+    C) It increases the physical storage capacity of the device
+    D) It permanently encrypts all data written to the device
+
+    Correct Answer: B
+
+---
+
+Q42. A hard drive is described as having a rotational speed
+     of 7200 RPM. A higher RPM generally means:
+
+    A) The drive uses more storage capacity per file
+    B) The drive is physically larger in size
+    C) The read/write head reaches data faster as the
+       platters spin more quickly beneath it
+    D) The drive generates less heat during operation
+
+    Correct Answer: C
+
+---
+
+Q43. A school backs up its server data every night. Which
+     storage medium is most appropriate for holding these
+     automated nightly backups at low ongoing cost?
+
+    A) USB pen drives inserted manually each night
+    B) Blu-ray discs burned by a robotic disc writer
+    C) High-capacity magnetic tape in an automated tape library
+    D) Individual SSDs allocated per backup session
+
+    Correct Answer: C
+
+---
+
+Q44. Data fragmentation on a traditional HDD occurs when:
+
+    A) The drive's magnetic coating wears out from overuse
+    B) Files are stored in non-contiguous blocks scattered
+       across the disk, causing the read head to travel
+       further and slowing access times
+    C) The drive is exposed to excessive heat
+    D) Too many files are stored in a single folder
+
+    Correct Answer: B
+
+---
+
+Q45. Why does defragmentation NOT improve the performance
+     of an SSD the way it does for an HDD?
+
+    A) SSDs do not store data in blocks
+    B) SSDs have no file system and cannot be defragmented
+    C) SSDs access any storage location equally fast
+       regardless of where data is physically stored,
+       so rearranging blocks provides no speed benefit
+    D) SSDs are always faster than HDDs after defragmentation
+
+    Correct Answer: C
+
+---
+
+Q46. An SD card used in a digital camera is a form of:
+
+    A) Optical storage
+    B) Magnetic storage
+    C) Flash-based solid-state storage
+    D) Cloud-based virtual storage
+
+    Correct Answer: C
+
+---
+
+Q47. Which of the following correctly describes the purpose
+     of an off-site backup?
+
+    A) It speeds up data recovery when files are accidentally
+       deleted from the main system
+    B) It ensures a copy of data is stored in a separate
+       physical location, protecting against total loss
+       from local disasters like fire or flood
+    C) It allows multiple users to access the same file
+       simultaneously
+    D) It automatically updates files in real time as changes
+       are made
+
+    Correct Answer: B
+
+---
+
+Q48. A DVD holds approximately 4.7 GB of data. How does this
+     compare to a standard single-layer Blu-ray disc?
+
+    A) They hold the same amount of data
+    B) Blu-ray holds less data because it uses a smaller disc
+    C) Blu-ray holds significantly more, approximately 25 GB
+       on a single layer
+    D) DVD holds more data than a single-layer Blu-ray disc
+
+    Correct Answer: C
+
+---
+
+Q49. When evaluating storage for a database server that handles
+     thousands of random read/write requests per second, which
+     is the most suitable primary storage?
+
+    A) Magnetic tape drive
+    B) Optical disc array
+    C) Traditional HDD in a RAID array
+    D) NVMe SSD for its very high random read/write speeds
+
+    Correct Answer: D
+
+---
+
+Q50. The term "storage capacity" refers to:
+
+    A) How quickly data can be read from or written to
+       the storage medium
+    B) The maximum amount of data the storage medium can hold,
+       typically measured in gigabytes or terabytes
+    C) The physical dimensions of the storage device
+    D) The number of files that can be open simultaneously
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 6: THE SYSTEMS LIFE CYCLE
+────────────────────────────────────────────────────────────────
+
+Q51. An entity-relationship diagram (ERD) produced during the
+     design phase is used to:
+
+    A) Show the step-by-step actions a user takes to log in
+    B) Model the data requirements of the system by showing
+       entities and the relationships between them
+    C) Document every bug discovered during testing
+    D) Plan the schedule for user training sessions
+
+    Correct Answer: B
+
+---
+
+Q52. "Black box" testing differs from white box testing in that
+     black box testing:
+
+    A) Is only performed by the original developers
+    B) Requires full knowledge of the internal code logic
+    C) Tests the system based on inputs and expected outputs
+       without any knowledge of the internal code structure
+    D) Uses automated scripts to test individual functions
+
+    Correct Answer: C
+
+---
+
+Q53. Which of the following is an example of CORRECTIVE
+     maintenance after a system is deployed?
+
+    A) Adding a new reporting feature users requested
+    B) Rewriting the system in a newer programming language
+    C) Fixing a bug that causes incorrect calculations in
+       the payroll module
+    D) Updating the interface to match a new company branding
+
+    Correct Answer: C
+
+---
+
+Q54. A prototyping approach to system development involves:
+
+    A) Writing the full system before showing it to any users
+    B) Building a quick working model of key parts of the
+       system early so users can give feedback before the
+       full system is built
+    C) Testing the system only after it is completely finished
+    D) Skipping the design phase to save development time
+
+    Correct Answer: B
+
+---
+
+Q55. The purpose of a test plan in the testing phase is to:
+
+    A) List all the hardware the system will run on
+    B) Record all meetings between the developer and client
+    C) Document in advance what will be tested, the test data
+       used, expected results, and actual results
+    D) Describe how the system will be marketed to users
+
+    Correct Answer: C
+
+---
+
+Q56. During the implementation phase, "user acceptance testing"
+     (UAT) involves:
+
+    A) Developers testing the code for logical errors
+    B) The client and end users verifying that the system
+       meets their requirements before formally accepting it
+    C) Automated scripts running overnight to test performance
+    D) The project manager reviewing the design documents
+
+    Correct Answer: B
+
+---
+
+Q57. ADAPTIVE maintenance refers to:
+
+    A) Fixing errors in the system identified by users
+    B) Adding new features to improve the system beyond
+       its original specification
+    C) Modifying the system to work correctly in a new
+       environment, such as a new operating system or
+       hardware platform
+    D) Rewriting poorly written code to improve readability
+       without changing its functionality
+
+    Correct Answer: C
+
+---
+
+Q58. Which of the following best describes the agile approach
+     to software development compared to the traditional
+     waterfall systems life cycle?
+
+    A) Agile completes all phases once in a strict linear
+       sequence before delivering the system
+    B) Agile delivers working software in short iterative
+       cycles, allowing requirements to evolve with ongoing
+       user feedback throughout development
+    C) Agile skips testing entirely to deliver faster
+    D) Agile only works for very small software projects
+
+    Correct Answer: B
+
+---
+
+Q59. When testing a numeric input field that accepts values
+     between 1 and 100, which value represents boundary
+     (extreme) test data?
+
+    A) 50
+    B) 75
+    C) 100
+    D) 200
+
+    Correct Answer: C
+
+---
+
+Q60. The main reason documentation should be updated whenever
+     changes are made to a system is:
+
+    A) To increase the file size of the project archive
+    B) So that developers, users, and future maintainers
+       always have accurate and current information about
+       how the system works
+    C) Legal regulations require documentation to be
+       updated daily
+    D) To replace the need for user training sessions
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 7: COMMUNICATION MEDIA & MOBILE COMMUNICATION
+────────────────────────────────────────────────────────────────
+
+Q61. A podcast differs from a live radio broadcast mainly
+     because:
+
+    A) Podcasts can only be listened to on smartphones
+    B) A podcast is a pre-recorded audio programme available
+       on demand, allowing listeners to subscribe and
+       download episodes at any time
+    C) Radio broadcasts are always higher quality than podcasts
+    D) Podcasts cannot include interviews or multiple speakers
+
+    Correct Answer: B
+
+---
+
+Q62. Which of the following correctly identifies a situation
+     where a printed poster would be MORE effective than a
+     website for communication?
+
+    A) Reaching an international audience across many countries
+    B) Providing detailed, regularly updated product information
+    C) Attracting attention in a physical location such as
+       a bus stop or shopping centre where passers-by do
+       not have devices open
+    D) Allowing two-way interaction with the audience
+
+    Correct Answer: C
+
+---
+
+Q63. A company sends its weekly staff update as a formatted
+     digital document distributed by email to all employees.
+     This is best described as a/an:
+
+    A) Blog
+    B) ePublication / digital newsletter
+    C) Wiki
+    D) Media stream
+
+    Correct Answer: B
+
+---
+
+Q64. Near Field Communication (NFC) is used in mobile payment
+     systems rather than Bluetooth because NFC:
+
+    A) Has a much longer range than Bluetooth
+    B) Transfers data at higher speeds for large files
+    C) Works at very short range (a few centimetres),
+       reducing the risk of accidental or unauthorised
+       transactions compared to Bluetooth's longer range
+    D) Does not require any hardware in the payment terminal
+
+    Correct Answer: C
+
+---
+
+Q65. Which of the following is a disadvantage of media streaming
+     compared to downloading content?
+
+    A) Streaming requires the user to wait for the entire
+       file to download before starting playback
+    B) Streaming cannot deliver video content of any quality
+    C) If the internet connection drops or slows significantly
+       during streaming, playback is interrupted or degrades
+    D) Downloading is always more expensive than streaming
+
+    Correct Answer: C
+
+---
+
+Q66. Mobile data roaming allows a smartphone user to:
+
+    A) Use their home network's signal in any country
+       without connecting to a foreign network
+    B) Connect to a partner network in another country to
+       make calls and use data, usually at an additional cost
+    C) Access Wi-Fi automatically in foreign airports
+    D) Download maps offline before travelling abroad
+
+    Correct Answer: B
+
+---
+
+Q67. The main purpose of using subtitles or closed captions
+     in video communication media is to:
+
+    A) Reduce the file size of the video
+    B) Make the video content accessible to viewers who
+       are deaf or hard of hearing, or watching in
+       a noisy environment without sound
+    C) Replace the audio track in the video entirely
+    D) Increase the video's playback speed
+
+    Correct Answer: B
+
+---
+
+Q68. Which of the following is NOT an advantage of digital
+     ePublications over printed publications?
+
+    A) They can be updated and corrected after distribution
+    B) They can include hyperlinks, audio, and video elements
+    C) They are accessible to anyone regardless of internet
+       availability or device ownership
+    D) They have no printing or physical distribution costs
+
+    Correct Answer: C
+
+---
+
+Q69. Wi-Fi calling allows a smartphone user to make voice
+     calls over a Wi-Fi network. The main benefit of this
+     feature is:
+
+    A) It increases the mobile data usage of the phone
+    B) It allows calls to be made in areas with poor
+       cellular signal but available Wi-Fi coverage
+    C) It eliminates the need for a SIM card in the phone
+    D) It is always free of charge regardless of the
+       network provider
+
+    Correct Answer: B
+
+---
+
+Q70. Which of the following describes "asynchronous"
+     communication?
+
+    A) Both parties must be available and communicating
+       at exactly the same time
+    B) Communication where messages are sent and received
+       at different times, such as email or discussion
+       forum posts
+    C) Real-time video calls requiring simultaneous presence
+    D) Communication that only works through wired connections
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 8: NETWORKS, SECURITY ISSUES & ELECTRONIC CONFERENCING
+────────────────────────────────────────────────────────────────
+
+Q71. A proxy server sits between client computers and the
+     internet. Its main uses include:
+
+    A) Assigning IP addresses and managing DNS lookups
+    B) Caching frequently requested web content to speed up
+       access, filtering content, and hiding internal IP
+       addresses from external servers
+    C) Encrypting all files stored on client computers
+    D) Managing user passwords across the network
+
+    Correct Answer: B
+
+---
+
+Q72. Which of the following correctly explains the difference
+     between a wired and a wireless network connection in
+     terms of reliability?
+
+    A) Wireless is always more reliable than wired connections
+    B) Wired connections are generally more stable and less
+       susceptible to interference than wireless connections
+    C) Both offer identical reliability in all environments
+    D) Wired connections are only suitable for home use
+
+    Correct Answer: B
+
+---
+
+Q73. Social engineering in cybersecurity refers to:
+
+    A) Writing malicious code to exploit software vulnerabilities
+    B) Flooding a server with traffic to cause it to crash
+    C) Manipulating people through deception to reveal
+       confidential information or perform actions that
+       compromise security
+    D) Intercepting encrypted data packets on a network
+
+    Correct Answer: C
+
+---
+
+Q74. A honeypot in network security is:
+
+    A) A firewall rule that blocks all external connections
+    B) A decoy system deliberately set up to attract and
+       detect hackers, diverting them from real systems
+       and gathering information about attack methods
+    C) An antivirus program that scans email attachments
+    D) A type of two-factor authentication device
+
+    Correct Answer: B
+
+---
+
+Q75. The principle of "least privilege" in network security
+     means:
+
+    A) All users are given administrator-level access to
+       work efficiently
+    B) Passwords must be as short as possible to avoid
+       being forgotten
+    C) Each user is given only the minimum access rights
+       necessary to perform their specific job tasks
+    D) The network must use the cheapest available security
+       software
+
+    Correct Answer: C
+
+---
+
+Q76. A man-in-the-middle (MITM) attack occurs when:
+
+    A) An attacker breaks into a server room physically
+    B) An attacker secretly intercepts and potentially
+       alters communication between two parties who believe
+       they are communicating directly with each other
+    C) Multiple computers flood a server simultaneously
+    D) A user is tricked into visiting a fake login page
+
+    Correct Answer: B
+
+---
+
+Q77. Which of the following is a benefit of using a centralised
+     network with a dedicated server compared to a peer-to-peer
+     network?
+
+    A) Centralised networks are cheaper to set up for
+       small groups of two or three users
+    B) In a peer-to-peer network, security and backup are
+       easier to manage consistently
+    C) A centralised server allows resources, security
+       policies, and backups to be managed from one point
+       for all users on the network
+    D) Peer-to-peer networks perform better for large
+       organisations with hundreds of users
+
+    Correct Answer: C
+
+---
+
+Q78. Data packets travelling across the internet may pass
+     through several routers before reaching their destination.
+     This path-finding process is called:
+
+    A) Switching
+    B) Bridging
+    C) Routing
+    D) Tunnelling
+
+    Correct Answer: C
+
+---
+
+Q79. Which of the following correctly describes end-to-end
+     encryption in messaging applications?
+
+    A) Messages are encrypted on the sender's device and can
+       only be decrypted by the intended recipient's device,
+       preventing even the service provider from reading them
+    B) Only the connection between the user and the server
+       is encrypted, but the server can read all messages
+    C) Encryption is applied only when both users are online
+       at the same time
+    D) The message is encrypted by the server and decrypted
+       by the router before delivery
+
+    Correct Answer: A
+
+---
+
+Q80. A network using the 802.11ac Wi-Fi standard differs from
+     one using 802.11n mainly in that 802.11ac:
+
+    A) Operates only on the 2.4 GHz band
+    B) Has lower maximum data transfer speeds than 802.11n
+    C) Cannot connect more than five devices simultaneously
+    D) Operates on the 5 GHz band offering faster speeds
+       and less interference than 802.11n's 2.4 GHz band
+
+    Correct Answer: D
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 9: THE INTERNET — USES, PROTOCOLS & WEB TECHNOLOGIES
+────────────────────────────────────────────────────────────────
+
+Q81. Search engine optimisation (SEO) refers to:
+
+    A) Installing faster hardware on a web server to
+       improve loading speed
+    B) Techniques used to improve a website's ranking in
+       search engine results pages to attract more visitors
+    C) Encrypting a website's content so it appears higher
+       in search results
+    D) Automatically blocking competitor websites from
+       appearing in searches
+
+    Correct Answer: B
+
+---
+
+Q82. What does the term "bandwidth" mean in the context
+     of an internet connection?
+
+    A) The number of web pages a user can have open at once
+    B) The physical length of the cable connecting the user
+       to their ISP
+    C) The maximum rate at which data can be transferred
+       over the connection, typically measured in Mbps
+    D) The number of devices connected to a home router
+
+    Correct Answer: C
+
+---
+
+Q83. Which of the following best explains why HTTPS is now
+     standard for most websites rather than HTTP?
+
+    A) HTTPS pages load faster than HTTP pages
+    B) Search engines rank HTTPS sites lower as a penalty
+    C) HTTPS encrypts data between the browser and server,
+       protecting user data such as login credentials and
+       payment information from interception
+    D) HTTP is no longer technically supported by browsers
+
+    Correct Answer: C
+
+---
+
+Q84. The term "net neutrality" refers to the principle that:
+
+    A) All internet users must pay the same monthly fee
+    B) Internet service providers must treat all internet
+       traffic equally, without slowing down or blocking
+       specific websites or services
+    C) Governments control which websites citizens can access
+    D) Search engines must display results alphabetically
+
+    Correct Answer: B
+
+---
+
+Q85. Which protocol is used to send email from a client
+     to a mail server?
+
+    A) FTP
+    B) HTTP
+    C) SMTP
+    D) IMAP
+
+    Correct Answer: C
+
+---
+
+Q86. IMAP differs from POP3 for email access in that IMAP:
+
+    A) Downloads and deletes emails from the server,
+       storing them only on the local device
+    B) Keeps emails stored on the server and synchronises
+       them across multiple devices, so messages are
+       accessible from anywhere
+    C) Cannot be used on mobile devices
+    D) Only works when connected to a wired network
+
+    Correct Answer: B
+
+---
+
+Q87. A "phishing" email is specifically designed to:
+
+    A) Deliver a software update to the recipient's computer
+    B) Advertise products from legitimate businesses
+    C) Deceive the recipient into revealing personal
+       information, clicking malicious links, or downloading
+       harmful attachments
+    D) Block the recipient's access to their email account
+
+    Correct Answer: C
+
+---
+
+Q88. Cloud computing allows businesses to scale their IT
+     resources up or down quickly. The main business
+     advantage of this flexibility is:
+
+    A) It permanently removes the need for any IT staff
+    B) Companies pay only for the resources they actually use
+       and can expand capacity rapidly without buying new
+       physical hardware
+    C) Cloud providers own all the company's data permanently
+    D) It eliminates all cybersecurity risks for the business
+
+    Correct Answer: B
+
+---
+
+Q89. Which of the following correctly describes the purpose
+     of a content delivery network (CDN)?
+
+    A) It filters inappropriate content before it reaches
+       the user's browser
+    B) It distributes copies of website content across
+       servers in multiple geographic locations so users
+       load it from the nearest server, reducing latency
+    C) It hosts only email services for large organisations
+    D) It encrypts all web traffic between users and websites
+
+    Correct Answer: B
+
+---
+
+Q90. The "Deep Web" refers to:
+
+    A) Illegal websites that sell stolen data
+    B) Websites that only load on specific browsers
+    C) Parts of the internet not indexed by standard search
+       engines, including private databases, online banking
+       portals, and medical records systems
+    D) Websites that load very slowly due to poor hosting
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 10: IP SUITE, DHCP, PRIVATE IPs, NAT & DNS
+────────────────────────────────────────────────────────────────
+
+Q91. The Transport Layer of the TCP/IP suite communicates
+     between specific applications using:
+
+    A) IP addresses to identify source and destination
+    B) MAC addresses burned into network interface cards
+    C) Port numbers that identify which application or
+       service on a device should receive the data
+    D) Domain names resolved by DNS
+
+    Correct Answer: C
+
+---
+
+Q92. Port 443 is associated with which protocol?
+
+    A) FTP
+    B) SMTP
+    C) HTTP
+    D) HTTPS
+
+    Correct Answer: D
+
+---
+
+Q93. When a home router receives a data packet from the
+     internet destined for a device on the internal network,
+     NAT determines which device should receive it by:
+
+    A) Broadcasting the packet to all devices and letting
+       the correct one accept it
+    B) Checking the destination MAC address in the packet
+    C) Consulting its translation table to match the port
+       number in the packet to the correct internal device
+    D) Asking the DNS server which device requested the data
+
+    Correct Answer: C
+
+---
+
+Q94. What is the purpose of a subnet mask in IP networking?
+
+    A) It encrypts data packets before they leave the network
+    B) It assigns a domain name to a device's IP address
+    C) It defines which portion of an IP address identifies
+       the network and which identifies the specific host
+       device within that network
+    D) It determines how fast data travels between routers
+
+    Correct Answer: C
+
+---
+
+Q95. An APIPA address (169.254.x.x) is assigned to a device
+     when:
+
+    A) The device is connected to a secure VPN tunnel
+    B) The DNS server cannot resolve the requested domain
+    C) The device fails to obtain an IP address from a DHCP
+       server and assigns itself a link-local address
+    D) The router runs out of NAT translation table entries
+
+    Correct Answer: C
+
+---
+
+Q96. Which of the following correctly describes the difference
+     between TCP port 80 and TCP port 443?
+
+    A) Port 80 is for email and port 443 is for file transfer
+    B) Port 80 is for unencrypted HTTP web traffic and port
+       443 is for encrypted HTTPS web traffic
+    C) Port 80 is faster because it skips encryption overhead
+    D) Both ports serve identical functions for web browsing
+
+    Correct Answer: B
+
+---
+
+Q97. IPv6 addresses are 128 bits long, compared to IPv4's
+     32 bits. This means IPv6 can support approximately:
+
+    A) Twice as many addresses as IPv4
+    B) About 4.3 billion unique addresses
+    C) 340 undecillion unique addresses, effectively
+       eliminating the address exhaustion problem
+    D) The same number of addresses but with better routing
+
+    Correct Answer: C
+
+---
+
+Q98. A TTL (Time To Live) value in a DNS record specifies:
+
+    A) How long it takes for a DNS query to be resolved
+    B) The expiry date of an SSL certificate on the domain
+    C) How long a DNS resolver should cache the record before
+       querying the authoritative server again for a fresh copy
+    D) The maximum number of users that can visit a website
+       simultaneously
+
+    Correct Answer: C
+
+---
+
+Q99. Which of the following correctly explains why two devices
+     on the same home network can have the same private IP
+     address as two devices on a different home network
+     without causing conflicts?
+
+    A) Private IP addresses are globally unique by design
+    B) Routers automatically change private IPs to avoid
+       duplication across different networks
+    C) Private IP addresses are only meaningful within their
+       own local network; NAT translates them to the router's
+       public IP before traffic leaves the network, so they
+       never appear on the public internet
+    D) DNS resolves any conflicts between duplicate private
+       addresses on different networks
+
+    Correct Answer: C
+
+---
+
+Q100. The Application Layer of the TCP/IP model is responsible
+      for which of the following?
+
+      A) Breaking data into packets and routing them between
+         networks
+      B) Defining how data is physically transmitted as signals
+         over cables or wirelessly
+      C) Managing logical addressing using IP addresses
+      D) Providing protocols that applications use to
+         communicate over a network, such as HTTP, FTP,
+         DNS, and SMTP
+
+    Correct Answer: D
+
+
+================================================================
+                     END OF QUESTION BANK — SET 4
+================================================================
