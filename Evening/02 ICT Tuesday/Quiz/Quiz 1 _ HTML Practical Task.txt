@@ -1,0 +1,901 @@
+===========================================================
+       PRACTICAL TASKS - INDIVIDUAL STUDENT ASSIGNMENTS
+===========================================================
+Instructions:
+- Each student must complete BOTH practical tasks assigned to them.
+- Write valid HTML code and save your file as [YourName].html
+- Every task must be attempted independently.
+- No copy-paste from other students. All solutions must be original.
+===========================================================
+
+-----------------------------------------------------------
+1. MUHAMMAD SUFYAN RANA
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "My School" using the <!DOCTYPE html> declaration,
+<html>, <head>, and <body> tags. Inside the body, add:
+  - A main heading using <h1> that says "Welcome to My School"
+  - A subheading using <h2> that says "About Us"
+  - A paragraph using <p> that describes your school in 2-3 sentences.
+Explain in a comment (<!-- -->) above each section what that tag does.
+
+Task 2:
+Write an HTML page that demonstrates text formatting. Include:
+  - One sentence in <b> (bold) introducing your name.
+  - One sentence in <i> (italic) describing your favourite subject.
+  - One sentence in <u> (underline) stating your class.
+  - One sentence using <strong> to highlight an important school rule.
+  - One sentence using <em> to emphasise a motivational quote.
+
+-----------------------------------------------------------
+2. SYED MUHAMMAD JAMAL
+-----------------------------------------------------------
+Task 1:
+Build an HTML page called "My Favourite Sport". Use the correct HTML structure
+(DOCTYPE, html, head, body). Inside the body:
+  - Use <h1> for the sport name.
+  - Use <h3> for a section called "Why I Love It".
+  - Use <p> to write three sentences about why you enjoy this sport.
+  - Add an HTML comment explaining why the <head> tag is used.
+
+Task 2:
+Create an HTML page that uses at least FIVE different text formatting tags.
+Your topic is "Health Tips". Each tip should use a different tag:
+  - Tip 1: <b> — importance of drinking water.
+  - Tip 2: <i> — benefits of exercise.
+  - Tip 3: <mark> — highlight one warning about junk food.
+  - Tip 4: <small> — a footnote about consulting a doctor.
+  - Tip 5: <del> — a common health myth that is incorrect.
+
+-----------------------------------------------------------
+3. ABDUL MOEED
+-----------------------------------------------------------
+Task 1:
+Create a simple HTML page about "My Favourite Book". The page must:
+  - Use a proper HTML boilerplate (DOCTYPE, html, head with <title>, body).
+  - Include <h1> for the book title.
+  - Include <h2> for "Author Name" and <h4> for "Genre".
+  - Include a <p> tag with a short summary of the book (3 sentences).
+  - Write a comment above the <body> tag explaining what the body element does.
+
+Task 2:
+Write an HTML page on the topic "Internet Safety Rules". Use the following
+formatting tags — each for a different rule:
+  - <strong> for the most critical rule (never share passwords).
+  - <em> for a reminder about verifying sources.
+  - <u> for a rule about not clicking unknown links.
+  - <sup> to add a superscript note number after one rule (e.g., Rule¹).
+  - <sub> to add subscript text at the bottom (e.g., Source₁: Internet Safety Guide).
+
+-----------------------------------------------------------
+4. HAMZA NADEEM
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "My Dream Job". Use the full HTML structure. Include:
+  - <h1> for the job title (e.g., "Software Engineer").
+  - <h2> for a section called "Responsibilities".
+  - <h3> for a section called "Skills Required".
+  - Two <p> tags — one for responsibilities and one for required skills.
+  - Use HTML comments to label each section.
+
+Task 2:
+Create an HTML page called "Technology Facts" that uses:
+  - <b> to highlight one important tech fact.
+  - <i> to italicise the name of a famous tech company.
+  - <mark> to highlight the year a major technology was invented.
+  - <ins> to show newly added information (e.g., "5G is now available in Pakistan").
+  - <del> to show outdated information (e.g., "3G is the fastest network").
+
+-----------------------------------------------------------
+5. MUHAMMAD ZEESHAN
+-----------------------------------------------------------
+Task 1:
+Write an HTML page called "Pakistani Cuisine". The page should:
+  - Have a proper HTML document structure.
+  - Use <h1> for the page title "Famous Pakistani Dishes".
+  - Use <h2> for three dish names (Biryani, Nihari, Karahi).
+  - Use a separate <p> under each <h2> describing the dish in one sentence.
+  - Add a comment inside the <head> section explaining the purpose of the <title> tag.
+
+Task 2:
+Create an HTML page on "My Study Plan" using text formatting. Include:
+  - <b> for the name of your most important subject.
+  - <i> for the name of your favourite teacher.
+  - <u> for the day you study the most.
+  - <big> to make one motivational phrase appear larger.
+  - <small> to write a note about study breaks in smaller text.
+
+-----------------------------------------------------------
+6. MUBASHIR ALI
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "History of Computers". Use a full HTML boilerplate.
+Include:
+  - <h1> for the page title.
+  - <h2> for three time periods: "1940s", "1980s", "2000s".
+  - Under each <h2>, write a <p> describing computers in that era (1-2 sentences).
+  - Add HTML comments to explain the difference between <h1> and <h2>.
+
+Task 2:
+Create an HTML page on the topic "Environmental Awareness" using:
+  - <strong> to emphasise that pollution is dangerous.
+  - <em> to stress the importance of planting trees.
+  - <mark> to highlight the statistic: "8 million tons of plastic enters the ocean yearly."
+  - <del> to cross out a wrong claim: "Burning waste is harmless."
+  - <ins> to replace it with the correct statement: "Burning waste causes air pollution."
+
+-----------------------------------------------------------
+7. MUHAMMAD DANIYAL
+-----------------------------------------------------------
+Task 1:
+Create an HTML page called "About HTML". The page must demonstrate that you
+understand what HTML is by including:
+  - <h1> with the text: "What is HTML?"
+  - A <p> explaining HTML in your own words (at least 3 sentences).
+  - <h2> with the text: "Why Do We Use HTML?"
+  - Another <p> explaining why HTML is used for web pages.
+  - An HTML comment between the two sections explaining the structure.
+
+Task 2:
+Write an HTML page on "Sports Champions" using text formatting tags:
+  - Use <b> to bold the name of a world champion.
+  - Use <i> to italicise the name of the sport.
+  - Use <u> to underline the year they won.
+  - Use <sup> to add a footnote number after the champion's name (e.g., Ali¹).
+  - Use <sub> to write the footnote reference at the bottom (e.g., ¹Source: Wikipedia).
+
+-----------------------------------------------------------
+8. DUA KHAN SHERWANI
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "My Favourite Season". The page must use:
+  - DOCTYPE declaration and full HTML structure (html, head, body).
+  - <title> inside head with an appropriate name.
+  - <h1> for the season name.
+  - <h2> for three subsections: "Weather", "Activities", "Food".
+  - A <p> under each subsection with a one-sentence description.
+
+Task 2:
+Create an HTML page on "Women in Technology" using formatting tags:
+  - <strong> to highlight the name of a famous female tech pioneer (e.g., Ada Lovelace).
+  - <em> to emphasise her contribution.
+  - <mark> to highlight the year she made her breakthrough.
+  - <big> to make the main heading visually stand out.
+  - <small> for a closing note: "Learn more at any technology encyclopedia."
+
+-----------------------------------------------------------
+9. MUHAMMAD SAMEER BUTT
+-----------------------------------------------------------
+Task 1:
+Write an HTML page called "My City". The page should:
+  - Have a valid HTML document structure.
+  - Use <h1> for the city name.
+  - Use <h2> for three sections: "Famous Places", "Local Food", "Population".
+  - Write a <p> for each section with one to two sentences.
+  - Use comments to separate each section clearly.
+
+Task 2:
+Create an HTML formatting page on "Space Exploration" that uses:
+  - <b> for the name of the first space mission.
+  - <i> for the name of an astronaut.
+  - <u> for the launch date.
+  - <del> for a cancelled mission name.
+  - <ins> to show the replacement mission that actually launched.
+  - <mark> to highlight the name of the first moon landing year.
+
+-----------------------------------------------------------
+10. ALEEHA
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "Healthy Lifestyle". Use full HTML structure. Include:
+  - <h1>: "Steps to a Healthy Life"
+  - <h3> for four categories: Sleep, Diet, Exercise, Mental Health.
+  - A <p> under each <h3> with a short description.
+  - An HTML comment above the body section explaining what content goes inside body.
+
+Task 2:
+Write an HTML page on "Animals of Pakistan" using:
+  - <b> to bold the name of Pakistan's national animal (Markhor).
+  - <i> to italicise the scientific name of the snow leopard.
+  - <u> to underline the name of an endangered species.
+  - <strong> to highlight a conservation warning.
+  - <em> to emphasise a fact about one animal's habitat.
+
+-----------------------------------------------------------
+11. MUHAMMAD ABDULLAH NAEEM
+-----------------------------------------------------------
+Task 1:
+Build an HTML page called "HTML Tags Explained". In this page:
+  - Use <h1> as the main title.
+  - Use <h2> to introduce two categories: "Structural Tags" and "Formatting Tags".
+  - Under "Structural Tags", use <p> to describe what <html>, <head>, and <body> do.
+  - Under "Formatting Tags", use <p> to describe what <b>, <i>, and <u> do.
+  - Add a comment at the top of the file explaining the purpose of the page.
+
+Task 2:
+Create an HTML page on "My Future Goals" using:
+  - <strong> to highlight your most important goal.
+  - <em> to show which goal excites you the most.
+  - <mark> to highlight the year you plan to achieve your top goal.
+  - <small> for a humble note at the bottom: "Goals change — keep learning."
+  - <big> to make one power statement appear larger than the rest.
+
+-----------------------------------------------------------
+12. ADIL KHAN
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "Introduction to Programming". Your page should:
+  - Use a full HTML boilerplate.
+  - Have <h1> as the page title.
+  - Include <h2> for three programming languages: Python, HTML, Java.
+  - Write a <p> under each language explaining in one sentence what it is used for.
+  - Use an HTML comment to explain why indentation matters in HTML coding.
+
+Task 2:
+Write an HTML page on "Road Safety Rules" using formatting tags:
+  - <b> for the most important road safety rule.
+  - <i> for the name of a road safety campaign in Pakistan.
+  - <u> for the speed limit on highways.
+  - <del> to cross out a myth: "It's safe to use a phone while driving."
+  - <ins> to show the correct advice: "Always keep your phone on silent while driving."
+
+-----------------------------------------------------------
+13. IHSAN ULLAH
+-----------------------------------------------------------
+Task 1:
+Write an HTML page called "Famous Scientists". Use the correct HTML structure.
+Include:
+  - <h1> for the page title: "Great Scientists of the World".
+  - Three <h2> tags — one for each scientist: Einstein, Newton, Marie Curie.
+  - A <p> under each <h2> describing one major discovery by that scientist.
+  - An HTML comment explaining why the <!DOCTYPE html> declaration is used.
+
+Task 2:
+Create an HTML formatting page on "Online Learning Benefits" using:
+  - <strong> to highlight the most important benefit (e.g., flexibility).
+  - <em> to emphasise accessibility for remote students.
+  - <mark> to highlight a key statistic or year.
+  - <sup> to add a reference number to one claim (e.g., "Research shows¹").
+  - <sub> to write the reference at the bottom (e.g., ¹Online Learning Journal, 2024).
+
+-----------------------------------------------------------
+14. HAFIZ DANISH ABBAS
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "My Favourite Hobby". The page must have:
+  - A proper HTML boilerplate including a meaningful <title>.
+  - <h1> for the hobby name.
+  - <h2> for two sections: "How I Started" and "What I Have Learned".
+  - A <p> under each section with two sentences.
+  - An HTML comment describing what the <head> section contains and why.
+
+Task 2:
+Create an HTML page on "Important Islamic Values" using text formatting:
+  - <b> for the value of honesty (Sidq).
+  - <strong> for the value of patience (Sabr) with a note that it is especially important.
+  - <i> for an Arabic term used in daily life.
+  - <em> for an emphasised reminder about daily prayer.
+  - <u> for the name of the holy book.
+
+-----------------------------------------------------------
+15. MUDASSAR KHAN
+-----------------------------------------------------------
+Task 1:
+Create an HTML page called "Water Conservation". The page must:
+  - Use full HTML structure with DOCTYPE, html, head, body.
+  - Include <title>: "Save Water".
+  - Use <h1> for the main heading.
+  - Use <h2> for three tips: "At Home", "In Schools", "In Industry".
+  - Add a <p> under each tip with a practical suggestion.
+  - Write an HTML comment explaining what pair tags (opening and closing) are.
+
+Task 2:
+Write an HTML page on "My Favourite Subject: ICT" using:
+  - <b> for the full name: Information and Communication Technology.
+  - <i> for the name of a software you use in ICT class.
+  - <u> for the name of your ICT teacher.
+  - <mark> to highlight one topic you find most interesting.
+  - <big> to make the sentence "ICT is the future!" visually prominent.
+
+-----------------------------------------------------------
+16. MUHAMMAD BILAL
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "Types of HTML Tags". Explain the concept by:
+  - Using <h1> as the main heading.
+  - Creating two sections with <h2>: "Paired Tags" and "Self-Closing Tags".
+  - Under "Paired Tags", use <p> to explain and give two examples (<b>, <p>).
+  - Under "Self-Closing Tags", use <p> to explain and give one example (<br>).
+  - Insert a horizontal line using <hr> between the two sections.
+
+Task 2:
+Create an HTML page on "Pakistani Independence Day" using:
+  - <h1> in <big> style: "14th August — A Day of Pride"
+  - <strong> for: "Pakistan gained independence in 1947."
+  - <em> for: "Every citizen must remember the sacrifices of our heroes."
+  - <mark> to highlight the year 1947.
+  - <del> for a wrong date: "15th August" and <ins> for the correct date: "14th August".
+
+-----------------------------------------------------------
+17. SHAHZADA MUHAMMAD JALIB
+-----------------------------------------------------------
+Task 1:
+Write an HTML page about "The Internet". Your page must:
+  - Have a valid HTML boilerplate.
+  - Use <h1> for the title: "What is the Internet?"
+  - Write a <p> explaining the internet in your own words.
+  - Use <h2> for "Uses of the Internet" and list three uses in a <p>.
+  - Use <h3> for "Risks of the Internet" and describe one risk in a <p>.
+  - Add comments between each section.
+
+Task 2:
+Create an HTML formatting page on "Exam Preparation Tips":
+  - <b> for "Start early — do not leave revision for the last night."
+  - <i> for the name of a recommended study technique.
+  - <u> for the exam date as a reminder.
+  - <small> for the note: "Consult your teacher for subject-specific tips."
+  - <strong> for the most critical tip: "Sleep well before the exam."
+
+-----------------------------------------------------------
+18. SHEHROZ MEHMOOD CH
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "HTML Document Structure". Demonstrate your
+knowledge by building a page that:
+  - Correctly includes <!DOCTYPE html>, <html>, <head>, <title>, <body>.
+  - Uses <h1> to explain: "Parts of an HTML Document".
+  - Uses <h2> for each part: DOCTYPE, HTML Tag, Head Tag, Body Tag.
+  - Writes a <p> under each <h2> explaining what that part does in one sentence.
+  - Adds comments next to each tag explaining its role.
+
+Task 2:
+Write an HTML page on "Climate Change" using formatting tags:
+  - <strong> for: "Climate change is the biggest threat of our century."
+  - <em> for: "Every individual must take responsibility."
+  - <mark> to highlight the temperature rise figure: "1.5°C above pre-industrial levels."
+  - <del> for: "Climate change is not real." (a denied myth).
+  - <ins> for: "Scientific evidence proves climate change is real and urgent."
+
+-----------------------------------------------------------
+19. AHMAD MUSA KHAN
+-----------------------------------------------------------
+Task 1:
+Design an HTML page called "My Timetable Introduction". The page should:
+  - Use proper HTML structure.
+  - Have <h1>: "My Weekly School Timetable".
+  - Have <h2> for three days: Monday, Wednesday, Friday.
+  - Under each day, use <p> to list two subjects studied that day.
+  - Write an HTML comment explaining the difference between a tag and an element.
+
+Task 2:
+Create an HTML page on "Artificial Intelligence" using:
+  - <b> for the full term: "Artificial Intelligence (AI)".
+  - <i> for the name of a famous AI tool (e.g., ChatGPT).
+  - <mark> to highlight the year AI became widely popular.
+  - <strong> for: "AI will reshape every industry in the next decade."
+  - <em> for: "Humans must learn AI skills to stay relevant in the future."
+
+-----------------------------------------------------------
+20. HAFIZ MUHAMMAD NAVEED MUSHTAQ
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "Quaid-e-Azam Muhammad Ali Jinnah". The page should:
+  - Use proper HTML boilerplate.
+  - <h1> for the full name as the main heading.
+  - <h2> for three sections: "Early Life", "Role in Pakistan's Creation", "Legacy".
+  - A <p> under each section with two to three sentences.
+  - Add a comment at the top explaining what HTML stands for and what it is used for.
+
+Task 2:
+Write an HTML page on "Digital Citizenship Rules" using formatting:
+  - <strong> for: "Respect others' privacy online."
+  - <em> for: "Always verify information before sharing."
+  - <u> for: "Report cyberbullying to a trusted adult."
+  - <del> for: "Sharing someone's photo without permission is acceptable."
+  - <ins> for: "Always ask for permission before sharing someone's photo online."
+  - <mark> to highlight the most important rule.
+
+-----------------------------------------------------------
+21. DANISH ASLAM
+-----------------------------------------------------------
+Task 1:
+Write an HTML page titled "My Favourite Movie". Include:
+  - Correct HTML structure with <!DOCTYPE html>.
+  - <h1> for the movie title.
+  - <h2> for "Plot Summary", "Main Characters", and "Why I Recommend It".
+  - A <p> under each section.
+  - An HTML comment between each section explaining the heading hierarchy
+    (h1 is the most important, h2 is a subsection).
+
+Task 2:
+Create an HTML page on "Cybersecurity Basics" using:
+  - <b> for "Always use a strong password."
+  - <i> for the term: "Two-Factor Authentication (2FA)".
+  - <u> to underline: "Never click on suspicious email links."
+  - <mark> to highlight: "Phishing is the most common form of cybercrime."
+  - <small> for a closing note: "Stay safe — think before you click."
+
+-----------------------------------------------------------
+22. SYED SHOAIB RAZA
+-----------------------------------------------------------
+Task 1:
+Create an HTML page called "Parts of a Computer". Use correct HTML structure.
+  - <h1>: "Main Parts of a Computer System".
+  - <h2> for four parts: Monitor, Keyboard, CPU, Mouse.
+  - A <p> under each <h2> describing what that part does in one sentence.
+  - Use a self-closing <br> tag between each part to add a line break.
+  - Add a comment at the bottom of the file explaining what a self-closing tag is.
+
+Task 2:
+Write an HTML page on "Benefits of Reading Books" using:
+  - <strong> for: "Reading improves vocabulary and critical thinking."
+  - <em> for a quote from a famous author (make one up or use a known one).
+  - <b> for the name of one recommended book.
+  - <i> for the author's name.
+  - <mark> to highlight the genre of the book.
+  - <small> for: "Visit your local library for more book recommendations."
+
+-----------------------------------------------------------
+23. MUSKAN WAHEED
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "Importance of Education". The page must:
+  - Use a valid HTML boilerplate with a meaningful title in the <head>.
+  - Use <h1> for the main heading.
+  - Use <h2> for three perspectives: "For Individuals", "For Society", "For the Country".
+  - Write a <p> for each perspective with two sentences.
+  - Insert an <hr> tag between each section as a separator and comment explaining it.
+
+Task 2:
+Create an HTML page on "My Role Model" using text formatting:
+  - <b> for the full name of your role model.
+  - <i> for their profession.
+  - <u> for the country they are from.
+  - <strong> for one lesson you have learned from them.
+  - <em> for a quote or motto associated with them.
+  - <mark> for the year they achieved their most famous accomplishment.
+
+-----------------------------------------------------------
+24. AHMAD RAZA IFTIKHAR
+-----------------------------------------------------------
+Task 1:
+Write an HTML page about "Social Media". The page must:
+  - Have proper HTML structure.
+  - <h1>: "Social Media — Advantages and Disadvantages".
+  - <h2>: "Advantages" — with a <p> listing two advantages.
+  - <h2>: "Disadvantages" — with a <p> listing two disadvantages.
+  - <h3>: "Tips for Responsible Use" — with a <p> suggesting two tips.
+  - Add HTML comments explaining the difference between <h2> and <h3>.
+
+Task 2:
+Create an HTML page on "Pakistani Heroes in Sports" using:
+  - <b> for the name of a Pakistani cricket champion.
+  - <i> for the name of the sport.
+  - <u> for the year of their greatest achievement.
+  - <del> for a record that has since been broken.
+  - <ins> for the new record that replaced it.
+  - <strong> to highlight their lasting legacy.
+
+-----------------------------------------------------------
+25. ZAINAB
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "My Favourite Subject". The page should:
+  - Use complete and valid HTML structure.
+  - <h1> for the subject name.
+  - <h2> for three sections: "What I Learn", "Why I Like It", "How It Helps My Future".
+  - A <p> under each section with two to three sentences.
+  - Add a comment inside the <head> section explaining the purpose of the <meta charset="UTF-8"> tag (even if not added, explain it).
+
+Task 2:
+Write an HTML page on "Ramadan and Its Blessings" using formatting tags:
+  - <b> for "The month of Ramadan is a time of reflection and worship."
+  - <i> for Arabic terms like "Iftar" and "Suhoor".
+  - <u> for the Islamic calendar month name: "Ramadan".
+  - <strong> for: "Fasting teaches self-discipline and gratitude."
+  - <em> for: "Every night of Ramadan brings its own spiritual reward."
+
+-----------------------------------------------------------
+26. MUHAMMAD ZOHAIB
+-----------------------------------------------------------
+Task 1:
+Build an HTML page called "HTML vs Other Languages". In this page:
+  - Use <h1> for the title.
+  - Use <h2> for two comparisons: "HTML vs CSS" and "HTML vs Python".
+  - Write a <p> under each comparison explaining the main difference.
+  - Include a third <h2>: "What HTML Cannot Do Alone" with a <p> explaining
+    that HTML needs CSS for styling and JavaScript for interactivity.
+  - Add HTML comments explaining your understanding of HTML's role.
+
+Task 2:
+Create an HTML formatting page on "Fire Safety at Home":
+  - <strong>: "Never leave a stove unattended."
+  - <em>: "Install smoke detectors on every floor."
+  - <mark>: highlight "Emergency number: 1122" in Pakistan.
+  - <del>: cross out wrong advice: "Use water to put out an electrical fire."
+  - <ins>: insert correct advice: "Use a fire extinguisher for electrical fires."
+  - <small>: "Conduct a fire drill at home every 6 months."
+
+-----------------------------------------------------------
+27. AHMED RAZA
+-----------------------------------------------------------
+Task 1:
+Write an HTML page titled "My Personal Profile". Include:
+  - Proper HTML boilerplate with <title> as your name.
+  - <h1> for your full name.
+  - <h2> for three sections: "About Me", "My Interests", "My Goals".
+  - A <p> under each section written in first person.
+  - Use <br> tags inside the "My Interests" section to separate each interest on a new line.
+  - Comment at the top explaining what HTML is in your own words.
+
+Task 2:
+Create an HTML page on "Digital Devices in Education" using:
+  - <b> for "Tablets and laptops are essential tools in modern classrooms."
+  - <i> for the name of a popular educational app.
+  - <u> for the name of a subject taught using digital tools.
+  - <mark> to highlight the year online schooling became widespread globally.
+  - <strong> for: "Every student deserves access to digital learning resources."
+
+-----------------------------------------------------------
+28. MUHAMMAD SABEEH
+-----------------------------------------------------------
+Task 1:
+Create an HTML page called "Internet vs Library". The page should:
+  - Use a complete HTML structure.
+  - <h1>: "Internet vs Traditional Library: A Comparison".
+  - <h2>: "Advantages of the Internet" with a <p> listing two points.
+  - <h2>: "Advantages of a Library" with a <p> listing two points.
+  - <h2>: "Which is Better?" with a <p> giving your personal opinion.
+  - Add a comment explaining why having a <title> in the <head> is important.
+
+Task 2:
+Write an HTML page on "Traffic Rules in Pakistan" using:
+  - <b> for: "Always wear a seatbelt."
+  - <i> for the name of an authority that enforces traffic laws.
+  - <u> for the speed limit in city areas.
+  - <del> for: "Helmet is optional for motorcycle riders."
+  - <ins> for: "Helmet is mandatory by law for all motorcycle riders."
+  - <strong>: "Obeying traffic rules saves lives."
+
+-----------------------------------------------------------
+29. MUHAMMAD SHAHZAD
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "My Dream Country to Visit". Include:
+  - Valid HTML structure.
+  - <h1> for the country name.
+  - <h2> for three sections: "Top Attractions", "Local Food", "Best Time to Visit".
+  - A <p> under each section with two sentences.
+  - Use an <hr> tag between sections and an HTML comment explaining what <hr> does.
+
+Task 2:
+Create an HTML page on "Responsibilities of a Good Student" using:
+  - <strong> for: "Attend every class and be punctual."
+  - <em> for: "Ask questions — curiosity is the key to learning."
+  - <b> for the name of one responsibility (e.g., Respect).
+  - <u> for the name of the school or institution.
+  - <mark> to highlight the most critical responsibility.
+  - <small> for: "Small efforts daily lead to big achievements."
+
+-----------------------------------------------------------
+30. MUNEEBA IKRAM
+-----------------------------------------------------------
+Task 1:
+Write an HTML page called "Sustainable Energy". The page must:
+  - Use correct HTML boilerplate.
+  - <h1>: "The Future is Renewable Energy".
+  - <h2> for three energy types: Solar, Wind, Hydroelectric.
+  - A <p> under each type explaining how it works in one sentence.
+  - Add an HTML comment at the top of the body explaining the concept of nested tags.
+
+Task 2:
+Create an HTML page on "Women's Rights and Education" using formatting:
+  - <strong> for: "Every girl has the right to an education."
+  - <em> for: "Education is the most powerful weapon for change."
+  - <mark> to highlight the year the UN declared education a universal right.
+  - <del>: a stereotype that is false (e.g., "Girls should not study science.").
+  - <ins>: the correct statement (e.g., "Girls excel in science and technology.").
+
+-----------------------------------------------------------
+31. FATIMA SALEEM
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "My School Day Routine". Use:
+  - Proper HTML structure with a meaningful <title>.
+  - <h1>: "A Day in My Life as a Student".
+  - <h2> for four time periods: Morning, Mid-Day, Afternoon, Evening.
+  - A <p> under each time period with two to three sentences about activities.
+  - Use <br> tags to add line breaks within the morning routine paragraph.
+
+Task 2:
+Create an HTML formatting page on "Mental Health Awareness":
+  - <strong>: "Mental health is as important as physical health."
+  - <em>: "It is okay to ask for help."
+  - <mark>: highlight "World Mental Health Day: 10th October".
+  - <b>: bold the name of one mental health condition (e.g., Anxiety).
+  - <i>: italicise the name of a helpful coping strategy (e.g., Mindfulness).
+  - <small>: "If you are struggling, talk to a trusted adult or counsellor."
+
+-----------------------------------------------------------
+32. SUMAIQA MANSOOR
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "The Solar System". Include:
+  - Full HTML structure.
+  - <h1>: "Exploring Our Solar System".
+  - <h2> for three planets: Earth, Mars, Jupiter.
+  - A <p> under each planet with one interesting fact.
+  - Add a comment inside the HTML explaining what <!DOCTYPE html> tells the browser.
+
+Task 2:
+Write an HTML page on "Global Warming Solutions" using:
+  - <strong>: "Reducing carbon emissions is the top priority."
+  - <em>: "Each individual can make a difference."
+  - <b> for the name of one renewable energy solution.
+  - <mark> to highlight the target year for carbon neutrality (e.g., 2050).
+  - <del>: "Fossil fuels will last forever." (myth).
+  - <ins>: "Fossil fuels are finite and must be replaced with renewables."
+
+-----------------------------------------------------------
+33. EMAAN SHAHID
+-----------------------------------------------------------
+Task 1:
+Create an HTML page called "Careers in Technology". Use:
+  - Correct and complete HTML boilerplate.
+  - <h1>: "Top Technology Careers of the Future".
+  - <h2> for four career titles: Web Developer, Data Scientist, Cybersecurity Expert, AI Engineer.
+  - A <p> under each career explaining in one sentence what that professional does.
+  - Use comments to label each career section.
+
+Task 2:
+Create an HTML page on "Gratitude and Positivity" using:
+  - <strong>: "A grateful mind is a powerful mind."
+  - <em>: "Start each day by listing three things you are thankful for."
+  - <i> for the name of a motivational book about positivity.
+  - <b> for the name of a psychologist or author known for positive psychology.
+  - <mark> to highlight one key technique (e.g., journaling).
+  - <small>: "Positivity is a habit — build it daily."
+
+-----------------------------------------------------------
+34. ABEERA SOHAIL
+-----------------------------------------------------------
+Task 1:
+Write an HTML page titled "Lahore — City of Gardens". Include:
+  - Valid HTML boilerplate with the city name in the <title>.
+  - <h1> for the city name.
+  - <h2> for three sections: "History", "Famous Landmarks", "Local Cuisine".
+  - A <p> under each section with two sentences.
+  - Add a comment explaining why HTML tags must always be properly closed.
+
+Task 2:
+Create an HTML page on "Leadership Qualities" using:
+  - <strong> for: "A true leader leads by example."
+  - <em> for: "Listening is the most underrated leadership skill."
+  - <b> for the name of a great leader from history.
+  - <u> for the country or organisation they led.
+  - <mark> to highlight one leadership quality (e.g., Integrity).
+  - <del> for a misconception: "Leaders must always be the loudest in the room."
+  - <ins> for the truth: "The best leaders often lead quietly through consistent action."
+
+-----------------------------------------------------------
+35. MUALADAQ
+-----------------------------------------------------------
+Task 1:
+Design an HTML page titled "My Community". Use valid HTML. Include:
+  - <h1> for the neighbourhood or area name.
+  - <h2> for three aspects: "People", "Infrastructure", "Problems We Face".
+  - A <p> under each aspect with two sentences.
+  - An HTML comment explaining the difference between <head> content (not visible)
+    and <body> content (visible to users in the browser).
+
+Task 2:
+Write an HTML page on "Time Management for Students" using:
+  - <b> for: "Make a daily schedule and stick to it."
+  - <i> for the name of a time management technique (e.g., Pomodoro Technique).
+  - <strong> for: "Wasting time now means regretting later."
+  - <em> for: "Even 20 focused minutes a day can change your results."
+  - <mark> to highlight one rule: "Prioritise tasks by importance, not urgency."
+  - <small>: "Review your schedule every Sunday to stay on track."
+
+-----------------------------------------------------------
+36. AROOJ JAMIL
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "HTML Self-Closing Tags". Demonstrate your
+understanding of self-closing tags by:
+  - Using <h1> as the page title: "What Are Self-Closing Tags?"
+  - Writing a <p> explaining in your own words what a self-closing tag is.
+  - Using <br> to create a line break inside a paragraph of text.
+  - Using <hr> to draw a horizontal line between two paragraphs.
+  - Adding comments next to <br> and <hr> explaining what each one does.
+
+Task 2:
+Write an HTML page on "Festivals of Pakistan" using formatting:
+  - <b> for the name of Pakistan's national festival or holiday.
+  - <i> for a traditional greeting used during Eid.
+  - <u> for the date of Pakistan Day.
+  - <strong>: "Celebrating our culture keeps our identity alive."
+  - <em>: "Every festival tells the story of our people."
+  - <mark> to highlight one unique cultural practice.
+
+-----------------------------------------------------------
+37. SHAHEEN FARI
+-----------------------------------------------------------
+Task 1:
+Write an HTML page called "My Ambition". The page must:
+  - Use a complete and valid HTML structure.
+  - <h1> for your life ambition.
+  - <h2> for three steps: "My Plan", "Challenges I May Face", "How I Will Overcome Them".
+  - A <p> under each <h2> with three sentences.
+  - Use an HTML comment after the closing </body> tag explaining what happens
+    if body tags are not used correctly.
+
+Task 2:
+Create an HTML page on "Food Waste Awareness" using:
+  - <strong>: "One-third of all food produced globally is wasted."
+  - <em>: "What you throw away, someone else could have survived on."
+  - <mark> to highlight: "Pakistan wastes 40% of its food annually."
+  - <del>: "Food waste is not a serious problem."
+  - <ins>: "Food waste is a global crisis affecting millions."
+  - <b> for one practical tip to reduce food waste at home.
+
+-----------------------------------------------------------
+38. MUHAMMAD ABDULLAH AMEEN
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "Text Formatting in HTML". Create a demo page that:
+  - Uses <h1> as the page title.
+  - Has a <h2> for each of the following sections and uses the actual tag in a sample
+    sentence to demonstrate it:
+      - Bold (<b>)
+      - Italic (<i>)
+      - Underline (<u>)
+      - Strikethrough (<del>)
+      - Highlight (<mark>)
+  - Adds a comment next to each example explaining what the tag changes visually.
+
+Task 2:
+Write an HTML page on "The Power of Dua (Prayer)" using:
+  - <strong>: "Dua is the weapon of the believer."
+  - <em>: "Make dua in every difficulty and in every blessing."
+  - <i> for an Arabic phrase (e.g., "Alhamdulillah").
+  - <b> for one specific time when dua is especially accepted.
+  - <mark> to highlight it.
+  - <small>: "Keep your heart connected to Allah in every moment."
+
+-----------------------------------------------------------
+39. MUHAMMAD ABDULLAH
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "What I Learned About HTML Today". Write a reflective
+page that includes:
+  - <h1>: "My HTML Learning Journal — Day 1".
+  - <h2>: "What is HTML?" with a <p> explaining it in your own words.
+  - <h2>: "What are Tags?" with a <p> explaining tags and giving two examples.
+  - <h2>: "What I Found Difficult" with a <p> honestly describing a challenge.
+  - <h2>: "What I Will Practice Next" with a <p> describing your next goal.
+  - Add comments between each section.
+
+Task 2:
+Write an HTML page on "Using Technology Responsibly" using:
+  - <b>: "Technology is a tool — use it wisely."
+  - <i> for the name of a law related to digital responsibility.
+  - <strong>: "Think before you post — the internet never forgets."
+  - <em>: "Your digital footprint defines your reputation."
+  - <mark> to highlight: "Screen time should be balanced with physical activity."
+  - <del> for: "Privacy settings don't matter."
+  - <ins> for: "Always review and update your privacy settings."
+
+-----------------------------------------------------------
+40. UMAR MAQSOOD ALI JAVED
+-----------------------------------------------------------
+Task 1:
+Write an HTML page titled "Importance of Coding Skills". Include:
+  - Proper HTML boilerplate.
+  - <h1>: "Why Every Student Should Learn to Code".
+  - <h2> for four reasons: Problem Solving, Career Opportunities, Creativity, Logical Thinking.
+  - A <p> under each reason with two sentences.
+  - An HTML comment inside the <head> tag explaining what a <meta> tag does even
+    if not included in this page.
+
+Task 2:
+Create an HTML formatting page on "My Pledge as a Student":
+  - <strong>: "I will study with full focus and dedication."
+  - <em>: "I will respect my teachers and classmates."
+  - <b> for each pledge item (use <b> for 2 more pledges you write yourself).
+  - <u> for the name of your school.
+  - <mark> to highlight the date you are writing this pledge.
+  - <small>: "Signed with sincerity and commitment."
+
+-----------------------------------------------------------
+41. HUZAIFA YOUSAF
+-----------------------------------------------------------
+Task 1:
+Design an HTML page called "Sports and Health". Use:
+  - Full HTML structure.
+  - <h1>: "Why Sports Are Good for Your Health".
+  - <h2> for three sports: Cricket, Football, Swimming.
+  - A <p> under each sport explaining one specific health benefit.
+  - Use a <br> tag inside the Cricket section to separate two benefits on different lines.
+  - Add a comment explaining why HTML is called a "markup language".
+
+Task 2:
+Create an HTML page on "Respect in the Classroom" using:
+  - <strong>: "Respect is the foundation of a good learning environment."
+  - <em>: "Listen when others speak — your turn will come."
+  - <b> for one class rule about respect.
+  - <u> for the teacher's name (you may use a placeholder: "Respected Teacher").
+  - <mark> to highlight the most important rule.
+  - <del> for disrespectful behaviour: "Interrupting others is acceptable."
+  - <ins> for the correct behaviour: "Wait for your turn and speak politely."
+
+-----------------------------------------------------------
+42. SHARJEEL SADIQ
+-----------------------------------------------------------
+Task 1:
+Create an HTML page titled "What is a Web Page?" Explain the concept by:
+  - Using <h1> as the main heading.
+  - Writing a <p> in your own words defining what a web page is.
+  - Using <h2> for "How HTML Creates Web Pages" and writing a <p> explaining the process.
+  - Using <h2> for "Examples of Web Pages" and listing three examples in a <p>.
+  - Adding a comment explaining what a browser does when it reads an HTML file.
+
+Task 2:
+Write an HTML page on "Patience and Perseverance" using:
+  - <strong>: "Success comes to those who do not give up."
+  - <em>: "Every failure is a lesson in disguise."
+  - <b> for the name of a person famous for perseverance (historical or modern).
+  - <i> for a quote attributed to them (write your own inspired version).
+  - <mark> to highlight the number of times they failed before succeeding.
+  - <small>: "Keep going — your breakthrough is closer than you think."
+
+-----------------------------------------------------------
+43. NOUMAN BAIG
+-----------------------------------------------------------
+Task 1:
+Build an HTML page titled "My Future School Project". This page should:
+  - Have a valid HTML structure.
+  - Use <h1> as the project title.
+  - Use <h2> for four sections: "Project Goal", "Tools I Will Use", "Steps",
+    "Expected Outcome".
+  - Write a <p> for each section.
+  - Use <br> inside the "Steps" section to list each step on a new line.
+  - Add an HTML comment at the top explaining the full meaning of HTML.
+
+Task 2:
+Create an HTML formatting page on "Honesty is the Best Policy":
+  - <strong>: "Honesty builds trust, and trust builds everything."
+  - <em>: "A moment of honesty can save a lifetime of regret."
+  - <b> for one situation where being honest is especially hard but necessary.
+  - <i> for the name of a story or fable about honesty.
+  - <mark> to highlight the moral of the story.
+  - <del>: "Small lies don't matter."
+  - <ins>: "Even small lies can damage your credibility permanently."
+
+-----------------------------------------------------------
+44. HUSNAIN ALI KHAN
+-----------------------------------------------------------
+Task 1:
+Write an HTML page titled "My Complete HTML Practice Page". This is a summary
+page that must include ALL of the following in one well-structured document:
+  - <!DOCTYPE html>, <html>, <head> with <title>, <body>.
+  - At least one of each: <h1>, <h2>, <h3>, <p>.
+  - One self-closing <br> and one <hr>.
+  - An HTML comment in EVERY section.
+  - Choose a topic of your own choice and use the tags purposefully (not randomly).
+
+Task 2:
+Create an advanced HTML formatting page on "My Message to the World". Using
+at least EIGHT different text formatting tags (<b>, <i>, <u>, <strong>, <em>,
+<mark>, <del>, <ins>, <sup>, <sub>, <big>, <small>), write a meaningful and
+personal message that:
+  - States what matters most to you in life.
+  - Gives one advice to your future self.
+  - Corrects one misconception about young people today.
+  - Ends with a small footnote (using <sup> and <sub>) citing your name and date.
+
+===========================================================
+                        END OF DOCUMENT
+   Total Students: 44 | Tasks per Student: 2 (Both Practical)
+   Topic: Introduction to HTML | Tags | Elements | Text Formatting
+===========================================================

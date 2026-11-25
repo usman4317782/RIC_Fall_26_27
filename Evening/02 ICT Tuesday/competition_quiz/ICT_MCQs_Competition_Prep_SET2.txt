@@ -1,0 +1,1327 @@
+================================================================
+   ICT COMPETITION PREPARATION — MULTIPLE CHOICE QUESTIONS
+                          SET 2
+================================================================
+
+────────────────────────────────────────────────────────────────
+TOPIC 1: THE ROLE OF ICT IN DAILY LIFE & COMPUTER-BASED SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q1. A retail chain uses a system that automatically reorders stock
+    when inventory falls below a set level. Which type of
+    computer-based system is this?
+
+    A) Expert system
+    B) Satellite system
+    C) Automated stock management system in the retail industry
+    D) Booking system
+
+    Correct Answer: C
+
+---
+
+Q2. Which of the following scenarios describes the use of an expert
+    system in medicine?
+
+    A) A doctor uses email to send a patient's report to a specialist
+    B) A program analyses symptoms entered by a clinician and
+       suggests a ranked list of probable conditions
+    C) A hospital printer produces discharge letters automatically
+    D) A database stores patient names and contact numbers
+
+    Correct Answer: B
+
+---
+
+Q3. GPS navigation in vehicles relies primarily on which category
+    of computer-based systems?
+
+    A) Expert systems
+    B) Recognition systems
+    C) Satellite systems
+    D) Banking applications
+
+    Correct Answer: C
+
+---
+
+Q4. In banking, which of the following represents a use of ICT
+    that did NOT exist before computerisation?
+
+    A) Keeping handwritten ledgers of transactions
+    B) 24-hour ATM access, real-time fraud detection, and
+       instant international transfers
+    C) Using physical stamps on paper cheques
+    D) Hiring more bank tellers for busy periods
+
+    Correct Answer: B
+
+---
+
+Q5. A border control agency scans passports and matches travellers'
+    faces against a database in seconds. This is an application of:
+
+    A) Booking systems
+    B) Retail management systems
+    C) Expert systems
+    D) Recognition systems
+
+    Correct Answer: D
+
+---
+
+Q6. Which of the following is NOT a typical example of ICT use
+    in the retail industry?
+
+    A) Barcode scanning at checkout
+    B) Loyalty card tracking using customer databases
+    C) Diagnosing engine faults in vehicles
+    D) Online ordering and delivery tracking
+
+    Correct Answer: C
+
+---
+
+Q7. Online appointment scheduling for a clinic is an example of
+    which type of computer-based system?
+
+    A) Expert system
+    B) Booking system
+    C) Satellite system
+    D) Recognition system
+
+    Correct Answer: B
+
+---
+
+Q8. How does ICT specifically improve a school management system
+    compared to purely paper-based administration?
+
+    A) It makes the school building physically larger
+    B) It eliminates the need for teachers entirely
+    C) It allows faster access to records, automated timetabling,
+       and easier communication with parents
+    D) It prevents students from missing classes
+
+    Correct Answer: C
+
+---
+
+Q9. A logistics company tracks delivery trucks in real time and
+    reroutes them to avoid traffic. The tracking capability
+    depends on:
+
+    A) Expert systems embedded in the trucks
+    B) Satellite-based GPS combined with mapping software
+    C) Optical character recognition at checkpoints
+    D) Chip and PIN readers in the vehicles
+
+    Correct Answer: B
+
+---
+
+Q10. 3D printing technology in medicine is LEAST likely to be
+     used for which of the following?
+
+    A) Creating customised prosthetic limbs
+    B) Printing patient-specific surgical guides
+    C) Generating patient invoices and billing records
+    D) Producing anatomical models for surgical planning
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 2: MAIN COMPONENTS OF COMPUTER SYSTEMS
+────────────────────────────────────────────────────────────────
+
+Q11. Which of the following components allows a computer to
+     communicate with other computers across a network?
+
+    A) RAM module
+    B) Graphics processing unit
+    C) Network interface card (NIC)
+    D) Power supply unit
+
+    Correct Answer: C
+
+---
+
+Q12. An operating system is best classified under which component
+     category of a computer system?
+
+    A) Physical component (hardware)
+    B) Communication technology
+    C) Software
+    D) Internal storage media
+
+    Correct Answer: C
+
+---
+
+Q13. A user complains that their computer runs slowly when many
+     applications are open. The component MOST likely causing
+     this is insufficient:
+
+    A) Hard disk storage space
+    B) Monitor resolution
+    C) RAM (Random Access Memory)
+    D) Number of USB ports
+
+    Correct Answer: C
+
+---
+
+Q14. Which of the following statements correctly identifies a
+     communication technology component?
+
+    A) The CPU that processes instructions
+    B) A fibre optic cable used to transmit data between buildings
+    C) The RAM that holds active program data
+    D) The hard drive that stores files long-term
+
+    Correct Answer: B
+
+---
+
+Q15. Application software differs from system software in that
+     application software:
+
+    A) Controls the hardware directly at the lowest level
+    B) Is designed to perform specific tasks for the user,
+       such as word processing or accounting
+    C) Is always pre-installed and cannot be removed
+    D) Manages CPU scheduling and memory allocation
+
+    Correct Answer: B
+
+---
+
+Q16. Which of the following best illustrates the interaction
+     between hardware and software?
+
+    A) A keyboard being plugged into a USB port
+    B) A word processor sending formatted text to a printer
+       through the operating system's driver
+    C) Two monitors connected to the same computer
+    D) A router being connected to a switch with an ethernet cable
+
+    Correct Answer: B
+
+---
+
+Q17. Firmware differs from regular software because firmware:
+
+    A) Is stored on a hard drive and updated daily
+    B) Is low-level software permanently written into a
+       hardware component, controlling it at a basic level
+    C) Is designed for user-facing applications only
+    D) Cannot interact with hardware in any way
+
+    Correct Answer: B
+
+---
+
+Q18. Which component of a computer system would you upgrade to
+     improve the quality of images displayed on screen?
+
+    A) Adding more RAM
+    B) Replacing the hard drive with an SSD
+    C) Installing a better graphics card (GPU)
+    D) Increasing the CPU cache
+
+    Correct Answer: C
+
+---
+
+Q19. A standalone computer that is not connected to any network
+     is missing which category of computer system components?
+
+    A) Software and programs
+    B) Physical components
+    C) Active communication technologies
+    D) Internal memory
+
+    Correct Answer: C
+
+---
+
+Q20. The power supply unit (PSU) in a desktop computer is best
+     described as:
+
+    A) A type of internal software that manages electricity use
+    B) A physical component that converts mains electricity into
+       the voltages required by the computer's internal parts
+    C) A communication technology for wireless charging
+    D) A type of solid-state storage device
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 3: TYPES OF COMPUTERS, CPU & INTERNAL MEMORY
+────────────────────────────────────────────────────────────────
+
+Q21. A university's research department processes enormous climate
+     simulation datasets that would take a desktop computer years
+     to complete. The most appropriate type of computer for this
+     is a:
+
+    A) Tablet computer
+    B) Laptop with extra RAM
+    C) Mainframe or supercomputer
+    D) Gaming desktop
+
+    Correct Answer: C
+
+---
+
+Q22. Which of the following correctly describes the role of the
+     Control Unit (CU) within the CPU?
+
+    A) It performs all arithmetic and logical calculations
+    B) It stores frequently accessed data close to the processor
+    C) It directs and coordinates the operations of the CPU
+       by interpreting and executing instructions
+    D) It manages communication between the CPU and the monitor
+
+    Correct Answer: C
+
+---
+
+Q23. The Arithmetic Logic Unit (ALU) is responsible for:
+
+    A) Temporarily storing program instructions during execution
+    B) Carrying out mathematical calculations and logical
+       comparisons such as greater than or equal to
+    C) Coordinating data flow between CPU registers
+    D) Managing input from the keyboard and mouse
+
+    Correct Answer: B
+
+---
+
+Q24. A laptop user opens a large video editing project and notices
+     performance is sluggish. Increasing which component would
+     have the MOST immediate impact?
+
+    A) Screen brightness
+    B) ROM capacity
+    C) Cache size or RAM
+    D) Number of USB ports
+
+    Correct Answer: C
+
+---
+
+Q25. Why does increasing the number of CPU cores generally improve
+     performance on modern computers?
+
+    A) More cores mean each core runs at a higher clock speed
+    B) Multiple cores allow different tasks or threads to be
+       processed simultaneously rather than one at a time
+    C) More cores increase the size of ROM storage
+    D) Additional cores reduce the amount of RAM needed
+
+    Correct Answer: B
+
+---
+
+Q26. Which statement about ROM is INCORRECT?
+
+    A) ROM is non-volatile
+    B) ROM typically stores the BIOS or firmware
+    C) ROM contents can be freely written to and erased by
+       normal user applications at any time
+    D) ROM retains data when power is switched off
+
+    Correct Answer: C
+
+---
+
+Q27. Clock speed in a CPU is measured in GHz and refers to:
+
+    A) How much data the CPU can store internally
+    B) The number of instructions the CPU can process
+       per second (cycles per second)
+    C) The temperature at which the CPU operates
+    D) The amount of cache memory available
+
+    Correct Answer: B
+
+---
+
+Q28. A tablet computer is preferred over a desktop for a field
+     nurse collecting patient data at remote sites mainly because:
+
+    A) Tablets have more processing power than desktops
+    B) Tablets are portable, battery-powered, and support
+       touchscreen data entry without needing a fixed workspace
+    C) Tablets have larger storage capacity than desktops
+    D) Tablets can run more applications simultaneously
+
+    Correct Answer: B
+
+---
+
+Q29. Level 1 (L1) cache is faster than Level 2 (L2) cache because:
+
+    A) L1 is located on a separate chip further from the CPU
+    B) L1 is physically built directly onto the processor core
+       itself, minimising the distance data must travel
+    C) L1 has a larger storage capacity than L2
+    D) L1 operates at a lower voltage, reducing heat
+
+    Correct Answer: B
+
+---
+
+Q30. When comparing a smartphone to a mainframe, which statement
+     is accurate?
+
+    A) A smartphone handles more simultaneous user transactions
+    B) A mainframe is designed for portability and personal use
+    C) A mainframe processes far larger volumes of data and
+       supports many more concurrent users than a smartphone
+    D) Both devices use identical processor architectures
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 4: INPUT DEVICES, OUTPUT DEVICES & DIRECT DATA ENTRY
+────────────────────────────────────────────────────────────────
+
+Q31. A visually impaired user needs to interact with a computer
+     using speech rather than a keyboard. Which input device
+     would be most appropriate?
+
+    A) Joystick
+    B) Microphone with voice recognition software
+    C) Numeric keypad
+    D) Remote control
+
+    Correct Answer: B
+
+---
+
+Q32. A QR code scanner differs from a standard barcode reader in
+     that QR codes:
+
+    A) Can only store numeric data, unlike barcodes
+    B) Are read using magnetic strips instead of optical sensors
+    C) Store data in a two-dimensional pattern and can hold
+       much more information than a standard 1D barcode
+    D) Require physical contact with the scanning device
+
+    Correct Answer: C
+
+---
+
+Q33. An inkjet printer is MOST suitable for which of the
+     following tasks?
+
+    A) Printing thousands of identical black-and-white documents
+       at high speed in an office
+    B) Printing high-quality colour photographs at home or
+       in a small office environment
+    C) Creating embossed designs on textured materials
+    D) Producing large-scale engineering schematics
+
+    Correct Answer: B
+
+---
+
+Q34. A chip and PIN reader at a shop terminal is an example of
+     direct data entry because:
+
+    A) The cashier types the card number manually into a keyboard
+    B) The card's embedded chip is read electronically without
+       the need to manually key in account details
+    C) The customer fills in a paper form that is later scanned
+    D) A barcode on the receipt is scanned at the end
+
+    Correct Answer: B
+
+---
+
+Q35. Which output device converts digital signals from a computer
+     into physical movement in a machine or robotic system?
+
+    A) Plotter
+    B) Speaker
+    C) Actuator
+    D) Multimedia projector
+
+    Correct Answer: C
+
+---
+
+Q36. A laser printer produces better quality text documents than
+     an inkjet printer in high-volume office settings mainly
+     because:
+
+    A) Laser printers use more ink cartridges
+    B) Laser printers produce colour images more accurately
+    C) Laser printers are faster, have a lower cost per page,
+       and produce sharper text using toner and heat
+    D) Laser printers do not require any consumables
+
+    Correct Answer: C
+
+---
+
+Q37. Remote controls use which technology to send signals to
+     devices such as televisions?
+
+    A) Bluetooth radio waves at 2.4 GHz
+    B) Infrared (IR) light pulses
+    C) Wi-Fi signals at 5 GHz
+    D) Ultrasonic sound waves
+
+    Correct Answer: B
+
+---
+
+Q38. In a supermarket self-checkout, the touch screen acts as
+     both input and output. Which of the following describes
+     its OUTPUT function in this context?
+
+    A) The customer taps items to add them to the basket
+    B) The customer signs the screen to confirm payment
+    C) The screen displays the running total, item list, and
+       payment instructions to the customer
+    D) The customer selects their preferred language at the start
+
+    Correct Answer: C
+
+---
+
+Q39. Sensors used as input devices in a greenhouse environment
+     monitoring system would typically collect which type of data
+     directly without human involvement?
+
+    A) Customer names and preferences
+    B) Financial transaction records
+    C) Temperature, humidity, and light levels automatically
+    D) Text typed by a farm worker at a keyboard
+
+    Correct Answer: C
+
+---
+
+Q40. A multimedia projector is classified as an output device
+     because it:
+
+    A) Receives user input through a touch-sensitive surface
+    B) Captures images from a camera for processing
+    C) Takes processed data from a computer and projects it
+       as a large visual image for an audience
+    D) Stores presentation files for later retrieval
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 5: STORAGE DEVICES
+────────────────────────────────────────────────────────────────
+
+Q41. A solid-state drive (SSD) is more suitable than a traditional
+     HDD for a laptop that is frequently moved around because:
+
+    A) SSDs have a higher storage capacity than HDDs
+    B) SSDs are cheaper and easier to replace
+    C) SSDs have no moving parts, making them more resistant
+       to physical shocks and vibrations
+    D) SSDs use optical laser technology which is more durable
+
+    Correct Answer: C
+
+---
+
+Q42. Which of the following correctly identifies the storage
+     capacity order from SMALLEST to LARGEST (typically)?
+
+    A) CD → DVD → Blu-ray disc
+    B) Blu-ray disc → DVD → CD
+    C) DVD → CD → Blu-ray disc
+    D) CD → Blu-ray disc → DVD
+
+    Correct Answer: A
+
+---
+
+Q43. A hospital keeps archived patient records from the 1990s
+     on magnetic tape. The MAIN disadvantage of this medium
+     for retrieval purposes is:
+
+    A) Magnetic tape cannot store text-based records
+    B) Tape is sequential access only, so finding a specific
+       record requires winding through the tape from the start
+    C) Magnetic tape degrades within a few months
+    D) Tape drives are incompatible with modern computers
+
+    Correct Answer: B
+
+---
+
+Q44. What distinguishes a fixed SSD from a portable SSD?
+
+    A) Fixed SSDs use optical technology while portable ones
+       use flash memory
+    B) A fixed SSD is installed inside the computer's casing,
+       while a portable SSD connects externally, usually via USB
+    C) Portable SSDs are larger in physical size than fixed ones
+    D) Fixed SSDs are faster because they use magnetic platters
+
+    Correct Answer: B
+
+---
+
+Q45. Cloud storage differs from local storage in that cloud storage:
+
+    A) Stores data on a physical drive inside the user's device
+    B) Is always faster to access than a local hard drive
+    C) Stores data on remote servers accessed over the internet,
+       not on the user's own hardware
+    D) Can only store images and videos
+
+    Correct Answer: C
+
+---
+
+Q46. A DVD-RW differs from a DVD-R in that a DVD-RW:
+
+    A) Holds more data than a DVD-R
+    B) Can be written, erased, and rewritten multiple times,
+       whereas a DVD-R can only be written once
+    C) Uses a different laser colour for reading data
+    D) Is read by magnetic heads rather than a laser
+
+    Correct Answer: B
+
+---
+
+Q47. Which of the following is an advantage of using a USB pen
+     drive over an optical disc for carrying files between
+     locations?
+
+    A) Pen drives have slower transfer speeds than optical discs
+    B) Pen drives cannot be rewritten once data is saved
+    C) Pen drives are compact, rewritable, and require no
+       separate drive to read them on modern computers
+    D) Pen drives have a larger storage capacity ceiling than
+       Blu-ray discs
+
+    Correct Answer: C
+
+---
+
+Q48. Data stored on a magnetic hard drive is at risk of being
+     lost or corrupted if exposed to:
+
+    A) High humidity alone
+    B) Strong magnetic fields, which can disrupt the magnetic
+       patterns used to encode data
+    C) Normal room temperature changes
+    D) Prolonged periods of non-use
+
+    Correct Answer: B
+
+---
+
+Q49. A photographer comparing storage options for a camera
+     chooses a flash memory card over an optical disc. The most
+     practical reason is:
+
+    A) Flash memory cards store fewer images, keeping costs down
+    B) Optical discs fit directly into cameras without an adapter
+    C) Flash memory cards are small, portable, and can be
+       written to and read from rapidly inside a camera body
+    D) Flash memory cards are immune to all forms of data loss
+
+    Correct Answer: C
+
+---
+
+Q50. Which factor would you evaluate when choosing between HDD
+     and SSD for a desktop computer used only as a file server
+     requiring maximum storage at minimum cost?
+
+    A) Boot time, which favours SSD
+    B) Cost per gigabyte, which currently favours HDD for
+       large-capacity bulk storage
+    C) Physical shock resistance, which favours SSD
+    D) Power consumption, which favours SSD
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 6: THE SYSTEMS LIFE CYCLE
+────────────────────────────────────────────────────────────────
+
+Q51. A systems analyst interviews staff and observes daily
+     workflows to understand problems with the current system.
+     Which stage of the systems life cycle is this?
+
+    A) Design
+    B) Testing
+    C) Analysis
+    D) Evaluation
+
+    Correct Answer: C
+
+---
+
+Q52. During the design phase, which of the following would a
+     developer produce?
+
+    A) A live working version of the software for users to test
+    B) Entity-relationship diagrams, interface mockups, and
+       data structure plans
+    C) A final evaluation report assessing user satisfaction
+    D) Training sessions for end users
+
+    Correct Answer: B
+
+---
+
+Q53. A programmer tests the system with the maximum number of
+     records it is expected to handle in real use. This is an
+     example of:
+
+    A) Erroneous data testing
+    B) Normal data testing
+    C) Volume / stress testing
+    D) Unit testing of a single function
+
+    Correct Answer: C
+
+---
+
+Q54. Which implementation strategy carries the HIGHEST risk but
+     is the fastest way to switch to a new system?
+
+    A) Parallel running
+    B) Phased implementation
+    C) Pilot changeover
+    D) Direct (big bang) changeover
+
+    Correct Answer: D
+
+---
+
+Q55. Technical documentation is primarily written for:
+
+    A) Students learning how to type for the first time
+    B) Programmers and system administrators who maintain,
+       update, or troubleshoot the system
+    C) End users who perform routine tasks on the system
+    D) Marketing teams who sell the software product
+
+    Correct Answer: B
+
+---
+
+Q56. After a new system is deployed, users report that one feature
+     does not work as originally specified. Which stage of the
+     life cycle addresses this?
+
+    A) Analysis
+    B) Design
+    C) Evaluation and subsequent maintenance
+    D) Documentation
+
+    Correct Answer: C
+
+---
+
+Q57. Beta testing involves:
+
+    A) Developers testing code line by line in isolation
+    B) A small internal team testing the software before any
+       external release
+    C) A selected group of real end users testing the software
+       in real-world conditions before full release
+    D) Automated scripts checking individual functions
+
+    Correct Answer: C
+
+---
+
+Q58. In the development phase, which of the following activities
+     takes place?
+
+    A) Gathering requirements from stakeholders
+    B) Producing data flow diagrams and interface designs
+    C) Writing and compiling the actual program code based
+       on the design specifications
+    D) Training staff on how to use the finished system
+
+    Correct Answer: C
+
+---
+
+Q59. When testing a date-entry field, which of the following
+     would be classified as EXTREME (boundary) data?
+
+    A) Entering the date 15/06/2024
+    B) Entering text such as "hello" in a date field
+    C) Entering 31/12/2024 — the last valid date of the year
+    D) Leaving the field blank intentionally
+
+    Correct Answer: C
+
+---
+
+Q60. The purpose of the feasibility study during the analysis
+     stage is to:
+
+    A) Write the final source code for the new system
+    B) Train users on the system's features
+    C) Determine whether the proposed system is technically
+       possible, cost-effective, and worth developing
+    D) Document the bugs found during testing
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 7: COMMUNICATION MEDIA & MOBILE COMMUNICATION
+────────────────────────────────────────────────────────────────
+
+Q61. A company distributes its annual report as an interactive
+     digital file that readers download to their device and
+     read offline. This is best described as a/an:
+
+    A) Media stream
+    B) ePublication
+    C) Blog post
+    D) Multimedia presentation
+
+    Correct Answer: B
+
+---
+
+Q62. Which of the following best describes the difference between
+     audio and video as communication media?
+
+    A) Audio can carry more information per second than video
+    B) Video adds a visual dimension to audio, making it richer
+       but requiring significantly more bandwidth
+    C) Audio files are always larger than video files
+    D) Video communication cannot be streamed in real time
+
+    Correct Answer: B
+
+---
+
+Q63. A charity uses a one-page, eye-catching printed sheet to
+     advertise a fundraising event in a shopping centre. This
+     communication medium is a:
+
+    A) Newsletter
+    B) Website
+    C) Poster
+    D) ePublication
+
+    Correct Answer: C
+
+---
+
+Q64. Media streaming requires a continuous internet connection
+     because:
+
+    A) Streamed content is stored permanently on the user's device
+    B) The content is delivered in real time and played as it
+       arrives, rather than being fully downloaded first
+    C) Streaming services do not compress their media files
+    D) Streaming only works on wired ethernet connections
+
+    Correct Answer: B
+
+---
+
+Q65. Which generation of mobile communication introduced the
+     ability to send SMS text messages?
+
+    A) 1G
+    B) 2G
+    C) 3G
+    D) 4G
+
+    Correct Answer: B
+
+---
+
+Q66. A school sends a monthly digital document to parents
+     summarising upcoming events, student achievements, and
+     policy updates. This is an example of a:
+
+    A) Wiki
+    B) Forum
+    C) Newsletter
+    D) Multimedia presentation
+
+    Correct Answer: C
+
+---
+
+Q67. Compared to a website, a multimedia presentation is
+     typically:
+
+    A) Accessible to anyone with an internet browser at any time
+    B) A self-contained file designed to be delivered to a
+       specific audience, often live or via a shared file
+    C) Updated automatically without the creator's involvement
+    D) Always interactive and hosted on a public server
+
+    Correct Answer: B
+
+---
+
+Q68. 1G mobile networks were limited because:
+
+    A) They only supported voice calls with no data capability,
+       and had poor signal quality
+    B) They were too fast for the hardware of the time
+    C) They introduced internet access but at very low speeds
+    D) They supported video calling but no SMS
+
+    Correct Answer: A
+
+---
+
+Q69. A video tutorial posted on a learning platform that students
+     can pause, rewind, and replay at their own pace is an
+     example of:
+
+    A) Live media streaming
+    B) Electronic conferencing
+    C) On-demand video communication media
+    D) ePublication
+
+    Correct Answer: C
+
+---
+
+Q70. Which statement about websites as a communication medium
+     is MOST accurate for a business?
+
+    A) A website can only display static text and cannot be
+       updated after it is published
+    B) A website provides a globally accessible platform that
+       can combine text, images, video, and interactive features
+       to reach a worldwide audience continuously
+    C) Websites are only effective for companies with large
+       IT departments
+    D) A website replaces the need for all other communication
+       media
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 8: NETWORKS, SECURITY ISSUES & ELECTRONIC CONFERENCING
+────────────────────────────────────────────────────────────────
+
+Q71. A network bridge is used to:
+
+    A) Connect a LAN to the internet via an ISP
+    B) Assign IP addresses to devices on a network
+    C) Connect two similar network segments and filter traffic
+       between them based on MAC addresses
+    D) Boost a Wi-Fi signal across longer distances
+
+    Correct Answer: C
+
+---
+
+Q72. Which of the following best describes a PAN (Personal Area
+     Network)?
+
+    A) A network covering an entire city's infrastructure
+    B) A network linking computers across different countries
+    C) A short-range network connecting personal devices around
+       a single individual, typically using Bluetooth
+    D) A network restricted to a single office floor
+
+    Correct Answer: C
+
+---
+
+Q73. A phishing attack attempts to steal credentials by:
+
+    A) Physically breaking into a server room
+    B) Overloading a server with traffic until it crashes
+    C) Tricking users into entering their login details on
+       a fake website that mimics a legitimate one
+    D) Installing a keylogger through a network port scan
+
+    Correct Answer: C
+
+---
+
+Q74. Which of the following is the STRONGEST type of password
+     from a security standpoint?
+
+    A) password123
+    B) The user's date of birth
+    C) A mix of uppercase letters, lowercase letters, numbers,
+       and symbols with no dictionary words (e.g., Tr#9kL!2m)
+    D) The user's first name followed by their birth year
+
+    Correct Answer: C
+
+---
+
+Q75. A company encrypts all data sent between its offices over
+     the internet. What does encryption achieve?
+
+    A) It speeds up the data transfer between offices
+    B) It ensures that even if data is intercepted, it cannot
+       be read without the correct decryption key
+    C) It compresses files so they use less storage space
+    D) It automatically backs up data to a cloud server
+
+    Correct Answer: B
+
+---
+
+Q76. A WAN (Wide Area Network) differs from a MAN (Metropolitan
+     Area Network) in that a WAN:
+
+    A) Is always faster than a MAN
+    B) Spans international or global distances, while a MAN
+       typically covers a city or large campus
+    C) Uses only wireless connections, unlike a MAN
+    D) Can only be owned by governments
+
+    Correct Answer: B
+
+---
+
+Q77. Ransomware is a type of malware that:
+
+    A) Silently monitors a user's keystrokes and sends them
+       to an attacker
+    B) Displays unwanted advertisements in a browser
+    C) Encrypts a victim's files and demands payment in
+       exchange for the decryption key
+    D) Slows down a computer by consuming processing power
+
+    Correct Answer: C
+
+---
+
+Q78. Which of the following is NOT a benefit of electronic
+     conferencing for a multinational company?
+
+    A) Reduced travel costs and time
+    B) Ability to collaborate with colleagues in different
+       time zones in real time
+    C) Guarantees a 100% stable connection regardless of
+       internet quality at each location
+    D) Ability to record meetings for later review
+
+    Correct Answer: C
+
+---
+
+Q79. A network interface card (NIC) serves what primary function
+     in a computer?
+
+    A) It manages the display output to the monitor
+    B) It provides the hardware interface that enables a computer
+       to send and receive data on a network
+    C) It converts AC power to DC for internal components
+    D) It increases the speed of the CPU
+
+    Correct Answer: B
+
+---
+
+Q80. Two-factor authentication (2FA) increases account security
+     because:
+
+    A) It allows users to skip entering a password entirely
+    B) Even if a password is stolen, an attacker still needs
+       a second verification factor (such as a phone code)
+       to gain access
+    C) It stores passwords in an encrypted local file
+    D) It automatically changes the user's password every day
+
+    Correct Answer: B
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 9: THE INTERNET — USES, PROTOCOLS & WEB TECHNOLOGIES
+────────────────────────────────────────────────────────────────
+
+Q81. A social networking site allows users to create profiles,
+     post updates, and connect with friends. This differs from
+     a wiki mainly because:
+
+    A) Social networks are based on individual user profiles
+       and social connections, while wikis are collaboratively
+       edited knowledge resources
+    B) Wikis allow comments but social networks do not
+    C) Social networks cannot display images or videos
+    D) Wikis are always publicly editable while social networks
+       are entirely private
+
+    Correct Answer: A
+
+---
+
+Q82. What does the "S" in HTTPS stand for, and why does it matter?
+
+    A) "Speed" — HTTPS transfers data faster than HTTP
+    B) "Secure" — HTTPS uses encryption to protect data
+       transmitted between the user's browser and the server
+    C) "Server" — HTTPS indicates a dedicated server is being used
+    D) "Standard" — HTTPS is the default for all websites
+
+    Correct Answer: B
+
+---
+
+Q83. Which of the following is an advantage the internet provides
+     to small businesses that was difficult to achieve before
+     widespread ICT adoption?
+
+    A) The ability to hire more local staff
+    B) Access to a global customer base through e-commerce
+       without needing a physical presence in every market
+    C) Elimination of all business operating costs
+    D) Removal of the need for business banking
+
+    Correct Answer: B
+
+---
+
+Q84. An extranet is most commonly used to:
+
+    A) Allow the general public to view a company's internal
+       HR policies
+    B) Give controlled access to suppliers, partners, or clients
+       so they can interact with selected internal resources
+    C) Replace the company's internal intranet entirely
+    D) Provide internet access to employees at home
+
+    Correct Answer: B
+
+---
+
+Q85. Which of the following best describes what FTP is used for?
+
+    A) Encrypting web traffic between a browser and server
+    B) Translating domain names into numeric IP addresses
+    C) Transferring files between a client and a server
+       over a network
+    D) Sending and receiving email messages
+
+    Correct Answer: C
+
+---
+
+Q86. A major disadvantage of relying on the internet for
+     critical business operations is:
+
+    A) The internet provides access to too much information
+    B) Internet connections can go down, causing disruption
+       to services that depend entirely on connectivity
+    C) The internet is too slow to transmit large files
+    D) The internet cannot be used for video communication
+
+    Correct Answer: B
+
+---
+
+Q87. Which term describes a website where any registered user
+     can create, edit, and delete content collaboratively?
+
+    A) Blog
+    B) Forum
+    C) Wiki
+    D) ePublication
+
+    Correct Answer: C
+
+---
+
+Q88. HTTP operates on which default port number?
+
+    A) 21
+    B) 25
+    C) 443
+    D) 80
+
+    Correct Answer: D
+
+---
+
+Q89. The primary purpose of SSL in internet communication is to:
+
+    A) Assign IP addresses to web servers automatically
+    B) Route data packets between different networks
+    C) Provide an encrypted link between a web server and a
+       browser to ensure data privacy
+    D) Control how web pages are formatted and displayed
+
+    Correct Answer: C
+
+---
+
+Q90. Which of the following correctly identifies a limitation
+     of using an intranet compared to the internet?
+
+    A) An intranet cannot display web pages
+    B) An intranet has no security advantages over the internet
+    C) An intranet is accessible only within the organisation,
+       limiting collaboration with external parties
+    D) An intranet requires more bandwidth than the internet
+
+    Correct Answer: C
+
+
+────────────────────────────────────────────────────────────────
+TOPIC 10: IP SUITE, DHCP, PRIVATE IPs, NAT & DNS
+────────────────────────────────────────────────────────────────
+
+Q91. TCP (Transmission Control Protocol) differs from UDP (User
+     Datagram Protocol) mainly in that TCP:
+
+    A) Is faster because it sends data without checking delivery
+    B) Provides reliable, ordered delivery of data by confirming
+       receipt and retransmitting lost packets
+    C) Is used only for streaming video and gaming
+    D) Cannot be used for web browsing
+
+    Correct Answer: B
+
+---
+
+Q92. UDP is preferred over TCP for live video streaming because:
+
+    A) UDP guarantees every packet arrives in the correct order
+    B) UDP is more secure and encrypts data automatically
+    C) The slight delay caused by TCP's error-checking is more
+       disruptive than occasional minor packet loss in a stream
+    D) UDP can carry more data per packet than TCP
+
+    Correct Answer: C
+
+---
+
+Q93. The Internet Layer of the TCP/IP suite uses which protocol
+     to logically address and route packets?
+
+    A) Ethernet
+    B) TCP
+    C) IP (Internet Protocol)
+    D) HTTP
+
+    Correct Answer: C
+
+---
+
+Q94. When a device connects to a network and receives an IP
+     address automatically, this process is managed by:
+
+    A) DNS
+    B) NAT
+    C) DHCP
+    D) FTP
+
+    Correct Answer: C
+
+---
+
+Q95. A DHCP lease refers to:
+
+    A) The permanent assignment of an IP address to a device
+    B) The temporary assignment of an IP address for a set
+       period, after which it may be renewed or reassigned
+    C) A security certificate issued by the network admin
+    D) The process of translating a private IP to a public IP
+
+    Correct Answer: B
+
+---
+
+Q96. Which of the following IP address ranges belongs to the
+     private Class A range?
+
+    A) 172.16.0.0 – 172.31.255.255
+    B) 192.168.0.0 – 192.168.255.255
+    C) 10.0.0.0 – 10.255.255.255
+    D) 169.254.0.0 – 169.254.255.255
+
+    Correct Answer: C
+
+---
+
+Q97. NAT was introduced partly to address which networking
+     problem?
+
+    A) Slow DNS resolution on large networks
+    B) Inability of DHCP to assign addresses wirelessly
+    C) The exhaustion of available public IPv4 addresses by
+       allowing many private devices to share one public IP
+    D) Weak encryption in wireless network protocols
+
+    Correct Answer: C
+
+---
+
+Q98. When you type www.bbc.co.uk into a browser, the DNS server
+     resolves this by:
+
+    A) Connecting you directly to the nearest server
+       geographically
+    B) Looking up the domain name in its records and returning
+       the numeric IP address of the web server
+    C) Encrypting the request and forwarding it to a firewall
+    D) Assigning a temporary private IP address to the domain
+
+    Correct Answer: B
+
+---
+
+Q99. If a DNS server cannot resolve a domain name from its own
+     records, it typically:
+
+    A) Returns an error immediately without further action
+    B) Forwards the query to another DNS server higher up in
+       the hierarchy until the address is found or confirmed
+       as non-existent
+    C) Assigns a random IP address to the domain temporarily
+    D) Sends the query to the DHCP server for resolution
+
+    Correct Answer: B
+
+---
+
+Q100. Which of the following correctly explains why devices on
+      a home network typically use private IP addresses?
+
+    A) Private IP addresses are faster than public ones
+    B) Home routers are not allowed to use public IP addresses
+    C) Private IP addresses are used internally within the
+       network; the router uses NAT to represent all of them
+       to the internet using a single public IP address
+    D) Private IP addresses provide built-in encryption
+       for home networks
+
+    Correct Answer: C
+
+
+================================================================
+                     END OF QUESTION BANK — SET 2
+================================================================
+   Total Questions : 100 MCQs across 10 topics (10 per topic)
+   Format          : Single best answer (A/B/C/D)
+   Purpose         : Competition / exam preparation
+================================================================

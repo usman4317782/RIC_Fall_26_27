@@ -1,0 +1,404 @@
+===========================================================
+       ICT ASSESSMENT QUESTIONS - INDIVIDUAL STUDENT SETS
+===========================================================
+
+-----------------------------------------------------------
+1. MUHAMMAD SUFYAN RANA
+-----------------------------------------------------------
+Short Q1: Define a School Management System. Give one real-life example of how it is used in a school, and explain one practical task it simplifies for administrators.
+
+Short Q2: What is a keyboard? Identify its main function as an input device and describe one situation where a numeric keypad would be more practical than a full keyboard.
+
+Scenario Q: A large government hospital wants to digitize its patient records and use computers to assist doctors in diagnosing rare diseases. The hospital director asks you to suggest two computer-based systems that could help. Identify the systems, explain how each one works in a medical environment, and justify why these systems are better than manual methods.
+
+-----------------------------------------------------------
+2. SYED MUHAMMAD JAMAL
+-----------------------------------------------------------
+Short Q1: Define RAM and explain its role in a computer system. Give one practical example of what happens when a computer has very low RAM while running multiple programs.
+
+Short Q2: What is a barcode reader? Define it, give one example of where it is commonly used, and explain how it speeds up a practical process like checkout in a supermarket.
+
+Scenario Q: A newly opened airline company needs a system to allow customers to book seats online, check-in digitally, and manage flight schedules. As an ICT consultant, describe the type of computer-based system you would recommend. Explain how it would work and what problems it would solve compared to a paper-based booking system.
+
+-----------------------------------------------------------
+3. ABDUL MOEED
+-----------------------------------------------------------
+Short Q1: Define an Expert System. Provide one example from the medical or legal field, and explain how it assists professionals in making decisions.
+
+Short Q2: What is a touchscreen? Define it and explain with a practical example how it functions as both an input and an output device.
+
+Scenario Q: A retail chain with 50 shops across the country wants to track its stock levels, process customer payments, and identify best-selling products automatically. You are asked to propose a computer-based solution. Describe the system you would suggest, how it would function in the retail environment, and what specific benefits it would bring to the business.
+
+-----------------------------------------------------------
+4. HAMZA NADEEM
+-----------------------------------------------------------
+Short Q1: Define cache memory. Explain its purpose in a computer system and give one practical example of how it improves processing speed during everyday computer use.
+
+Short Q2: What is a scanner? Define it, give one example of its use in an office or school, and describe a simple task it makes more practical compared to manual methods.
+
+Scenario Q: A university wants to automate its student examination process — from registering students for exams, to collecting answer sheets, to generating results. As an ICT advisor, explain which input devices and computer-based systems you would recommend for each stage of this process and why.
+
+-----------------------------------------------------------
+5. MUHAMMAD ZEESHAN
+-----------------------------------------------------------
+Short Q1: Define ROM and explain two key characteristics that distinguish it from RAM. Give one practical example of data stored in ROM.
+
+Short Q2: What is a microphone as an input device? Define it and describe one practical application where a microphone is essential in a computer-based environment, such as online education or voice recognition.
+
+Scenario Q: A bank is experiencing long queues at its branches because all transactions are done manually. The bank manager wants to introduce computer-based systems to handle deposits, withdrawals, and balance inquiries. Explain the type of system you would introduce, how customers would interact with it, and what security features should be included to protect customer data.
+
+-----------------------------------------------------------
+6. MUBASHIR ALI
+-----------------------------------------------------------
+Short Q1: Define a mainframe computer. Give one example of an organization that uses mainframes and explain why mainframes are preferred over desktop computers for that purpose.
+
+Short Q2: What is an OMR (Optical Mark Recognition) reader? Define it, give one example of its use in education, and explain how it makes the process of checking multiple-choice answer sheets more practical.
+
+Scenario Q: A satellite company provides GPS navigation services to drivers and ships at sea. Explain how satellite systems work as computer-based systems. Describe two practical situations where the failure of a satellite system could cause serious problems, and suggest how backup systems could reduce this risk.
+
+-----------------------------------------------------------
+7. MUHAMMAD DANIYAL
+-----------------------------------------------------------
+Short Q1: Define software. Distinguish between system software and application software with one example of each, and explain the practical role of each type in operating a computer.
+
+Short Q2: What is an inkjet printer? Define it, describe one advantage and one disadvantage compared to a laser printer, and give a practical example of when an inkjet printer is the better choice.
+
+Scenario Q: A small school in a rural area has just received computers for the first time. The principal wants to use them for student registration, lesson delivery, and communicating with parents. As an ICT specialist, explain which computer-based systems and software types would be most suitable, and describe how each would be used in the school's daily operations.
+
+-----------------------------------------------------------
+8. DUA KHAN SHERWANI
+-----------------------------------------------------------
+Short Q1: Define communication technologies in the context of computer systems. Give two examples of communication technologies and explain one practical way they connect people or devices in daily life.
+
+Short Q2: What is a laser printer? Define it, give one example of its use in a professional environment, and explain one practical advantage it has over inkjet printers for high-volume printing.
+
+Scenario Q: A hospital wants to introduce 3D printers into its operations. The head of surgery has asked you to prepare a brief explanation of how 3D printing works as a computer-based system and describe at least two specific medical applications where 3D printers could save lives or improve patient outcomes.
+
+-----------------------------------------------------------
+9. MUHAMMAD SAMEER BUTT
+-----------------------------------------------------------
+Short Q1: Define an RFID reader. Give one example of where RFID technology is used in real life, and explain one practical advantage it has over traditional barcode systems.
+
+Short Q2: What is a joystick or driving wheel as an input device? Define it and describe one practical scenario — such as in gaming or flight simulation — where it is more effective than a keyboard or mouse.
+
+Scenario Q: A logistics company delivers packages to thousands of customers daily. The company wants to use technology to track packages from the warehouse to the customer's door. Explain which computer-based systems and recognition technologies you would use at each stage of the delivery process, and justify your choices.
+
+-----------------------------------------------------------
+10. ALEEHA
+-----------------------------------------------------------
+Short Q1: Define a Desktop Computer. Explain two characteristics that make it different from a mobile computer, and give one practical example of a job or task where a desktop computer is more suitable.
+
+Short Q2: What is a sensor as an input device? Define it, give one example of a sensor used in everyday life (e.g., in a smart home or traffic system), and explain how it feeds data into a computer system.
+
+Scenario Q: A smart city project wants to install sensors and satellite systems throughout the city to monitor traffic, control street lighting, and detect pollution levels. As an ICT consultant, explain how these technologies work together as a computer-based system. Describe what data would be collected, how it would be processed, and what practical benefits the city would gain.
+
+-----------------------------------------------------------
+11. MUHAMMAD ABDULLAH NAEEM
+-----------------------------------------------------------
+Short Q1: Define the CPU (Central Processing Unit). Explain its role in processing instructions and describe what happens step by step when a user types a command and presses Enter.
+
+Short Q2: What is a magnetic stripe reader? Define it and give one example of where it is used in real life. Explain one practical limitation of magnetic stripe cards compared to chip and PIN technology.
+
+Scenario Q: A school wants to introduce a system where students tap their ID cards to register attendance, teachers upload lesson materials digitally, and parents can view their child's attendance record online. Identify the input devices, storage systems, and computer-based systems that would be needed, and explain how they all work together.
+
+-----------------------------------------------------------
+12. ADIL KHAN
+-----------------------------------------------------------
+Short Q1: Define a solid-state drive (SSD). Explain one advantage and one disadvantage compared to a magnetic hard drive, and describe one practical situation where an SSD is the better storage choice.
+
+Short Q2: What is a QR scanner? Define it, give one example of how QR codes are used in everyday life, and explain the practical process of how a QR scanner reads and processes data.
+
+Scenario Q: A fast-food chain wants to modernize its ordering process. Currently, customers queue at a counter and place orders verbally. The manager wants to introduce touchscreen kiosks, automatic receipt printing, and a digital kitchen display. Describe the input and output devices involved, explain how data flows through the system, and identify what computer-based system would manage the whole process.
+
+-----------------------------------------------------------
+13. IHSAN ULLAH
+-----------------------------------------------------------
+Short Q1: Define internal memory in a computer system. Distinguish between primary and secondary memory and give one practical example of each type being used during normal computer operation.
+
+Short Q2: What is a dot matrix printer? Define it and explain one scenario where a dot matrix printer is still preferred over modern printers, such as in banking or transport for multi-part forms.
+
+Scenario Q: A government agency is developing a national identity card system. Citizens will register biometric data (fingerprints, photos), which will be stored and used to verify identity at airports, banks, and hospitals. Identify the input devices and recognition systems involved, explain how data would be stored securely, and describe the type of computer-based system that would manage this national database.
+
+-----------------------------------------------------------
+14. HAFIZ DANISH ABBAS
+-----------------------------------------------------------
+Short Q1: Define optical storage. Give one example each of a CD, DVD, and Blu-ray disc use case, and explain one practical reason why Blu-ray is preferred over DVD for high-definition content.
+
+Short Q2: What is a remote control as an input device? Define it and describe one modern example where remote controls communicate with computer-based systems (e.g., smart TVs or home automation), explaining the practical benefit.
+
+Scenario Q: A music streaming company stores millions of songs and serves them to users around the world at the same time. Explain what type of computer system (mainframe or desktop) would be needed to handle this, what storage technologies would be used, and how communication technologies enable users to access songs from any device anywhere in the world.
+
+-----------------------------------------------------------
+15. MUDASSAR KHAN
+-----------------------------------------------------------
+Short Q1: Define a chip and PIN reader. Explain how it works as a direct data entry device and give one practical example of where chip and PIN readers are essential for secure transactions.
+
+Short Q2: What is a plotter as an output device? Define it, give one practical example of its use (e.g., in engineering or architecture), and explain one advantage it has over a standard printer for large-scale designs.
+
+Scenario Q: An engineering firm needs to design and print large blueprints for a construction project. The firm also needs to store thousands of design files securely and share them with engineers working in different cities. Describe the output devices, storage solutions, and communication technologies you would recommend, and explain how they work together in this professional setting.
+
+-----------------------------------------------------------
+16. MUHAMMAD BILAL
+-----------------------------------------------------------
+Short Q1: Define a pen drive (flash drive). Explain two characteristics of solid-state storage that make pen drives practical for everyday use, and give one real-life example of when carrying a pen drive is more useful than using cloud storage.
+
+Short Q2: What is OCR (Optical Character Recognition)? Define it, describe one practical application in a business or government office, and explain how it converts physical documents into editable digital text.
+
+Scenario Q: A publishing company receives thousands of handwritten application forms from job candidates every year. The HR manager wants to digitize these forms quickly without manually typing each one. Suggest the technology that should be used, explain step by step how it would process the forms, and describe how the extracted data could then be stored and searched efficiently.
+
+-----------------------------------------------------------
+17. SHAHZADA MUHAMMAD JALIB
+-----------------------------------------------------------
+Short Q1: Define mobile computers. Give two examples of mobile computers and explain one practical advantage they have over desktop computers for people who travel frequently for work.
+
+Short Q2: What is a multimedia projector as an output device? Define it, give one example of its use in education or business, and explain one practical limitation it has compared to a large display screen.
+
+Scenario Q: A traveling sales team needs to give product presentations to clients in different cities. The team also needs to access company data, process orders, and communicate with the head office while on the road. Identify the types of computers, input/output devices, and communication technologies the team would need, and explain how each supports their work.
+
+-----------------------------------------------------------
+18. SHEHROZ MEHMOOD CH
+-----------------------------------------------------------
+Short Q1: Define magnetic tape as a storage medium. Describe one practical use case for magnetic tape in modern computing (e.g., data archiving or backup), and explain one advantage and one disadvantage compared to SSD storage.
+
+Short Q2: What is a pointing device? Define it and give two examples of different types of pointing devices. Explain one practical scenario where a trackpad is more convenient than a standard mouse.
+
+Scenario Q: A television station records and stores hundreds of hours of video content every week. The station also broadcasts live news and must archive old programmes for legal purposes. Describe the storage technologies most suitable for each task (live storage vs. long-term archiving), explain the characteristics of each, and justify your choices based on cost and reliability.
+
+-----------------------------------------------------------
+19. AHMAD MUSA KHAN
+-----------------------------------------------------------
+Short Q1: Define an actuator as an output device. Give one example of how actuators are used in an automated or industrial system, and explain one practical scenario where an actuator responds to computer instructions to perform a physical action.
+
+Short Q2: What is a camera as an input device? Define it and describe two practical applications — one in security systems and one in video conferencing — explaining how the camera feeds data into the computer system in each case.
+
+Scenario Q: A factory uses a fully automated production line where robots assemble products based on computer instructions. Sensors detect when parts arrive, cameras inspect product quality, and actuators move robotic arms. Explain how input devices, output devices, and computer-based systems work together in this factory. What would happen if the sensor system failed, and how could the factory minimise disruption?
+
+-----------------------------------------------------------
+20. HAFIZ MUHAMMAD NAVEED MUSHTAQ
+-----------------------------------------------------------
+Short Q1: Define an information system in medicine. Give one specific example (such as an Electronic Health Record system), and explain one practical way it improves patient care compared to paper-based records.
+
+Short Q2: What is a speaker as an output device? Define it and describe one practical scenario where computer-generated audio output from speakers is essential — for example, in navigation systems or accessibility tools for visually impaired users.
+
+Scenario Q: A pharmacy chain wants to implement a computer-based system where doctors send digital prescriptions directly to the pharmacy, the system checks for drug interactions automatically, and stock is updated whenever medicines are dispensed. Identify the type of system this is, describe how it would work step by step, and explain what could go wrong if the system had a software error — and how to prevent it.
+
+-----------------------------------------------------------
+21. DANISH ASLAM
+-----------------------------------------------------------
+Short Q1: Define the concept of ICT (Information and Communication Technology). Give two examples of how ICT has changed daily life for ordinary people, and explain one practical benefit it has brought to education.
+
+Short Q2: What is a fixed magnetic hard drive? Define it, describe its role as a storage device inside a desktop computer, and explain one practical reason why it is still used despite the rise of SSDs.
+
+Scenario Q: A city council wants to introduce a smart parking system. Drivers would enter a car park, sensors would detect free spaces, cameras would read number plates automatically, and a screen would direct drivers to the nearest free spot. Payments would be made via chip and PIN at exit. Identify all the input and output devices involved, explain how each works, and describe how the whole system functions as an integrated computer-based solution.
+
+-----------------------------------------------------------
+22. SYED SHOAIB RAZA
+-----------------------------------------------------------
+Short Q1: Define a booking system as a computer-based system. Give one example from the travel industry and explain one practical advantage it has over a telephone-based booking system.
+
+Short Q2: What is a DVD as an optical storage medium? Define it, explain one practical use case compared to a CD, and describe one situation where a DVD would still be preferred over downloading content online.
+
+Scenario Q: An online travel company allows users to search for flights, book hotels, and rent cars all through one website. Explain what type of computer-based system powers this service, describe what happens behind the scenes when a customer makes a booking, and identify the communication technologies that make it possible for millions of users to access the system simultaneously.
+
+-----------------------------------------------------------
+23. MUSKAN WAHEED
+-----------------------------------------------------------
+Short Q1: Define a recognition system. Give one example (such as facial recognition or fingerprint recognition), and explain one practical use in a security or access control environment.
+
+Short Q2: What is a Blu-ray disc? Define it and explain two characteristics that make it superior to a DVD for storing high-definition video content. Give one practical example of its use.
+
+Scenario Q: An international airport uses facial recognition at passport control, RFID chips in boarding passes, and satellite-based systems to track aircraft positions. Explain how each of these technologies functions as part of the airport's computer-based system. Describe what would happen if the facial recognition system gave incorrect results and how airport staff should respond.
+
+-----------------------------------------------------------
+24. AHMAD RAZA IFTIKHAR
+-----------------------------------------------------------
+Short Q1: Define ICT's role in the retail industry. Give two specific examples of computer-based tools used in modern retail shops, and explain how one of them has improved the customer shopping experience practically.
+
+Short Q2: What is magnetic tape as a storage device? Define it and describe one organisation (such as a national archive or large data centre) that would benefit most from using magnetic tape for data backup, explaining why.
+
+Scenario Q: A supermarket chain wants to introduce self-checkout machines. Customers would scan their own items using barcode readers, weigh products on digital scales, and pay using chip and PIN or contactless payment. Describe each input and output device in this self-checkout process, explain how data flows through the system, and discuss one security or fraud risk the supermarket must address.
+
+-----------------------------------------------------------
+25. ZAINAB
+-----------------------------------------------------------
+Short Q1: Define the role of communication technologies in connecting computer systems. Give two examples of communication technologies used in homes or offices, and explain one practical way they have changed how people work from home.
+
+Short Q2: What is a portable SSD? Define it and explain two practical advantages it has over a traditional portable magnetic hard drive. Give one example of a professional who would benefit most from using a portable SSD.
+
+Scenario Q: A news reporter is working in a remote area covering a natural disaster. She needs to record video footage, transfer files to her editor in another country, and receive instructions from her producer in real time. Identify the input and output devices she would use, describe the communication technologies that would allow her to work remotely, and explain what storage solution would be most reliable in a harsh physical environment.
+
+-----------------------------------------------------------
+26. MUHAMMAD ZOHAIB
+-----------------------------------------------------------
+Short Q1: Define the main components of a computer system. Name and briefly explain the role of three physical components that work together to process and display information.
+
+Short Q2: What is an OMR reader? Define it and give one specific example of its use in an educational exam context. Explain step by step how an OMR reader processes a multiple-choice answer sheet.
+
+Scenario Q: A large bank processes millions of transactions every day — from ATM withdrawals to online transfers to loan approvals. The bank's IT manager needs to decide between using mainframe computers or a network of desktop computers for this workload. Present the case for mainframes, explaining their characteristics and why they are better suited to this environment. Include reference to storage, processing power, and reliability.
+
+-----------------------------------------------------------
+27. AHMED RAZA
+-----------------------------------------------------------
+Short Q1: Define a portable magnetic hard drive. Give one practical use case for a portable hard drive (e.g., backing up personal files or transferring data between locations), and explain one risk associated with using portable magnetic storage compared to solid-state storage.
+
+Short Q2: What is a 3D printer as an output device? Define it and give one example of its use outside of medicine, such as in manufacturing or education. Explain one practical limitation of 3D printing for mass production.
+
+Scenario Q: A car manufacturer wants to redesign its production process. Engineers will design car parts using computer software, prototype parts will be tested using 3D-printed models, and the final assembly line will use sensors and actuators to automate production. Describe the role of computers at each stage of this process, identify the input and output devices involved, and explain how this approach reduces costs and time compared to traditional manufacturing.
+
+-----------------------------------------------------------
+28. MUHAMMAD SABEEH
+-----------------------------------------------------------
+Short Q1: Define a computer-based system. Give two examples from different industries (e.g., healthcare and banking), and explain one common feature that all computer-based systems share.
+
+Short Q2: What is a monitor as an output device? Define it and compare two types of monitors (e.g., LCD and OLED) in terms of one practical advantage each. Give one example of a profession where monitor quality significantly affects work output.
+
+Scenario Q: A school district wants to introduce an online examination system where students log in from home, answer questions displayed on screen, submit answers digitally, and receive results automatically. Identify all the input and output devices students would need, describe the software and communication technologies required, and explain two risks of holding exams online and how they could be managed.
+
+-----------------------------------------------------------
+29. MUHAMMAD SHAHZAD
+-----------------------------------------------------------
+Short Q1: Define the role of computers in medicine beyond information systems. Give one specific example of how 3D printers are used in surgical planning or prosthetic production, and explain one practical benefit for patients.
+
+Short Q2: What is a chip and PIN reader versus a magnetic stripe reader? Define both briefly and explain one practical security advantage that chip and PIN technology offers over magnetic stripe technology.
+
+Scenario Q: A children's hospital wants to implement a system where patient data is entered once at reception, automatically shared with the treating doctor, used by the pharmacy to prepare medication, and stored securely for future visits. Explain how data flows through this system from start to end, identify all the input devices and storage types involved, and describe one risk to patient safety if the system experiences a data error.
+
+-----------------------------------------------------------
+30. MUNEEBA IKRAM
+-----------------------------------------------------------
+Short Q1: Define the difference between hardware and software in a computer system. Give one example of each and explain how they depend on each other to perform a practical task, such as printing a document.
+
+Short Q2: What is a CD as an optical storage medium? Define it, explain its storage capacity limitation, and give one practical example of a modern use case where CDs are still used despite the availability of USB drives.
+
+Scenario Q: A music school wants to record student performances, store the recordings securely, allow students to access their recordings from home, and use software to analyse their playing technique. Describe the input devices needed for recording, the storage solution for saving performances, the communication technology for remote access, and the type of software used for analysis. Explain how all these components form a complete computer-based system.
+
+-----------------------------------------------------------
+31. FATIMA SALEEM
+-----------------------------------------------------------
+Short Q1: Define an expert system. Explain how it mimics human expertise and give one practical example of an expert system used in agriculture or weather forecasting, describing how it helps non-experts make better decisions.
+
+Short Q2: What is a numeric keypad as an input device? Define it and describe one practical scenario — such as data entry in accounting or ATM use — where a numeric keypad is more efficient than a full keyboard.
+
+Scenario Q: A government tax department wants to introduce a digital system where citizens file their tax returns online, the system automatically checks for errors, calculates the tax owed, and flags suspicious entries for review by a human officer. Identify the type of computer-based system involved, describe how it would process data step by step, and explain what could go wrong if the automated checking system made an error — and how the department should handle it.
+
+-----------------------------------------------------------
+32. SUMAIQA MANSOOR
+-----------------------------------------------------------
+Short Q1: Define satellite systems as computer-based systems. Give two examples of satellite-based services used in everyday life (e.g., GPS and weather forecasting), and explain one practical way satellite data improves decision-making in a specific industry.
+
+Short Q2: What is a portable magnetic hard drive? Define it and explain one scenario where using a portable hard drive for data transfer is more practical than sending files over the internet, particularly in areas with slow or unreliable internet connections.
+
+Scenario Q: A coast guard service uses satellite systems to monitor ships at sea, detect distress signals, and coordinate rescue operations. Explain how satellite systems work as part of this computer-based setup. Describe what other technologies (communication, input/output devices) would be used by coast guard officers, and explain what would happen if the satellite signal was lost during an active rescue and how officers should respond.
+
+-----------------------------------------------------------
+33. EMAAN SHAHID
+-----------------------------------------------------------
+Short Q1: Define ICT's role in banking. Give two specific examples of banking applications powered by ICT, and explain one practical risk that banks must manage when offering digital banking services.
+
+Short Q2: What is a laser printer? Define it and compare it to an inkjet printer in terms of running cost and print speed for high-volume tasks. Give one example of a business that would choose a laser printer and explain why.
+
+Scenario Q: A school library wants to automate its book borrowing system. Students would scan their library card (using a barcode reader or RFID), search for books on a touch screen, and the system would automatically update which books are borrowed or returned. Overdue notices would be sent by email. Describe all the input and output devices involved, explain what type of storage the system would need, and identify what computer-based system would manage the whole library process.
+
+-----------------------------------------------------------
+34. ABEERA SOHAIL
+-----------------------------------------------------------
+Short Q1: Define a mainframe computer. Explain two specific characteristics that make mainframes suitable for processing large volumes of data simultaneously, and give one real-world example of an institution that relies on mainframes.
+
+Short Q2: What is a 3D printer as an output device? Define it and describe one specific example of how 3D printing is used in architecture or construction. Explain one practical advantage over traditional physical model-making.
+
+Scenario Q: An e-commerce company handles thousands of product orders every minute during a sale event. Orders come in through the website, stock levels are checked automatically, payments are processed instantly, and shipping labels are printed in the warehouse. Identify the computer-based systems, input and output devices, and communication technologies involved at each stage of this process. Explain what might happen if the payment processing system crashed during a peak sale period and how the company could recover.
+
+-----------------------------------------------------------
+35. MUALADAQ
+-----------------------------------------------------------
+Short Q1: Define ICT's role in education. Give two specific examples of how ICT tools are used in a modern classroom, and explain one practical challenge that schools face when introducing ICT for the first time.
+
+Short Q2: What is a fixed SSD (Solid-State Drive)? Define it and explain two differences between an SSD and a traditional magnetic hard drive in terms of speed, durability, and noise. Give one practical example of a device that uses a fixed SSD.
+
+Scenario Q: A remote mountain community has no roads but has recently received satellite internet access. Local residents want to use ICT to access government services (ID registration, benefits applications), medical consultations, and education. Describe which computer-based systems, input/output devices, and communication technologies would make each of these services possible. Explain one challenge unique to this remote setting and how ICT can overcome it.
+
+-----------------------------------------------------------
+36. AROOJ JAMIL
+-----------------------------------------------------------
+Short Q1: Define a computer-based system. Using the example of a banking application, explain the three core stages — input, processing, and output — describing what happens at each stage when a customer withdraws money from an ATM.
+
+Short Q2: What is a document scanner? Define it and describe one practical use in a legal or medical office where scanning physical documents into digital form provides a significant advantage. Explain how scanned files are typically stored.
+
+Scenario Q: A city hospital has just received funding to upgrade from paper records to a fully digital patient management system. Nurses will use tablets to enter patient observations, doctors will access records from any computer in the hospital, and prescriptions will be sent digitally to the pharmacy. Describe all the input and output devices involved, explain what type of network and communication technology connects these devices, and identify one serious risk if patient data is not securely protected.
+
+-----------------------------------------------------------
+37. SHAHEEN FARI
+-----------------------------------------------------------
+Short Q1: Define the CPU and its three main components (ALU, Control Unit, and registers). Explain the practical role of one of these components using an example of a simple calculation performed by a computer.
+
+Short Q2: What is an RFID reader? Define it and explain one practical application in a school or workplace (such as access control or attendance tracking). Describe how RFID is different from a barcode system in terms of how it reads data.
+
+Scenario Q: A theme park wants to introduce wristbands with RFID chips for all visitors. The wristband would be used to enter the park, pay for food and rides, and collect on each visitor's favourite attractions for personalised recommendations at the end of the day. Explain how the RFID system would work at each touchpoint, identify what computer-based system would process and store this data, and describe one privacy concern visitors might have and how the park could address it.
+
+-----------------------------------------------------------
+38. MUHAMMAD ABDULLAH AMEEN
+-----------------------------------------------------------
+Short Q1: Define the concept of direct data entry. Give two examples of direct data entry devices (from the list: magnetic stripe reader, RFID, OMR, OCR, barcode reader, QR scanner), and explain one practical advantage of direct data entry over manual keyboard input.
+
+Short Q2: What is a portable solid-state drive (SSD)? Define it and explain one situation where a journalist or filmmaker would choose a portable SSD over cloud storage to transfer large video files, giving a practical reason based on speed or reliability.
+
+Scenario Q: A national examination board conducts exams for one million students every year. Answer sheets are collected and transported to marking centres. The board wants to introduce OMR technology to speed up marking. Describe how OMR would work for this exam, explain what happens to the data after it is scanned, identify the storage systems needed to manage one million student records, and suggest one backup system in case the OMR machines malfunction.
+
+-----------------------------------------------------------
+39. MUHAMMAD ABDULLAH
+-----------------------------------------------------------
+Short Q1: Define software in a computer system. Explain the difference between an operating system and an application program, and give one practical example of each that a student uses regularly.
+
+Short Q2: What is a joystick as an input device? Define it and describe one practical use beyond gaming — for example, in controlling drones, medical robots, or aircraft simulators. Explain why a joystick is more precise than a keyboard for that use.
+
+Scenario Q: A drone delivery company wants to use unmanned aerial vehicles (drones) to deliver medicine to remote villages. The drones are controlled by computer systems, navigate using GPS satellite data, have cameras to identify landing zones, and automatically avoid obstacles. Describe the input devices on the drone, the computer-based systems managing flight paths and obstacle avoidance, and the communication technologies connecting the drones to the control centre. What would happen if the GPS signal failed mid-flight, and how should the system respond?
+
+-----------------------------------------------------------
+40. UMAR MAQSOOD ALI JAVED
+-----------------------------------------------------------
+Short Q1: Define a recognition system. Give two specific examples of recognition systems (e.g., facial recognition and voice recognition), and explain one practical privacy concern raised by the widespread use of biometric recognition systems.
+
+Short Q2: What is cache memory? Define it and explain using a practical analogy (e.g., comparing it to a notepad you keep on your desk) how cache memory speeds up the CPU's performance during repetitive tasks.
+
+Scenario Q: A border control agency wants to use facial recognition and fingerprint scanning at all entry points to automatically verify travellers' identities against a national database. Describe how the recognition system would work from the moment a traveller approaches the scanner to when they are cleared to enter. Identify the input devices, storage systems, and processing systems involved. Discuss one ethical concern about using biometric data at borders and how the government could address it.
+
+-----------------------------------------------------------
+41. HUZAIFA YOUSAF
+-----------------------------------------------------------
+Short Q1: Define a laptop as a type of mobile computer. Explain two practical features that make laptops suitable for students who study both at home and at school, compared to a desktop computer.
+
+Short Q2: What is magnetic stripe technology on a bank card? Define it and describe the step-by-step process of what happens when a customer swipes their card at a payment terminal, from reading the data to approving the transaction.
+
+Scenario Q: A hospital's emergency department receives patients who are sometimes unconscious or unable to speak. Doctors need to access medical history instantly. A new system will use RFID chips in patient wristbands linked to a central medical database. Explain how the system would work from the patient's arrival to the doctor accessing their records. Identify the input devices, communication technologies, and storage systems involved. Discuss one risk of this system and how it could be managed.
+
+-----------------------------------------------------------
+42. SHARJEEL SADIQ
+-----------------------------------------------------------
+Short Q1: Define the role of ICT in expert systems. Explain how an expert system is built and trained, give one example from the finance or engineering industry, and describe one practical limitation of relying entirely on an expert system for critical decisions.
+
+Short Q2: What is a magnetic hard drive? Define it and describe how data is physically stored on its spinning platters. Give one practical disadvantage of magnetic hard drives compared to SSDs in terms of physical shock or movement.
+
+Scenario Q: A financial institution uses expert systems to automatically approve or reject loan applications based on a customer's credit history, income, and existing debts. Explain how this expert system would work step by step — from data input to decision output. Describe the storage systems needed for millions of customer records. Discuss one scenario where the expert system might make an unfair or incorrect decision, and explain how human oversight should be part of the process.
+
+-----------------------------------------------------------
+43. NOUMAN BAIG
+-----------------------------------------------------------
+Short Q1: Define the role of computers in the retail industry. Give two specific examples of how computers are used in a modern supermarket, and explain how one of these uses reduces human error or saves time for staff.
+
+Short Q2: What is a document camera or visualiser as an output-supporting input device? Define it and describe one practical use in a classroom where a teacher displays a physical book or object for the whole class using a projector.
+
+Scenario Q: A large supermarket chain wants to redesign its supply chain using ICT. Shelves will have RFID sensors that detect when stock is running low, automatic orders will be sent to the warehouse, deliveries will be tracked using satellite GPS, and staff will receive alerts on handheld devices. Describe how this automated supply chain system works from low-stock detection to delivery confirmation. Identify all the technologies involved and explain one potential problem if the RFID sensors give incorrect readings.
+
+-----------------------------------------------------------
+44. HUSNAIN ALI KHAN
+-----------------------------------------------------------
+Short Q1: Define ICT and explain its significance in transforming three different sectors of modern society. Choose three sectors from: healthcare, education, banking, retail, or transport — and give one specific ICT application in each.
+
+Short Q2: What is an optical disc drive? Define it and explain the differences in storage capacity between a CD (700MB), DVD (4.7GB single-layer), and Blu-ray disc (25GB single-layer). Give one practical example of a situation where each format would be the most appropriate choice.
+
+Scenario Q: A developing country wants to introduce e-government services so that citizens can apply for passports, pay taxes, register births and deaths, and access legal documents — all online. Describe the complete ICT infrastructure needed: the input devices citizens would use, the computer-based systems processing their requests, the storage systems for sensitive government data, and the communication technologies delivering services to remote rural areas. Identify two major challenges the government would face during implementation and suggest practical ICT-based solutions for each.
+
+===========================================================
+                        END OF DOCUMENT
+   Total Students: 44 | Questions per Student: 3 (2 Short + 1 Scenario)
+===========================================================
